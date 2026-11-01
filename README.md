@@ -16,8 +16,6 @@ src/train.py      training of one configuration on one cross-validation fold
 src/stats.py      metrics, lesion-clustered bootstrap CIs, McNemar (exact and clustered),
                   Holm / Benjamini-Hochberg, ECE, temperature scaling
 src/analyze.py    result tables from saved predictions
-scripts/          data preparation, ISIC metadata retrieval, de-duplication, calibration,
-                  latency profiling, Grad-CAM evaluation
 data_manifest/    split identifiers and ISIC Archive metadata
 ```
 
@@ -26,8 +24,7 @@ Images are not redistributed. The images are HAM10000 (Tschandl et al.,
 doi:10.7910/DVN/DBW86T) and the ISIC 2018 Task 3 test set. Labels and lesion
 groupings come from the official ISIC 2018 Task 3 files at
 `https://isic-archive.s3.amazonaws.com/challenges/2018/`. The ISIC Archive
-lesion identifiers come from `https://api.isic-archive.com/api/v2/images/<isic_id>/`
-(`scripts/fetch_isic_metadata.py`).
+lesion identifiers come from `https://api.isic-archive.com/api/v2/images/<isic_id>/`.
 
 `data_manifest/splits.csv` gives every HAM10000 image's lesion ID, its split
 (`dev` / `test`) and its cross-validation fold (0–4). The split is lesion-level:
@@ -37,11 +34,11 @@ are divided into 5 lesion-disjoint folds. `data_manifest/isic_test.csv` lists
 the 1512 labelled ISIC 2018 Task 3 test images.
 
 ## Usage
+`--data` is a directory containing `splits.csv` and `isic_test.csv` (from
+`data_manifest/`) and `img/<image_id>.jpg`, every HAM10000 and ISIC 2018 test
+image resized to 256×256.
 ```bash
 pip install -r requirements.txt
-python scripts/fetch_isic_metadata.py data_manifest/ids_all.txt data_manifest/isic_archive_metadata.csv
-python scripts/prepare_data.py --raw RAW_DIR --out data \
-       --archive_meta data_manifest/isic_archive_metadata.csv
 python src/vqc.py                                # checks PyTorch VQC == PennyLane VQC
 python src/train.py --config lq --fold 0 --lr 3e-4 --data data --out results/runs/lq/fold0
 python src/analyze.py --results results --data data
