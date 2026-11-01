@@ -1,0 +1,1513 @@
+image_id,dx,label,md5_mirror,archive_lesion_id,sex,age_approx,anatom_site,attribution
+ISIC_0034524,nv,0,997f317ffac30db3324fb88f05402fba,IL_8028413,female,40.0,Trunk,MILK study team
+ISIC_0034525,nv,0,9b5a0f5a4e1bd964d996090df521e7d3,IL_8912554,male,70.0,Trunk,MILK study team
+ISIC_0034526,bkl,2,20f652c5b375878d35bde815644fddf3,IL_6864775,male,70.0,Trunk,MILK study team
+ISIC_0034527,nv,0,b0efbaf7e4e65e15356620811134ca42,IL_5458422,male,35.0,Trunk,MILK study team
+ISIC_0034528,nv,0,0980ee36f8ac751ee67e9da9ad679194,IL_8946723,female,75.0,Trunk,MILK study team
+ISIC_0034529,mel,1,684a07ebbafae1d955d14c7528044886,IL_3513019,,,,MILK study team
+ISIC_0034530,nv,0,a28fe8b9fbc7123098b51aa5bca864ad,IL_8352903,male,45.0,Lower extremity,MILK study team
+ISIC_0034531,bkl,2,1cd72720c3bfab6cf1e56ca4b5cbb91e,IL_1477377,male,70.0,Trunk,MILK study team
+ISIC_0034532,nv,0,b7bc5bb62ce2914b9180f4e985347198,IL_7234784,female,40.0,Upper extremity,MILK study team
+ISIC_0034533,nv,0,8957a4af7ad8dcf8f53dca1a1055811c,IL_0713360,male,55.0,Trunk,MILK study team
+ISIC_0034534,nv,0,7b076be86bfd700c52ff5ff7156962ac,IL_5598970,male,45.0,Trunk,MILK study team
+ISIC_0034535,bkl,2,7649c5fb19785d9a328827262a3a08a6,IL_9369418,,,,MILK study team
+ISIC_0034536,akiec,4,7a4af1cc5070c40dc4cd46d9545386f7,IL_5921524,female,70.0,Head and neck,MILK study team
+ISIC_0034537,nv,0,1dac13591bad7268cf6d8656df75fcab,IL_4572790,female,45.0,Trunk,MILK study team
+ISIC_0034538,akiec,4,f65c414435779df79a8d6e3c4cbc3c9f,IL_4896087,male,50.0,Head and neck,MILK study team
+ISIC_0034539,bkl,2,1a49c9820d5f08e836d804c688ab9d5e,IL_5564856,male,75.0,Trunk,MILK study team
+ISIC_0034540,nv,0,755cbc1674039e28e285aae59efad08a,IL_0771130,,,,MILK study team
+ISIC_0034541,nv,0,97ab3fef19129829f3502d7e43a88a2c,IL_1761643,female,40.0,Lower extremity,MILK study team
+ISIC_0034542,bkl,2,794377f9e7832a0ba8d6f04134fa6526,IL_0343676,,,,MILK study team
+ISIC_0034543,nv,0,068e8a9ce487f1f8b7594d3a2965f990,IL_8794897,female,45.0,Trunk,MILK study team
+ISIC_0034544,nv,0,e8d083cb51e110f903cdad3160b3ed67,IL_0786469,female,20.0,Trunk,MILK study team
+ISIC_0034545,bcc,3,6fc778ffb5b853edca7b35ceef109401,IL_5643065,female,50.0,Upper extremity,MILK study team
+ISIC_0034546,bkl,2,d25a52d4fd79736979de3eb66cbd751f,IL_2002113,male,70.0,Trunk,MILK study team
+ISIC_0034547,bkl,2,e0cef4315cccf984c73b10c5651549ea,IL_7238806,male,85.0,Trunk,MILK study team
+ISIC_0034548,mel,1,29dddfd43bd3a129232a7623f7b586e7,IL_0064712,male,60.0,Head and neck,MILK study team
+ISIC_0034549,vasc,5,e1c1fd430e8174ae0a0b4dd472a93a99,IL_6097514,,,,MILK study team
+ISIC_0034551,nv,0,6a8a5f442a5736edc65f9ea07865d001,IL_1006068,male,45.0,Upper extremity,MILK study team
+ISIC_0034552,nv,0,a7c2b6242724dfe556316c3b249af528,IL_9199063,female,70.0,Trunk,MILK study team
+ISIC_0034553,nv,0,d3a26f5dbdd030da69f0cad44e32d3e7,IL_2842157,male,60.0,Trunk,MILK study team
+ISIC_0034554,bcc,3,625060fc5d1896f319d45fa8276c066d,IL_2986546,male,85.0,Trunk,MILK study team
+ISIC_0034555,vasc,5,4b96139c367ae4da322d3516aec92740,IL_8100813,male,75.0,Trunk,MILK study team
+ISIC_0034556,nv,0,e83ab21737b8659aff8f50d6d93d6453,IL_5782784,male,35.0,Trunk,MILK study team
+ISIC_0034557,nv,0,d5bf573a6d11f18d53206b46f7523d97,IL_9903509,female,40.0,Lower extremity,MILK study team
+ISIC_0034558,nv,0,9cbff3599f4c831e05797b399d05ae54,IL_5311695,female,55.0,Trunk,MILK study team
+ISIC_0034559,nv,0,5174fe652a27cd7c03ae0f1d0f221fe6,IL_5026919,female,50.0,Trunk,MILK study team
+ISIC_0034560,nv,0,e29c31143de78a0564d39ddc16a26fb6,IL_9630394,female,40.0,Lower extremity,MILK study team
+ISIC_0034561,bkl,2,4663a361cf4d3c4d6938c205811ea7b9,IL_4495226,male,65.0,Head and neck,MILK study team
+ISIC_0034562,nv,0,7b725eb619df21602dbfebed824aa9da,IL_7987816,female,40.0,Lower extremity,MILK study team
+ISIC_0034563,nv,0,8ed1d303705385d8bd300076db530152,IL_1349759,male,45.0,Trunk,MILK study team
+ISIC_0034564,nv,0,681bfd2eb89531c77cfd4b9cce2b0b0f,IL_7066222,female,45.0,Trunk,MILK study team
+ISIC_0034565,bcc,3,1c6db563a08877a7a0cf03742e07127b,IL_3102684,male,65.0,Trunk,MILK study team
+ISIC_0034566,nv,0,396bc0c70fe6553e0b54e424f5d62d8b,IL_0228020,female,45.0,Lower extremity,MILK study team
+ISIC_0034567,nv,0,ec4a9f785fc705f21652e2b549575d52,IL_3570548,male,45.0,Trunk,MILK study team
+ISIC_0034568,nv,0,2848636de1eb4b2fe94dc1dd4a5b811b,IL_3414422,male,50.0,Upper extremity,MILK study team
+ISIC_0034569,nv,0,214b9a02760ca209d970e9155461f1d3,IL_6253713,,,,MILK study team
+ISIC_0034570,bkl,2,2c2c01d396bcf0eb530ba75fd753b638,IL_3557128,female,75.0,Lower extremity,MILK study team
+ISIC_0034571,bkl,2,d2d98b190b4571e75451479b64cba8a8,IL_2140686,,,,MILK study team
+ISIC_0034572,mel,1,d27d6bec98aa98f1f52a213fd8a83abe,IL_7728515,male,55.0,Trunk,MILK study team
+ISIC_0034573,mel,1,f1d1e4253e7c1c15fcb3d17e497c126c,IL_2608936,,,,MILK study team
+ISIC_0034574,bkl,2,37a4f0b24078c87b142a9ce4f9b25cb4,IL_2229636,female,65.0,Trunk,MILK study team
+ISIC_0034575,bkl,2,d0d31fe944190b7713bd74c71b167e0f,IL_1093912,,,,MILK study team
+ISIC_0034576,nv,0,36f4a54cd8ca8ab2b0469024a50050d7,IL_3764797,female,45.0,Trunk,MILK study team
+ISIC_0034577,nv,0,7adfce4cd85f3cc3f3aaec810eaa56b6,IL_2163456,female,35.0,Lower extremity,MILK study team
+ISIC_0034578,bkl,2,5eb0a49ec5ab4b8bf9082d323e33bf08,IL_9094161,male,75.0,Trunk,MILK study team
+ISIC_0034579,akiec,4,2bb64dc07d2cf7b4b402a526c6ff19d9,IL_0850142,female,45.0,Upper extremity,MILK study team
+ISIC_0034580,nv,0,778b96b1c140fce7358657cf5c17d49a,IL_3536876,,25.0,,MILK study team
+ISIC_0034581,nv,0,406c87ffd92effd01c257a1c1700d5ed,IL_7996572,male,45.0,Lower extremity,MILK study team
+ISIC_0034582,nv,0,ed50b3b3e5afc3cf8656edb7b59324f3,IL_3121824,female,35.0,Upper extremity,MILK study team
+ISIC_0034583,nv,0,db2e4be69db3418ff42b7b3af85cddd6,IL_6528772,female,50.0,Lower extremity,MILK study team
+ISIC_0034584,mel,1,19bd4c1be507bf4c9b1abfd9c17e7bc8,IL_4528445,male,60.0,Trunk,MILK study team
+ISIC_0034585,akiec,4,e0d356cdbcfc565cf9d3d2eb755b2fe7,IL_0395327,male,65.0,Trunk,MILK study team
+ISIC_0034586,nv,0,3fc39e0f08aa80e685ecf564a6f19f1b,IL_4370701,female,25.0,Trunk,MILK study team
+ISIC_0034587,nv,0,32b8af635591767102f26018eff45785,IL_7091545,female,55.0,Trunk,MILK study team
+ISIC_0034588,bcc,3,8236c48821ef153746c4a90879c7f3c5,IL_9099494,male,80.0,Trunk,MILK study team
+ISIC_0034589,nv,0,a174d1caf60f5d9b71b932c5ce64c618,IL_1521391,male,45.0,Lower extremity,MILK study team
+ISIC_0034590,nv,0,392f6d380b1557e995e0716199d0682b,IL_2188746,female,55.0,Trunk,MILK study team
+ISIC_0034591,bkl,2,012f55f780b783406457f6c6b0753185,IL_3901287,female,70.0,Head and neck,MILK study team
+ISIC_0034592,nv,0,fd9caaa2612963486b32906e7513802f,IL_2808244,male,40.0,Trunk,MILK study team
+ISIC_0034593,nv,0,6f06a39f70ba62bec6622e0d4502c2cb,IL_5113316,male,35.0,Trunk,MILK study team
+ISIC_0034594,nv,0,13a9565ba9aa1cfac25125832fbe6039,IL_2191298,male,60.0,Lower extremity,MILK study team
+ISIC_0034595,mel,1,fe62b0475419eb35bbdb5069573e9892,IL_1837583,female,70.0,Upper extremity,MILK study team
+ISIC_0034596,bkl,2,3288f2172442e701251c4b44ac6f93e4,IL_5564856,male,75.0,Trunk,MILK study team
+ISIC_0034597,df,6,6565861906246cc701d4cac7e2041b5b,IL_0522964,female,60.0,Upper extremity,MILK study team
+ISIC_0034598,bcc,3,8c5764852d34e587076ed0ce328e3e56,IL_3377512,male,60.0,Trunk,MILK study team
+ISIC_0034599,nv,0,9291b0b01dd1cfd49ad1edd9d30e4b58,IL_9130306,female,,Lower extremity,MILK study team
+ISIC_0034600,nv,0,504df1fd22bb0208518b09aef2bb2665,IL_8502285,male,40.0,Lower extremity,MILK study team
+ISIC_0034601,nv,0,258ee819110670a4f562929e63bc0f79,IL_9945266,female,50.0,Trunk,MILK study team
+ISIC_0034602,nv,0,3c588e8fef966f1805d6cbaab70a193f,IL_2786826,male,55.0,Trunk,MILK study team
+ISIC_0034603,nv,0,ed396ee8d8884a6c15808782820fcfe9,IL_2590250,female,25.0,Upper extremity,MILK study team
+ISIC_0034604,nv,0,ef3616dc47c81edc546dd10561433b6c,IL_9967672,male,65.0,Trunk,MILK study team
+ISIC_0034605,mel,1,5aa13e4d8152680c5817716f66bb9a0d,IL_1313133,male,75.0,Trunk,MILK study team
+ISIC_0034606,bcc,3,0e8462735711cf7af1db01d82af47a61,IL_9842802,,,,MILK study team
+ISIC_0034607,nv,0,6915804a97d156aa9a9da2f31578a090,IL_4237905,female,40.0,Lower extremity,MILK study team
+ISIC_0034608,vasc,5,6fa42c65e230691d70254bc9a8b1f89a,IL_1461675,male,55.0,Trunk,MILK study team
+ISIC_0034609,nv,0,2c50571dee9d4dd6614f08ab4487a384,IL_1979873,male,20.0,Head and neck,MILK study team
+ISIC_0034610,nv,0,e6ae88bcc9b18edae56c696035e4a6a2,IL_2274336,female,55.0,Lower extremity,MILK study team
+ISIC_0034611,nv,0,e0eae408495528b17e89680a6d7435cc,IL_4000091,male,25.0,Trunk,MILK study team
+ISIC_0034612,bcc,3,3358be045cb97b006042823146307fbd,IL_4674217,female,55.0,Head and neck,MILK study team
+ISIC_0034613,nv,0,353cc8bfd735b6558f345454efd9ee1e,IL_1954678,,,,MILK study team
+ISIC_0034614,bkl,2,6e9c7b060eb693c016446569bd0a866b,IL_9409153,female,70.0,Head and neck,MILK study team
+ISIC_0034615,bkl,2,c068602e6ffafbbf4079dc3070960166,IL_1131460,male,80.0,Head and neck,MILK study team
+ISIC_0034616,nv,0,14175fd1fd8d2ca6258e8c8f0284a2be,IL_7661279,female,65.0,Lower extremity,MILK study team
+ISIC_0034617,nv,0,505b32b8905dd22e72088a47dca277a4,IL_8739695,female,45.0,Trunk,MILK study team
+ISIC_0034618,bkl,2,cb2b662cbc90a287caa9b7ad3e5a7ca7,IL_5600403,male,55.0,Head and neck,MILK study team
+ISIC_0034619,nv,0,9a0938101aa80a8dd77c2d9cc91f9c08,IL_4029744,female,40.0,Upper extremity,MILK study team
+ISIC_0034620,nv,0,14892902c3d88237b4192dc0d2c37371,IL_8751116,male,45.0,Lower extremity,MILK study team
+ISIC_0034621,nv,0,8792ff09a27aea0b936d07e71fce6710,IL_7585854,male,30.0,Trunk,MILK study team
+ISIC_0034622,bkl,2,40521f1cc87f0b30468f163d01f1df84,IL_8027060,,,,MILK study team
+ISIC_0034623,nv,0,54d7208beea05b58fc083679fc14171c,IL_1594599,male,45.0,Lower extremity,MILK study team
+ISIC_0034624,nv,0,e05400676d596c1ca8fe19ca26a52b87,IL_7001712,male,40.0,Upper extremity,MILK study team
+ISIC_0034625,nv,0,5f23c32ec86c2352a0584dfd0caaa006,IL_8637077,female,35.0,Trunk,MILK study team
+ISIC_0034626,nv,0,eb9612b05ef1abbadf80affa6ec7d4fc,IL_1936271,male,45.0,Lower extremity,MILK study team
+ISIC_0034627,nv,0,089c2d263fe07b44edb3ac2557995d30,IL_1029171,female,25.0,Trunk,MILK study team
+ISIC_0034628,mel,1,39a51c5f32223cfa340e7d130e04d3ce,IL_6545358,male,75.0,Trunk,MILK study team
+ISIC_0034629,nv,0,bd62d446820a1af9261e9e9d23fdae80,IL_8040347,male,45.0,Trunk,MILK study team
+ISIC_0034630,mel,1,1f3f12dce5fd5b0a3e9fae1e664d52df,IL_1546321,female,50.0,Lower extremity,MILK study team
+ISIC_0034631,bkl,2,d22c9f4559a77e0974a7923e9f2991c5,IL_7563140,,,,MILK study team
+ISIC_0034632,nv,0,e4da42bcebd10a521ea2cb6041c627cb,IL_9436775,female,65.0,Lower extremity,MILK study team
+ISIC_0034633,mel,1,35b06d92a57a8ae87dafa5975b8dd1cf,IL_7650222,male,50.0,Trunk,MILK study team
+ISIC_0034634,nv,0,54317d703bb2049064843831fc6ff3fe,IL_5214806,male,55.0,Trunk,MILK study team
+ISIC_0034635,nv,0,5328c48da5f5bfad94c0db2e2b7d5123,IL_5493940,male,50.0,Head and neck,MILK study team
+ISIC_0034636,nv,0,5e60dd885a5922dd0054a50864bd7613,IL_3005516,female,45.0,Trunk,MILK study team
+ISIC_0034637,nv,0,0ab98e200ffd827a3552b9c4738e7d5c,IL_8299961,female,30.0,Upper extremity,MILK study team
+ISIC_0034638,mel,1,274d0e6bb76f7e2b7da25c037fffd320,IL_4073821,female,70.0,Head and neck,MILK study team
+ISIC_0034639,nv,0,2dc509c7250f81a97a7f01fe320f2b8f,IL_0516815,male,40.0,Upper extremity,MILK study team
+ISIC_0034640,nv,0,6acf2267900602e0f6d76aa1eecb278b,IL_2757577,female,40.0,Trunk,MILK study team
+ISIC_0034641,nv,0,c3c83a5e494fe671aab942a48778fa71,IL_7561443,female,45.0,Trunk,MILK study team
+ISIC_0034642,df,6,9e1305a45352d424b2a9049135f0aa0e,IL_3121697,,,,MILK study team
+ISIC_0034643,nv,0,995142a6f03b998fa57cb0bbf318cfce,IL_3525940,male,55.0,Lower extremity,MILK study team
+ISIC_0034644,mel,1,334484ede7917317a3f5488b3d322ab8,IL_4516882,male,60.0,Trunk,MILK study team
+ISIC_0034645,nv,0,17629cf03df86a37fdb397ffc43851a2,IL_2121633,male,60.0,Trunk,MILK study team
+ISIC_0034646,bkl,2,2cdba86817b4e117357e7cdce8254aea,IL_0615215,,,,MILK study team
+ISIC_0034648,nv,0,5df5087c6d2d1ac948e56447d7bbf9c4,IL_6221296,female,55.0,Lower extremity,MILK study team
+ISIC_0034649,nv,0,bdd1c12475a25297a0b383cee9a3abac,IL_1222471,female,30.0,Trunk,MILK study team
+ISIC_0034650,mel,1,8f80bf99859e3c6c6d6a6c215c2d6a88,IL_0780092,,,,MILK study team
+ISIC_0034651,bkl,2,1fa9842184463daa65f4b015a3ebf4c6,IL_5303410,,,,MILK study team
+ISIC_0034652,bkl,2,8f663f66e0798410111dff490786704b,IL_6360675,,,,MILK study team
+ISIC_0034653,nv,0,8f4ecded522e3cd4d23d9487cd7cd73a,IL_9066864,male,55.0,Trunk,MILK study team
+ISIC_0034654,nv,0,d246e98fa8a8eea0d09f6ae347eaa283,IL_3541585,male,40.0,Trunk,MILK study team
+ISIC_0034655,mel,1,88e0edfc01b2f16d3ed15cc249709a9d,IL_3239422,male,45.0,Upper extremity,MILK study team
+ISIC_0034656,bkl,2,29dc2325a22b8be4d2e3676eacef18e8,IL_7268945,female,50.0,Upper extremity,MILK study team
+ISIC_0034657,mel,1,91271a2d25a3299029dae429c3b376a0,IL_4528445,male,60.0,Trunk,MILK study team
+ISIC_0034658,nv,0,9ef99fd1140f5f59517f784cfb6660cb,IL_6894668,female,55.0,Trunk,MILK study team
+ISIC_0034659,nv,0,6b401608cbc161902fec2a5ea110fac6,IL_6167629,male,45.0,Trunk,MILK study team
+ISIC_0034660,nv,0,6350610eed802a4212c81432b3205f85,IL_7668373,female,55.0,Lower extremity,MILK study team
+ISIC_0034661,nv,0,059b243556992eb444db2f705da32828,IL_3339713,male,60.0,Trunk,MILK study team
+ISIC_0034662,nv,0,9bf2567782868faa586995f41b98c12d,IL_4302469,female,35.0,Lower extremity,MILK study team
+ISIC_0034663,bkl,2,aab2421a408d98545c1b96b4f6c37a8c,IL_5107600,,,,MILK study team
+ISIC_0034664,nv,0,3d66ee66df98c16f7572c5643fb46a09,IL_7888052,male,35.0,Trunk,MILK study team
+ISIC_0034665,nv,0,3a4983181b6d8d1ffae619a5dad6adc8,IL_5755193,female,45.0,Upper extremity,MILK study team
+ISIC_0034666,df,6,9383ccf29a17344a47c207d0ef04a014,IL_7048697,male,40.0,Upper extremity,MILK study team
+ISIC_0034667,nv,0,9c8174e84f27e800b52aa4c953f8a717,IL_2607114,male,65.0,Lower extremity,MILK study team
+ISIC_0034668,nv,0,9caec8c53ef061aabd7db6e51b30de60,IL_3154109,female,45.0,Lower extremity,MILK study team
+ISIC_0034669,akiec,4,a413607a2c14dd136595e30895835685,IL_7137686,male,70.0,Upper extremity,MILK study team
+ISIC_0034670,nv,0,35a6f742f78fea38414839c3cfdba66b,IL_8739695,female,45.0,Trunk,MILK study team
+ISIC_0034671,nv,0,5f69e330eda52f6d6567ae3c371076ba,IL_7606225,female,60.0,Trunk,MILK study team
+ISIC_0034672,nv,0,4b41eefb68bbfe18c035980aeb5b8e1b,IL_4445923,male,55.0,Trunk,MILK study team
+ISIC_0034674,nv,0,71502f7f98ac7bdb0d8d6e53e39640c2,IL_9470829,,,,MILK study team
+ISIC_0034675,bkl,2,f627ddc36d0b83a3194a45bb82284f1e,IL_6514289,female,30.0,Trunk,MILK study team
+ISIC_0034676,nv,0,841377649ccf5d9cff4f50ea073be30c,IL_6516769,male,5.0,Trunk,MILK study team
+ISIC_0034677,nv,0,0ec837b75d3bd3622c7547a0f85f4c47,IL_4304040,female,50.0,Trunk,MILK study team
+ISIC_0034678,nv,0,f815f4436b841019055e7fce5f9d1c25,IL_8320315,male,40.0,Trunk,MILK study team
+ISIC_0034679,bcc,3,5ae09bc9ab3a78c7f416116235a275e8,IL_2434282,male,55.0,Upper extremity,MILK study team
+ISIC_0034680,nv,0,39f5409f5ca7a8998c15cc96e5811d69,IL_6125556,female,60.0,Lower extremity,MILK study team
+ISIC_0034681,nv,0,c0ed7a5a7bf278a3a5c91a8c6e661494,IL_3225623,male,45.0,Lower extremity,MILK study team
+ISIC_0034682,bcc,3,fc3de83a6b308589f9bc176c077dd697,IL_3900247,female,75.0,Head and neck,MILK study team
+ISIC_0034683,nv,0,3b3578af58f6d81624f91566546130f9,IL_1447395,male,30.0,Trunk,MILK study team
+ISIC_0034684,bkl,2,95011ce140e6b8b4ba50d78a3c072ff5,IL_1007157,male,75.0,Lower extremity,MILK study team
+ISIC_0034685,bkl,2,555a16ab70a55a74012b4d3b7d005949,IL_7238806,male,85.0,Trunk,MILK study team
+ISIC_0034686,bkl,2,8e6df1e8a02bca8bf63a5bb517cc09e9,IL_5137194,female,60.0,Trunk,MILK study team
+ISIC_0034687,mel,1,de3a7a32b8858d61db41a04a05be1397,IL_9337983,female,55.0,Trunk,MILK study team
+ISIC_0034688,nv,0,43e3440cc1acd4394fee6ddf7f351180,IL_7877943,male,55.0,Trunk,MILK study team
+ISIC_0034689,nv,0,90e1da7f59c548fa8edf747249e0d01a,IL_8542925,female,45.0,Trunk,MILK study team
+ISIC_0034690,nv,0,f91e5fe6d16b26a52a3b7716feee3869,IL_1275088,male,,Lower extremity,MILK study team
+ISIC_0034691,bkl,2,31ce268ada54ac29be389e12c79b8200,IL_7309295,male,75.0,Trunk,MILK study team
+ISIC_0034692,bkl,2,9bbea8101f5e025e2bf1115d389ffe08,IL_2032424,male,70.0,Lower extremity,MILK study team
+ISIC_0034693,bkl,2,5b6d991b1be9bab5c303fa07ddb3c160,IL_1256212,,,,MILK study team
+ISIC_0034694,bkl,2,4e97336b154049e7e3a9a221a2a5a975,IL_1147507,,,,MILK study team
+ISIC_0034695,bcc,3,651902c18e6ef87c23c337aba15d456c,IL_2813379,male,70.0,Trunk,MILK study team
+ISIC_0034696,nv,0,16a18b06a723876f942d6cc87ce7b7a1,IL_6745058,female,50.0,Trunk,MILK study team
+ISIC_0034697,nv,0,9617b755e972c902e61f25e3ffccebcf,IL_5257225,female,25.0,Lower extremity,MILK study team
+ISIC_0034698,nv,0,6995d75e261ef28cc6864427a3348057,IL_1499980,male,45.0,Trunk,MILK study team
+ISIC_0034699,bcc,3,e7afca97bab383e8cb539631ba527b9b,IL_2813379,male,70.0,Trunk,MILK study team
+ISIC_0034700,nv,0,50634f220847b646244263c29f288ad0,IL_2273726,female,40.0,Lower extremity,MILK study team
+ISIC_0034701,nv,0,495cefade204aab9b2ed267080be550a,IL_4016450,male,45.0,Trunk,MILK study team
+ISIC_0034702,nv,0,21fe0ce7094e0b3909d5d360e2567e8d,IL_2913741,female,35.0,Head and neck,MILK study team
+ISIC_0034703,nv,0,f23b25a6dc3b7c100df2d8f8660107d8,IL_5077969,female,45.0,Upper extremity,MILK study team
+ISIC_0034704,nv,0,5a716c81df09f070bd6b99d334573211,IL_6668276,female,60.0,Trunk,MILK study team
+ISIC_0034705,nv,0,e3fb40757e5618ca84362bc4904396a7,IL_8035209,,,,MILK study team
+ISIC_0034706,bkl,2,5aacc392dcd730a0c3f0b2bc0b31be26,IL_4053642,male,55.0,Trunk,MILK study team
+ISIC_0034707,nv,0,5947d65694051e578be91a203492978e,IL_8416026,male,50.0,Trunk,MILK study team
+ISIC_0034708,nv,0,f5d98b6ad4fea8d8c22900e1caa09373,IL_1560516,male,35.0,Trunk,MILK study team
+ISIC_0034709,nv,0,768099b0cb4c81559e00b05e3a1ea6c6,IL_6674014,female,35.0,Trunk,MILK study team
+ISIC_0034710,bkl,2,e18a0dc56bbcdb9770023cccb5883787,IL_0655226,male,65.0,Trunk,MILK study team
+ISIC_0034711,bkl,2,12fd4060f06a78261db68bc583687d58,IL_5037957,female,60.0,Trunk,MILK study team
+ISIC_0034712,bcc,3,f4a048ae411f131ebf35c4e060288356,IL_4947005,female,60.0,Upper extremity,MILK study team
+ISIC_0034713,mel,1,82a1df0e5ff16534f44ef07c924d339a,IL_4121264,male,65.0,Trunk,MILK study team
+ISIC_0034714,mel,1,cf8c16ebd481db5e1632e2b99d43a287,IL_2678981,male,75.0,Trunk,MILK study team
+ISIC_0034715,nv,0,fcc71ee7a6c8dfade085a2f976562e40,IL_6783846,male,45.0,Upper extremity,MILK study team
+ISIC_0034716,nv,0,fff956a23aad49d61d59ce1d3cde5cd9,IL_8143345,female,30.0,Lower extremity,MILK study team
+ISIC_0034717,nv,0,e52dbf65ddfd6f90d908309d19285db2,IL_4541934,female,50.0,Trunk,MILK study team
+ISIC_0034718,nv,0,f98d6d5470200a7e51f2373e5d3b6db5,IL_9907419,male,20.0,Lower extremity,MILK study team
+ISIC_0034719,df,6,3aa136578b141d3d42101b900312828a,IL_9882126,female,40.0,Trunk,MILK study team
+ISIC_0034720,bkl,2,819b1bd6b03f23140e2f9871c7ff2276,IL_2696805,male,85.0,Head and neck,MILK study team
+ISIC_0034721,nv,0,f26514d8882ecba516b0fa57c9e49dee,IL_5599490,female,40.0,Lower extremity,MILK study team
+ISIC_0034722,nv,0,9a148b74261dc63d049f464c91197123,IL_8649948,male,35.0,Upper extremity,MILK study team
+ISIC_0034723,bkl,2,5a19b4db7db6c939d310e01947824c31,IL_5077877,female,65.0,Lower extremity,MILK study team
+ISIC_0034724,bkl,2,86c22b97284c61897fb26aec8e0c5e4f,IL_1633411,male,45.0,Upper extremity,MILK study team
+ISIC_0034725,nv,0,d090ce54c3e0accecb6069def40b9072,IL_5310552,male,55.0,Upper extremity,MILK study team
+ISIC_0034726,nv,0,aa86004a43c30ba850c838a55a850f0f,IL_5614287,male,5.0,Lower extremity,MILK study team
+ISIC_0034727,nv,0,f2745ae7c92c6d2cd63a24b01a25636b,IL_3708042,male,15.0,Trunk,MILK study team
+ISIC_0034728,nv,0,92e6225c1598edf6bfa8dfeb7f00c3b7,IL_5087748,female,45.0,Upper extremity,MILK study team
+ISIC_0034729,nv,0,faa76f48a1ea25948c883ec7287787f6,IL_0329045,female,55.0,Lower extremity,MILK study team
+ISIC_0034730,nv,0,57e0a355aceb9a8086347a158d6df0ec,IL_5705684,male,50.0,Trunk,MILK study team
+ISIC_0034731,nv,0,77adb38ba1be96b2cad719c880118315,IL_6935431,male,65.0,,MILK study team
+ISIC_0034732,nv,0,1b88f06ea79f710fb0669e129edb9a8a,IL_4572790,female,45.0,Trunk,MILK study team
+ISIC_0034733,akiec,4,64b372956d9b297468afd682195e9754,IL_7442149,male,50.0,Head and neck,MILK study team
+ISIC_0034734,vasc,5,72daf53e8129e8ca764850dccba99b46,IL_4087311,,,,MILK study team
+ISIC_0034735,nv,0,183c0999e400894d8b4f757dfab648ca,IL_9813387,male,40.0,Trunk,MILK study team
+ISIC_0034736,nv,0,bdf01ecf24b160be866ba36235adb2f3,IL_3339713,male,60.0,Trunk,MILK study team
+ISIC_0034737,mel,1,b154ef84b0a8ffa5bc73e9dd7cef78eb,IL_9216950,male,60.0,Trunk,MILK study team
+ISIC_0034738,nv,0,cc9daa096beae18a8e646b3a25281d7e,IL_3560608,female,45.0,Upper extremity,MILK study team
+ISIC_0034739,vasc,5,c5282a1693da8d6f0482acaf1d38f628,IL_8409854,female,50.0,Lower extremity,MILK study team
+ISIC_0034740,nv,0,9873cc738513fbfec403b20ed1934ad5,IL_9938978,male,55.0,Trunk,MILK study team
+ISIC_0034741,nv,0,a96fceaa5b48cab116bd317a1910b3e2,IL_5774377,male,40.0,Upper extremity,MILK study team
+ISIC_0034742,nv,0,fa56f2ce9a63634787754a8459252946,IL_1403751,female,50.0,Lower extremity,MILK study team
+ISIC_0034743,nv,0,9416dbac198856e08a2333cbf39a3fe4,IL_5083216,male,35.0,Lower extremity,MILK study team
+ISIC_0034744,nv,0,366683fd1a47305f47b8c319d36816d4,IL_8879050,female,45.0,Trunk,MILK study team
+ISIC_0034745,nv,0,995d8ecb33a235a771e08eb752e7cd89,IL_4982942,male,55.0,Lower extremity,MILK study team
+ISIC_0034746,bkl,2,ce68e61896b9da44f07d366ac5d10284,IL_2229636,female,65.0,Trunk,MILK study team
+ISIC_0034747,nv,0,3c16d0987e4fa1a2027cc74f26e92fa5,IL_4099538,female,45.0,Trunk,MILK study team
+ISIC_0034748,akiec,4,fe9dddc83e759dd96dfc5978b8cfe9d2,IL_2898474,female,80.0,Trunk,MILK study team
+ISIC_0034749,nv,0,baa96145f2e334ab6c0fcae5b5f80211,IL_5496093,female,65.0,Lower extremity,MILK study team
+ISIC_0034750,bkl,2,3b8ebd0577eb8c7f46c47262957e96b3,IL_8018773,male,75.0,Head and neck,MILK study team
+ISIC_0034751,bkl,2,7228d1f6ce4008d14447a064ec8298d2,IL_4644970,male,45.0,Upper extremity,MILK study team
+ISIC_0034752,nv,0,b86f70dae6e7ac5c337bcc46aa63f18b,IL_8636291,female,45.0,Trunk,MILK study team
+ISIC_0034753,akiec,4,1c0dae8305ff6e7999936d3ad3d9d7e5,IL_2576568,female,70.0,Head and neck,MILK study team
+ISIC_0034754,nv,0,52a5f658a89c19f975ee34aafe28e6f9,IL_6191913,male,65.0,Trunk,MILK study team
+ISIC_0034755,bkl,2,3aed37cf296efae981e043a0ff85bbd5,IL_9726035,male,70.0,Trunk,MILK study team
+ISIC_0034756,nv,0,f426feee8afeffcf05504171dfa0e0d1,IL_2088373,female,,Lower extremity,MILK study team
+ISIC_0034757,nv,0,3e0bfa7df002806ffb99c51a96f84bd3,IL_4106313,female,45.0,Lower extremity,MILK study team
+ISIC_0034758,bkl,2,d866324dc0933aa8c66317fca54d22de,IL_5885697,female,50.0,Lower extremity,MILK study team
+ISIC_0034759,bcc,3,13d0a4352183db37f568abefbc36e077,IL_6282376,male,80.0,Head and neck,MILK study team
+ISIC_0034760,bcc,3,12923c9da9230056b2af529982dee9fc,IL_5124282,male,70.0,Lower extremity,MILK study team
+ISIC_0034761,nv,0,1d680d6a2599d8b81825645db03c48f4,IL_1995387,female,45.0,Upper extremity,MILK study team
+ISIC_0034762,nv,0,e2d1ada2ddcdfb5b42f7e356a990baeb,IL_5495894,female,45.0,Lower extremity,MILK study team
+ISIC_0034763,nv,0,97461d70017d8b003da9e79ec06ad467,IL_6361173,male,35.0,Trunk,MILK study team
+ISIC_0034764,mel,1,ac1261adebc8c2dc8c574faa3ff06983,IL_5970634,male,85.0,Upper extremity,MILK study team
+ISIC_0034765,nv,0,c24f898b9c54bf48df516939bbfa0ccb,IL_5640257,,,,MILK study team
+ISIC_0034766,df,6,ee4462435c748499e5db9d206f1714a1,IL_5342804,,,,MILK study team
+ISIC_0034767,nv,0,4306872d73c552211ee5da8b29639b70,IL_7579827,male,40.0,Trunk,MILK study team
+ISIC_0034768,nv,0,7f29064a376d42abc3168df803dd2112,IL_6481943,male,40.0,Trunk,MILK study team
+ISIC_0034769,nv,0,ce08346fd2dd1d73835453884b56b009,IL_5010961,male,85.0,Trunk,MILK study team
+ISIC_0034770,bkl,2,05883ef8e65b3f7c640774da4ec7e42d,IL_8425669,male,50.0,Head and neck,MILK study team
+ISIC_0034771,mel,1,977ff45a40afe1b1b2b74d908d9ec6b6,IL_3767546,female,55.0,Trunk,MILK study team
+ISIC_0034772,nv,0,836c5331ea9ad4c1321d5d60819f559b,IL_3996185,male,55.0,Trunk,MILK study team
+ISIC_0034773,nv,0,824231e02a6ea91c12c1c9998e170f66,IL_5299695,male,60.0,Trunk,MILK study team
+ISIC_0034774,nv,0,ab3967303cb38a7fa2225de307ac4544,IL_0005012,female,45.0,Lower extremity,MILK study team
+ISIC_0034776,nv,0,f77127f6efbb0fe0d044ff4631aeee26,IL_3568865,female,75.0,Trunk,MILK study team
+ISIC_0034777,nv,0,98674b62d5442cdaab647e772466eb81,IL_7136558,male,45.0,Trunk,MILK study team
+ISIC_0034778,nv,0,33adf5b967c46a6b41206f06684a88ef,IL_1078531,female,45.0,,MILK study team
+ISIC_0034779,nv,0,fbc018292279700b7dd036c075b483a3,IL_6043713,male,50.0,Trunk,MILK study team
+ISIC_0034780,nv,0,35f3053658406cafd7032354bdd9fad4,IL_7571900,male,55.0,Trunk,MILK study team
+ISIC_0034781,nv,0,434f48aff3d5b80e46c8fe7074997b6a,IL_1242229,female,5.0,Head and neck,MILK study team
+ISIC_0034782,bkl,2,5d057cc1af809da88525581dc314e4b0,IL_0678150,female,55.0,Trunk,MILK study team
+ISIC_0034783,nv,0,3c9629b54756f8380a4bb3cf723ac4f2,IL_3209304,,,,MILK study team
+ISIC_0034784,mel,1,f2ac8376b5ba356b52a014f621d37bf9,IL_6086053,male,55.0,Trunk,MILK study team
+ISIC_0034785,bkl,2,1f443fae7718af001114155186ff4bec,IL_9726035,male,70.0,Trunk,MILK study team
+ISIC_0034786,nv,0,b9aba14a23c991dc3f4432bc2d044fbb,IL_6877500,male,65.0,Lower extremity,MILK study team
+ISIC_0034787,nv,0,79e6d787a72c15a041b87aa8194bbef8,IL_9744679,male,70.0,Lower extremity,MILK study team
+ISIC_0034788,nv,0,61ec42fadcac7fac86ed5791f2dc0858,IL_8754923,male,45.0,Trunk,MILK study team
+ISIC_0034789,nv,0,aaed114913f5b9d88f75b83aa66200ba,IL_0662515,male,35.0,Trunk,MILK study team
+ISIC_0034790,nv,0,e04188eafd7c7589a21a2c7428688612,IL_5722307,male,50.0,Trunk,MILK study team
+ISIC_0034791,nv,0,c5a03f2cdfa034d17b54332c5cd3c5a3,IL_5499419,female,65.0,Trunk,MILK study team
+ISIC_0034792,nv,0,70077ef121467b8c24e39f9ba4dea758,IL_0887241,female,65.0,Lower extremity,MILK study team
+ISIC_0034793,nv,0,f5ba09e71cf04cd1f076d04d9c3db0a2,IL_2591929,female,20.0,Upper extremity,MILK study team
+ISIC_0034794,bkl,2,2dba78923e0b334dc62c436ad2fc21b1,IL_2927575,female,75.0,Lower extremity,MILK study team
+ISIC_0034795,nv,0,f56c616ad3734064ffdd747376ce6ef4,IL_0278133,female,50.0,Trunk,MILK study team
+ISIC_0034797,nv,0,a5b4c7de6d646b93252cc9d287bf33cd,IL_5085635,male,75.0,Trunk,MILK study team
+ISIC_0034798,nv,0,9dd1ef1d82103e53e04647350863750f,IL_6481320,female,35.0,Trunk,MILK study team
+ISIC_0034800,nv,0,699e426d8632bf32a6a833be2ee7d533,IL_4394108,male,60.0,Lower extremity,MILK study team
+ISIC_0034801,nv,0,03a93912129f3585ad4f5c1f8b058adb,IL_0217179,female,45.0,Lower extremity,MILK study team
+ISIC_0034802,bkl,2,c5da786a4cdd228a4a61161cf5e07672,IL_3901287,female,70.0,Head and neck,MILK study team
+ISIC_0034803,nv,0,74928aa5b8f0710932ac9dfbe050358b,IL_2976595,male,65.0,Trunk,MILK study team
+ISIC_0034804,mel,1,7e77fc1b9cb6acee32a08fee85e2a7b6,IL_0823685,female,40.0,Trunk,MILK study team
+ISIC_0034805,vasc,5,3bf3194df70732b00be7aa33a496344b,IL_3375515,,,,MILK study team
+ISIC_0034806,nv,0,a6415e80ce64a0ac22b74402db4c7230,IL_7134084,female,30.0,Trunk,MILK study team
+ISIC_0034807,nv,0,818828f8efd6d57c5de110ea14281869,IL_9367587,female,55.0,Trunk,MILK study team
+ISIC_0034808,nv,0,4f4871be756a9c21d0f7a0346a1e6284,IL_8497650,male,65.0,Lower extremity,MILK study team
+ISIC_0034809,nv,0,e5ceae7e02fd382581527e54203b23fc,IL_3206428,male,70.0,Trunk,MILK study team
+ISIC_0034810,nv,0,2f4e28225b4e8b3a065a009804dc5b0c,IL_9169778,male,35.0,Trunk,MILK study team
+ISIC_0034811,nv,0,3e4bf1e832f3bfd3bd656e2ccd0bcc96,IL_0533297,male,40.0,Trunk,MILK study team
+ISIC_0034812,bkl,2,8f114da24ff3aca190c52d79e69d00fc,IL_6989746,male,50.0,Trunk,MILK study team
+ISIC_0034813,nv,0,e7922a8fb2d810bb06c7f39a38768a2e,IL_0630515,male,25.0,Trunk,MILK study team
+ISIC_0034814,vasc,5,60e6b7a0a8fdfbcdfd733b11b9ea082f,IL_1602876,,,,MILK study team
+ISIC_0034815,nv,0,bbc1736079caaecaa64de0390fe31642,IL_8113008,male,35.0,Upper extremity,MILK study team
+ISIC_0034816,nv,0,8c592bacee4b2978b0a26917bf520674,IL_3093523,female,50.0,Upper extremity,MILK study team
+ISIC_0034817,mel,1,5361bc075cf187b02d70eb491f660637,IL_5185336,,,,MILK study team
+ISIC_0034818,nv,0,b4effc4fba0fea821afc3cdc118edc2b,IL_2198978,female,45.0,Trunk,MILK study team
+ISIC_0034819,mel,1,79518124858e5c57d7b43eaef2351b49,IL_0753093,,,,MILK study team
+ISIC_0034820,df,6,3e923bedf5ed9cdcbc1f824489e9dc17,IL_2544980,,,,MILK study team
+ISIC_0034821,nv,0,730c618a75eefa54a101896c575efc0d,IL_6225180,female,40.0,Trunk,MILK study team
+ISIC_0034822,vasc,5,651882012b556c911e4425a930e318c8,IL_5437959,female,40.0,Lower extremity,MILK study team
+ISIC_0034823,nv,0,380fafca9bdf5f38afe7abc89b144f47,IL_2929602,male,40.0,Lower extremity,MILK study team
+ISIC_0034824,nv,0,7b17863580433978d95cbf878a703d55,IL_0005158,female,35.0,Trunk,MILK study team
+ISIC_0034825,bkl,2,229be1100a6bc1f17ebd0a1113f35161,IL_1859047,male,55.0,Upper extremity,MILK study team
+ISIC_0034826,bkl,2,7b4c83cfc3d766ba9a9759a5f6e938d1,IL_8708488,female,45.0,Upper extremity,MILK study team
+ISIC_0034827,nv,0,480257642a737b7563432ad198d07b83,IL_0621746,male,45.0,Trunk,MILK study team
+ISIC_0034828,nv,0,1c22a67483bc1026fa8f962e58e01c0f,IL_7358459,male,50.0,Trunk,MILK study team
+ISIC_0034829,nv,0,217c49efeaca66c2fb577deded421917,IL_4547595,female,50.0,Lower extremity,MILK study team
+ISIC_0034830,nv,0,7c69012c28d47645547713d17ad0f6cd,IL_0890977,female,50.0,Trunk,MILK study team
+ISIC_0034831,nv,0,36a8aede13cf797f94406bcaa12cf892,IL_5225322,female,45.0,Trunk,MILK study team
+ISIC_0034832,nv,0,411b67ffeea83cd7a3b7f3eace6f8f61,IL_1029171,female,25.0,Trunk,MILK study team
+ISIC_0034833,bcc,3,51d9de19a45bd0882543651896b29469,IL_5643065,female,50.0,Upper extremity,MILK study team
+ISIC_0034834,nv,0,0cd65349d32787d12685998e037c6b6c,IL_7495123,female,50.0,Trunk,MILK study team
+ISIC_0034835,nv,0,34d76d65485977e5e4304e304aa7222c,IL_2051165,female,30.0,Trunk,MILK study team
+ISIC_0034836,nv,0,c7daf35fcea8be217157ec7c6009169a,IL_6935431,male,65.0,,MILK study team
+ISIC_0034837,nv,0,aeb64357be2f642d265db1248deb929c,IL_3589675,female,40.0,Upper extremity,MILK study team
+ISIC_0034838,nv,0,5136ec95cb5a10c7d3b2a1777de7aec2,IL_4003579,male,70.0,Trunk,MILK study team
+ISIC_0034839,nv,0,3b534b0e56396aa1ed5494329611f532,IL_7640502,,,,MILK study team
+ISIC_0034840,bkl,2,a12abfd98d22071bb3498946788d1b62,IL_5077877,female,65.0,Lower extremity,MILK study team
+ISIC_0034841,nv,0,a4b0cc44a695a471f7a3787a09f73fe2,IL_7503372,,,,MILK study team
+ISIC_0034842,bkl,2,80de9675fc3c91836ba2870628d448db,IL_9631358,male,80.0,Head and neck,MILK study team
+ISIC_0034843,nv,0,8d46a9b2bd9bc3e23710b79ee6da8156,IL_6721622,male,80.0,Trunk,MILK study team
+ISIC_0034844,nv,0,5b230a5f77e2bef42fdb622bfc80368a,IL_3896543,male,55.0,Trunk,MILK study team
+ISIC_0034845,nv,0,0af384f343e53927521051ad9ba09116,IL_0558734,female,65.0,Trunk,MILK study team
+ISIC_0034846,nv,0,def3a14e9574edd7dc48d07f542de6e1,IL_2771959,female,35.0,Trunk,MILK study team
+ISIC_0034847,nv,0,ce73acead3fcc9a7b0ec22769bed6e7a,IL_8520104,male,75.0,Lower extremity,MILK study team
+ISIC_0034848,nv,0,4d040e9967540db493210e764c25fe33,IL_7031495,male,45.0,Trunk,MILK study team
+ISIC_0034849,bkl,2,d58808092378b9a95ed5108cbdf2c22a,IL_5071249,male,80.0,Lower extremity,MILK study team
+ISIC_0034850,bkl,2,484e10ce883f5d67b275164b3984ff0c,IL_6632894,,,,MILK study team
+ISIC_0034851,nv,0,798ca094078615dc5e03bd453cccacd0,IL_0072160,female,55.0,Upper extremity,MILK study team
+ISIC_0034852,nv,0,d71d1a5cb43679c6f7bbdcf41680ba6d,IL_1462846,female,40.0,Trunk,MILK study team
+ISIC_0034853,nv,0,20015e33ca345a3210927a88da48cb61,IL_9264326,female,45.0,Trunk,MILK study team
+ISIC_0034854,nv,0,cb6a2d12680b9c65909716a56e9377d0,IL_5151630,female,45.0,Lower extremity,MILK study team
+ISIC_0034855,nv,0,488c3d656c10e1df50e4ddd35b2cb08d,IL_9623039,male,50.0,Trunk,MILK study team
+ISIC_0034856,nv,0,6db1a7c5fac9e380f16883a276b7d4a9,IL_0630515,male,25.0,Trunk,MILK study team
+ISIC_0034857,nv,0,388f6c2d91e96d9870e7a0e4de0aeb83,IL_4765862,male,45.0,Trunk,MILK study team
+ISIC_0034858,vasc,5,7aa93feb56dd91ae223bfadea869fa4c,IL_7095935,,,,MILK study team
+ISIC_0034859,mel,1,598de854e8a1f404dcaa158150d8064c,IL_2212308,female,65.0,Head and neck,MILK study team
+ISIC_0034860,nv,0,2c70b2e8224174f53f8514498c206b34,IL_4585286,female,50.0,Lower extremity,MILK study team
+ISIC_0034861,nv,0,448d688d8c1ed077c56a0ec6cb1b6637,IL_4734157,female,40.0,Trunk,MILK study team
+ISIC_0034862,nv,0,4ca1ea7641f01feb1dcb4d6d13db7d1e,IL_7796849,male,55.0,Trunk,MILK study team
+ISIC_0034863,mel,1,65a4854fdb372fa03c48665a65b80fcf,IL_5442046,male,70.0,Upper extremity,MILK study team
+ISIC_0034864,nv,0,14f651494160d0b2654d1d618702d486,IL_5591308,male,50.0,Upper extremity,MILK study team
+ISIC_0034865,nv,0,71098ddd009cf30db9c47594f61b7540,IL_6117362,male,50.0,Trunk,MILK study team
+ISIC_0034866,nv,0,bfa042da7a8bb88396d5e5e612c6a786,IL_8062604,male,70.0,Trunk,MILK study team
+ISIC_0034867,nv,0,4d31858999fb411012b7f748f69a3c02,IL_5339778,male,40.0,Trunk,MILK study team
+ISIC_0034868,nv,0,4cd3154637958141808f51c880131f53,IL_9461014,male,50.0,Lower extremity,MILK study team
+ISIC_0034869,nv,0,739d62d7dd290385ca1310946e10909f,IL_0545291,female,45.0,Trunk,MILK study team
+ISIC_0034870,akiec,4,574e2c25abfc1b24d37df5227a53046b,IL_7063370,male,80.0,Upper extremity,MILK study team
+ISIC_0034871,mel,1,15c9de9365baea7d10d2eacc4399c790,IL_6086053,male,55.0,Trunk,MILK study team
+ISIC_0034872,nv,0,22b5029bcf9270b5ee6307717470e79d,IL_4179032,female,45.0,Upper extremity,MILK study team
+ISIC_0034873,mel,1,8b763d306c5a30bb2638df3d414e0cee,IL_5749197,female,45.0,Upper extremity,MILK study team
+ISIC_0034874,mel,1,7debe4554b616867cf5fef3285850a9d,IL_5430315,female,70.0,Head and neck,MILK study team
+ISIC_0034875,mel,1,eb7d70e569511eb8e78270fcd9988e34,IL_3147182,male,55.0,Upper extremity,MILK study team
+ISIC_0034876,df,6,3e806afbfc3b47c7892dfe4f0d6ea2e9,IL_6825230,,,,MILK study team
+ISIC_0034877,nv,0,c4eb1fd9b30e54725c69cfa4ba3a878d,IL_3954404,male,40.0,Trunk,MILK study team
+ISIC_0034878,nv,0,1030d322bef67798f7171e23b2de78cf,IL_6388709,female,35.0,Upper extremity,MILK study team
+ISIC_0034879,bcc,3,2f53e7a0cd83cfaf88171d2db2a5a9c3,IL_2986546,male,85.0,Trunk,MILK study team
+ISIC_0034880,nv,0,07fef871310fd23984e1e8b9845ef4cd,IL_7938821,male,50.0,Trunk,MILK study team
+ISIC_0034881,nv,0,11702fb135126cd30dc34ac5f111df75,IL_2948214,male,30.0,Trunk,MILK study team
+ISIC_0034882,mel,1,9c541a07cb0d9517f26b5bd1a24f74a7,IL_1005678,female,60.0,Lower extremity,MILK study team
+ISIC_0034883,nv,0,36db339d7ed784758aaea3f5336b81d2,IL_6640578,male,70.0,Trunk,MILK study team
+ISIC_0034884,nv,0,57a57dbf88186a2d4bb28c6df2711b6b,IL_4541934,female,50.0,Trunk,MILK study team
+ISIC_0034885,nv,0,15d9efb63ab0861bf90c7b9f173cc5b1,IL_5290673,male,10.0,Trunk,MILK study team
+ISIC_0034886,nv,0,ebc7f6b7a20ea4449cd4d4c49b1a5af6,IL_9678101,female,45.0,Lower extremity,MILK study team
+ISIC_0034887,vasc,5,572e03e2ba14a240850e141332c680e8,IL_8237629,male,55.0,Trunk,MILK study team
+ISIC_0034888,bcc,3,c9494c60463c4493e306b201165a2f59,IL_2180169,female,55.0,Trunk,MILK study team
+ISIC_0034889,nv,0,8c3d00ffa262de25e15c8b6a6272974e,IL_1242229,female,5.0,Head and neck,MILK study team
+ISIC_0034890,nv,0,059dbb57256e8061b80e597290cd6282,IL_5509220,male,45.0,Lower extremity,MILK study team
+ISIC_0034891,bcc,3,758444567b46ae3bf9fb50f7db3b5b7a,IL_1875445,male,60.0,Trunk,MILK study team
+ISIC_0034892,nv,0,09a912a6a39a09d7554aa421978b4238,IL_2057357,male,45.0,Trunk,MILK study team
+ISIC_0034893,nv,0,f9c02e02a0beef6021535e588234b256,IL_0645208,female,45.0,Upper extremity,MILK study team
+ISIC_0034894,nv,0,875de2bbe3c12eb61ede2bb637480652,IL_9857090,male,5.0,Trunk,MILK study team
+ISIC_0034895,mel,1,83213e13b335fbf89622e37b30b3d527,IL_2448655,male,40.0,Upper extremity,MILK study team
+ISIC_0034896,vasc,5,f0892c1a70a5f4c5afa7d64b12163c8c,IL_1203745,,,,MILK study team
+ISIC_0034897,nv,0,6e366d14268aae31dd5de1daf3a64d03,IL_3012594,female,65.0,Trunk,MILK study team
+ISIC_0034898,akiec,4,efbde31324ee7e5698890466403b878b,IL_3518663,male,80.0,Head and neck,MILK study team
+ISIC_0034899,bcc,3,129955da5663467c07fd38d5cbe58251,IL_7806688,,,,MILK study team
+ISIC_0034900,nv,0,474eb1c032619e8637118c16b412460b,IL_9211390,female,45.0,Upper extremity,MILK study team
+ISIC_0034901,nv,0,70a973bc47ff7ef23387d621f5b82cac,IL_9109267,female,45.0,Lower extremity,MILK study team
+ISIC_0034902,nv,0,b5dc2281eae65e06a5994f6e95275235,IL_0587235,male,70.0,Trunk,MILK study team
+ISIC_0034903,nv,0,044deb81d7fa7fe943225f77e7e033ff,IL_8040949,female,20.0,Trunk,MILK study team
+ISIC_0034904,mel,1,0296d6a386929d3fe6dc91dfce453f38,IL_1782487,female,40.0,Trunk,MILK study team
+ISIC_0034905,vasc,5,4a8d4652cee512d1eec77b27b5455663,IL_1689239,,,,MILK study team
+ISIC_0034906,akiec,4,eccd9cffcfb1888705328f0d7c909e3d,IL_2957489,male,70.0,Trunk,MILK study team
+ISIC_0034907,nv,0,37249cfb4b129e77972ce114cfc6a52a,IL_7748792,male,25.0,Trunk,MILK study team
+ISIC_0034908,nv,0,511f00f2cdd9b00e4ca273c4decd112d,IL_4302750,male,55.0,Trunk,MILK study team
+ISIC_0034909,nv,0,e145fc5907c0bed25975bade6da084c7,IL_0564891,female,40.0,Lower extremity,MILK study team
+ISIC_0034910,bcc,3,1ab766d5b2afec53556f55d2bc3226fa,IL_0168507,,,,MILK study team
+ISIC_0034911,vasc,5,119ccb018e14a0ab8f667b786165b63c,IL_2475134,male,50.0,Trunk,MILK study team
+ISIC_0034912,nv,0,6b8593136b916ddb137b1583042b031b,IL_8767859,male,45.0,Trunk,MILK study team
+ISIC_0034913,nv,0,e9b1d541c2fc686f0e10283c71192215,IL_0099081,female,55.0,Trunk,MILK study team
+ISIC_0034914,bkl,2,a248d9da4bc03fc94b8c6de5073572b3,IL_5885697,female,50.0,Lower extremity,MILK study team
+ISIC_0034915,bkl,2,ade3e6b30a0a90ce62346da5e5bbbe2b,IL_2039866,female,60.0,Trunk,MILK study team
+ISIC_0034916,nv,0,ccb31fc3818975cc98d1c4f6fda9616f,IL_3115279,male,40.0,Lower extremity,MILK study team
+ISIC_0034917,nv,0,77df24d0f3b43d6154f9ab4598775990,IL_3068915,male,80.0,Trunk,MILK study team
+ISIC_0034918,mel,1,68c48b859811c0835b65c29d98ebccc7,IL_4528445,male,60.0,Trunk,MILK study team
+ISIC_0034919,nv,0,f18f6f82ac0375aec4e97b8e9b5d155d,IL_0262495,female,30.0,Trunk,MILK study team
+ISIC_0034920,nv,0,db7a8ffe8f2b4b9f0dd8d1d0850c7364,IL_4354662,female,25.0,Lower extremity,MILK study team
+ISIC_0034921,nv,0,45c3bbf57c77d139a632dcd0f2bcf131,IL_6260127,female,60.0,Lower extremity,MILK study team
+ISIC_0034922,nv,0,3441690e8f2b07bd4b6a6b343ece528c,IL_5807240,,,,MILK study team
+ISIC_0034923,nv,0,3d28b63bf1d38f445ad82b60aceb46d9,IL_0757666,male,60.0,Trunk,MILK study team
+ISIC_0034924,nv,0,af421025defd338d5f4ae9a2edb50f6f,IL_2090421,male,75.0,Lower extremity,MILK study team
+ISIC_0034925,nv,0,363df82c858a75bf74039d2478841bdb,IL_5705684,male,50.0,Trunk,MILK study team
+ISIC_0034926,mel,1,7d56ac39a4e538a6b97fb0dc273c99dd,IL_9231229,female,85.0,Lower extremity,MILK study team
+ISIC_0034927,nv,0,59bf09379ce591840f9f8edc932c7971,IL_6438416,male,50.0,Trunk,MILK study team
+ISIC_0034928,nv,0,08d63054c81823291d0bd8db9379f618,IL_8707248,female,40.0,Lower extremity,MILK study team
+ISIC_0034930,bkl,2,ee067d8244fccdac35b66d58788c81c7,IL_4875893,,,,MILK study team
+ISIC_0034931,bkl,2,1362688a84355c66a96ec543ce103500,IL_2039866,female,60.0,Trunk,MILK study team
+ISIC_0034932,nv,0,ac84cb6811632c56534afb0cd0df48c9,IL_2143074,,,,MILK study team
+ISIC_0034933,nv,0,7f81ef5e5d4775d7a74064f5870e5a52,IL_8131381,female,40.0,Lower extremity,MILK study team
+ISIC_0034934,mel,1,27f0668ec1e261b599c1ecf0531ea0e1,IL_3233038,male,75.0,Head and neck,MILK study team
+ISIC_0034935,nv,0,80fe021b514d1b52778fb73be1748d24,IL_6162547,female,65.0,Upper extremity,MILK study team
+ISIC_0034936,bcc,3,a40ff8e5dbe02eb942d7c1e92e910651,IL_4525369,female,50.0,Trunk,MILK study team
+ISIC_0034937,vasc,5,b7b49c034c37447220ce5ccdcb06d417,IL_3039895,male,80.0,Head and neck,MILK study team
+ISIC_0034938,nv,0,d6bfb8d426539be2548ecd977a9ea1a5,IL_3221293,male,5.0,Trunk,MILK study team
+ISIC_0034939,bkl,2,eac881b9524e130c5fbfe2030f618cd2,IL_7296666,male,75.0,Head and neck,MILK study team
+ISIC_0034940,nv,0,e07f558a5a1f3122a74183e0a7163561,IL_6933343,female,45.0,Trunk,MILK study team
+ISIC_0034941,nv,0,cec21209e6cbcdd230bcc6adb9ff99e0,IL_1299127,female,50.0,Lower extremity,MILK study team
+ISIC_0034942,nv,0,9b2f2858cc3cdb131c594e18e657676b,IL_6921425,male,40.0,Lower extremity,MILK study team
+ISIC_0034943,nv,0,543284ee24cd78f6660f704a31267034,IL_0315190,female,45.0,Trunk,MILK study team
+ISIC_0034944,nv,0,db10fb2ad611fe9dcd6aa13170084959,IL_6656892,male,65.0,Upper extremity,MILK study team
+ISIC_0034945,nv,0,409c9d04e5191c881c086820e7f41a50,IL_1130607,male,50.0,Lower extremity,MILK study team
+ISIC_0034946,bcc,3,1842d0f2b6bfb43959bf89fd772dd651,IL_9331537,male,80.0,Trunk,MILK study team
+ISIC_0034947,nv,0,d6bbd7691f2870b9cc9842c71d409739,IL_8938348,female,40.0,Lower extremity,MILK study team
+ISIC_0034948,bkl,2,3c10af202053c6f17772532c0351d1e1,IL_6084719,male,75.0,Trunk,MILK study team
+ISIC_0034949,mel,1,1436da856e44df0ead7a1abf74f77054,IL_9997075,,,,MILK study team
+ISIC_0034950,nv,0,d71b78c35f72cf9b4e0c00c3aa638c7d,IL_4547893,female,50.0,Trunk,MILK study team
+ISIC_0034951,vasc,5,f0a374b762ba64e55ebbc1e6833120a1,IL_6378140,,,,MILK study team
+ISIC_0034952,bcc,3,c4885fb35bfdd26eee536acd963498a3,IL_9211884,male,85.0,Lower extremity,MILK study team
+ISIC_0034953,bkl,2,f7bee86f22f427fa1da2d6a9299878f2,IL_6801851,,,,MILK study team
+ISIC_0034954,vasc,5,8026f092ce10724b5a384d8bea054a9d,IL_4797377,female,55.0,Trunk,MILK study team
+ISIC_0034955,nv,0,9b3ab69660ccdb3e34d0901f53d1f104,IL_3967251,,,,MILK study team
+ISIC_0034956,nv,0,d90fdf39144d9d82568b7f727e99da24,IL_4938407,male,55.0,Trunk,MILK study team
+ISIC_0034957,mel,1,81685583d56be079b38c971e2ea7ca46,IL_3147182,male,55.0,Upper extremity,MILK study team
+ISIC_0034958,mel,1,d69a1825a3b8eb4e9bf981b59c25549f,IL_1841952,male,70.0,Trunk,MILK study team
+ISIC_0034959,mel,1,cbf66ce5f5e7b81615dff902ffc60ba4,IL_0424675,,,,MILK study team
+ISIC_0034960,bcc,3,97bb4bc71c51fee341852ee41e1180d5,IL_9398603,,,,MILK study team
+ISIC_0034961,akiec,4,16f392453eabed9460d6b2c4e3ff9c1e,IL_8287142,male,80.0,Trunk,MILK study team
+ISIC_0034962,nv,0,c98115f8d3b6e4ee85d93a4408fcf404,IL_7167602,male,30.0,Upper extremity,MILK study team
+ISIC_0034964,nv,0,b45080f2ece30bb4626253b50c10bce1,IL_6191913,male,65.0,Trunk,MILK study team
+ISIC_0034965,nv,0,648a0dd52d55e810a1ba77a03b6a1945,IL_0161011,female,40.0,Trunk,MILK study team
+ISIC_0034966,bcc,3,bbeb26d1d15f24c604a2cb1fd94377e6,IL_3102684,male,65.0,Trunk,MILK study team
+ISIC_0034967,nv,0,c24da8cab33350ef8238c41a083e7ee6,IL_7422132,male,50.0,Trunk,MILK study team
+ISIC_0034968,nv,0,0c8e776ccddc66bdde08d826a1151654,IL_2934078,male,60.0,Upper extremity,MILK study team
+ISIC_0034970,akiec,4,fb2ac9411da4514569799223e0eba266,IL_4147435,male,70.0,Lower extremity,MILK study team
+ISIC_0034971,mel,1,90f1739c254b94f45c688b822a53e2e6,IL_4522594,male,55.0,Trunk,MILK study team
+ISIC_0034972,bkl,2,0f2538d8c9dcf41a385c463370be2d82,IL_9330629,female,70.0,Trunk,MILK study team
+ISIC_0034973,nv,0,5023359231c666440744df90a463af85,IL_0220521,male,45.0,Trunk,MILK study team
+ISIC_0034974,nv,0,3738a2d052dd53f1810294ab6586c2fc,IL_6886177,male,40.0,Trunk,MILK study team
+ISIC_0034975,nv,0,ee44072d67b9e760a2c5a9a77284eceb,IL_7602477,female,55.0,Upper extremity,MILK study team
+ISIC_0034976,nv,0,04df5a74fb3e719156bf5ccacaa283e4,IL_6549693,female,65.0,Lower extremity,MILK study team
+ISIC_0034977,nv,0,a8fb9aa620752bdfd6549aabe469a20f,IL_7751467,female,60.0,Upper extremity,MILK study team
+ISIC_0034978,nv,0,cc39eff009440412b0d5a55c4d63cd23,IL_0447542,female,60.0,Lower extremity,MILK study team
+ISIC_0034979,nv,0,6d8371435aba196eee4974af9e196f91,IL_2260891,female,40.0,Trunk,MILK study team
+ISIC_0034980,bkl,2,0ae9f4323860644632e4e83c30a52be8,IL_3986012,male,50.0,Head and neck,MILK study team
+ISIC_0034982,akiec,4,efe92861d8ecb1b35c1ba644b62abf2a,IL_7606324,male,70.0,Lower extremity,MILK study team
+ISIC_0034983,nv,0,1bc1f6daa423a22454d0994230935343,IL_8793086,female,40.0,Upper extremity,MILK study team
+ISIC_0034984,nv,0,65beba7d23816b4e256fb8c10a281678,IL_4744249,male,60.0,Trunk,MILK study team
+ISIC_0034985,nv,0,b421280bd1d0d9be31b94a07bf90644a,IL_1531368,,,,MILK study team
+ISIC_0034986,nv,0,bbdba2844c5ffa52591bb7216870b6e5,IL_2872058,male,75.0,Lower extremity,MILK study team
+ISIC_0034987,bkl,2,931f55c0ea008aa3692f6372ec7698ce,IL_9088205,female,80.0,Head and neck,MILK study team
+ISIC_0034988,mel,1,734d32c1540218cf381af50babb09dff,IL_2678981,male,75.0,Trunk,MILK study team
+ISIC_0034989,nv,0,4c99fdaa74c0c0ec3a23826d8d6712fc,IL_6510645,male,45.0,Lower extremity,MILK study team
+ISIC_0034990,nv,0,b07499000d0ed875c5cabd8f38257010,IL_5377306,female,45.0,Trunk,MILK study team
+ISIC_0034991,nv,0,074030cf33acbd54edfe6068a5fe3636,IL_4335225,female,45.0,Lower extremity,MILK study team
+ISIC_0034992,nv,0,f445863dbef8f0c333578e711d0a4a94,IL_4967593,female,25.0,,MILK study team
+ISIC_0034993,bkl,2,b20ef9e99e9f234a4ffe47d7efdb2633,IL_9726035,male,70.0,Trunk,MILK study team
+ISIC_0034994,bkl,2,7287fb0e06222fc3da43533570646687,IL_9485859,male,50.0,Trunk,MILK study team
+ISIC_0034995,bcc,3,348207b5e2c1d1efff748baed8de489d,IL_9982982,,,,MILK study team
+ISIC_0034996,nv,0,977a83a954d8aec126377875d9915868,IL_4420927,female,5.0,Head and neck,MILK study team
+ISIC_0034997,bkl,2,e7367ade58211c6edaf295f2a11d3234,IL_2677945,,,,MILK study team
+ISIC_0034998,mel,1,9d84fe9fbf1cc077b4966b3789895a02,IL_8984570,male,60.0,Head and neck,MILK study team
+ISIC_0034999,bkl,2,4c725993c33d71f700c06ff4bed0a2ff,IL_4063324,,,,MILK study team
+ISIC_0035000,mel,1,7be37aa9e42800253969d5c0b9d3ace7,IL_5442046,male,70.0,Upper extremity,MILK study team
+ISIC_0035001,akiec,4,a635ccf3dbcec2c2752c489d3c5f0e2a,IL_2083161,male,55.0,Head and neck,MILK study team
+ISIC_0035002,nv,0,0753357e52b7f7a89c45d04bd63ee277,IL_0566950,female,60.0,Lower extremity,MILK study team
+ISIC_0035003,nv,0,258e0f6568a6ca8b946cfc8cbf983c56,IL_7040892,female,50.0,Lower extremity,MILK study team
+ISIC_0035004,bkl,2,1b5510e87cf6ef6111b5543d98c46bb3,IL_7008797,,,,MILK study team
+ISIC_0035005,nv,0,e82adc385a48b46a2df8db304b660e7e,IL_2248137,male,25.0,Upper extremity,MILK study team
+ISIC_0035006,nv,0,92210d8e34689f89eab042876b5f978a,IL_8184725,male,55.0,Trunk,MILK study team
+ISIC_0035007,nv,0,814505613bf2eea71ca650a81346d958,IL_4033933,female,25.0,Lower extremity,MILK study team
+ISIC_0035008,akiec,4,c9f7c4b1abf7346a4bcfc74c49906913,IL_7063370,male,80.0,Upper extremity,MILK study team
+ISIC_0035009,nv,0,07e74bd8bdb78ab5e89a0327106ad9e6,IL_2287318,male,35.0,Trunk,MILK study team
+ISIC_0035010,bkl,2,9b5c609c2f05b0cb66ea7c504ec01bc4,IL_2090108,female,80.0,Head and neck,MILK study team
+ISIC_0035011,nv,0,fa8cf6be5da57b47537e38e2839729e8,IL_0728125,female,40.0,Head and neck,MILK study team
+ISIC_0035012,df,6,373676500edf8e5072e21510685fe700,IL_8147293,,,,MILK study team
+ISIC_0035013,nv,0,ea1c252dcd93b595f422773d097e4189,IL_3590179,male,65.0,Trunk,MILK study team
+ISIC_0035014,nv,0,e76eac8109e65ef587c248e3e1bc8519,IL_6655896,male,40.0,Lower extremity,MILK study team
+ISIC_0035015,nv,0,dd9d1cee05ca305cdb219e2227d47279,IL_5359432,male,55.0,Upper extremity,MILK study team
+ISIC_0035016,nv,0,a320fee6a448ef62219e4ce3811b97c4,IL_7890613,female,35.0,Upper extremity,MILK study team
+ISIC_0035017,nv,0,90632bdbb2c0d26d6b15addc7c66fe35,IL_6776117,female,45.0,Trunk,MILK study team
+ISIC_0035018,bkl,2,2d8d8977a7adfcbaca265f6ac5bb547b,IL_8233809,female,80.0,Head and neck,MILK study team
+ISIC_0035019,nv,0,b492ea2acb5ff5b8b9b48bd3c5138870,IL_9807489,male,55.0,Lower extremity,MILK study team
+ISIC_0035020,nv,0,b5411d94228cbc1088832d10a7c4d0d6,IL_6898593,male,55.0,Trunk,MILK study team
+ISIC_0035021,mel,1,fb55d39c0f45b0be0f13c8d4eadc9e48,IL_9800917,male,35.0,Trunk,MILK study team
+ISIC_0035022,nv,0,fb8fef1d20809099ab28aca14f715b33,IL_7562106,female,65.0,Trunk,MILK study team
+ISIC_0035023,nv,0,379ba8e73e314dc19b63bc14c612de38,IL_6656892,male,65.0,Upper extremity,MILK study team
+ISIC_0035024,nv,0,bbe3ceb4d605ae2e5d5a1061d7b68abf,IL_0701481,male,50.0,Anogenital region,MILK study team
+ISIC_0035025,nv,0,44cc11b7cc366744c35a80c8e19a83ff,IL_7844320,male,45.0,Trunk,MILK study team
+ISIC_0035026,bcc,3,b9af03f6c5169cf6b40c2e80f1b3e24c,IL_3102684,male,65.0,Trunk,MILK study team
+ISIC_0035027,nv,0,01e5936beeb253d749d68a8e1adcf6d6,IL_0492429,female,55.0,Lower extremity,MILK study team
+ISIC_0035028,bkl,2,51a7df8b9ca204e705fca83c7a6ce5cf,IL_5589745,male,70.0,Lower extremity,MILK study team
+ISIC_0035029,akiec,4,ccdffa4b37509957001111f3c4cf71a5,IL_3933094,female,85.0,Head and neck,MILK study team
+ISIC_0035030,nv,0,034fd2b50873acbe9b2457adad3f02da,IL_9678029,female,55.0,Trunk,MILK study team
+ISIC_0035031,nv,0,0f518df3c4b0d6650f88f328f8d98a44,IL_9070568,male,80.0,Trunk,MILK study team
+ISIC_0035032,bkl,2,e46b2b7fb1bfd58d8e6ab3c06cf04226,IL_1387993,male,65.0,Trunk,MILK study team
+ISIC_0035033,bcc,3,77098d8c0c03cffe9c8713d3a7d003d1,IL_3881916,male,75.0,Head and neck,MILK study team
+ISIC_0035034,nv,0,aeedfa06aabeff4401d2a4f6ad009cc1,IL_0976936,male,35.0,Trunk,MILK study team
+ISIC_0035035,bkl,2,0746479f2b2f36924072c03ddd5d34f5,IL_6383420,female,55.0,Trunk,MILK study team
+ISIC_0035036,nv,0,5654d7d2d9f512dd1ca788f0c1d4aa6e,IL_7546900,male,45.0,Lower extremity,MILK study team
+ISIC_0035037,bkl,2,1cbc4919bfca7b75c2920d2e32a18791,IL_6341208,female,65.0,Trunk,MILK study team
+ISIC_0035038,nv,0,f85a02e32d1489d13d35fd37130398da,IL_2590250,female,25.0,Upper extremity,MILK study team
+ISIC_0035039,bkl,2,6d020d5eb74d9086073493357150e052,IL_2090108,female,80.0,Head and neck,MILK study team
+ISIC_0035040,bkl,2,3f79554de0bba4ea52dddd64fd884bd0,IL_8018773,male,75.0,Head and neck,MILK study team
+ISIC_0035041,bcc,3,b76d3d0beb7d8e51bb7be84e05cd63a7,IL_9688897,male,75.0,Upper extremity,MILK study team
+ISIC_0035042,df,6,ab60ba5f14d10ec2d6c23c67eec672f4,IL_1632410,,,,MILK study team
+ISIC_0035043,bkl,2,8eb6dcefac89bd3f234fa07c641b7c79,IL_4765630,male,75.0,Lower extremity,MILK study team
+ISIC_0035044,nv,0,c1cba9199600e0ddb07291cb6ff7515e,IL_3035506,female,10.0,Head and neck,MILK study team
+ISIC_0035045,nv,0,74b25536fb8f1bb3d4bc4674bf975954,IL_2730149,female,35.0,Trunk,MILK study team
+ISIC_0035046,nv,0,4cfe9e953d698b9706b146c30c0cb441,IL_9149489,female,70.0,Upper extremity,MILK study team
+ISIC_0035047,mel,1,f2df961128f2ecbe6f5d876ca4cff6b9,IL_1837583,female,70.0,Upper extremity,MILK study team
+ISIC_0035048,mel,1,36c62fc6f2befbcdcbf7ce40bec57a3a,IL_4464714,female,55.0,Head and neck,MILK study team
+ISIC_0035049,nv,0,1cc4eb19a4a3b15499258ba2bd6b980a,IL_2760586,female,50.0,Lower extremity,MILK study team
+ISIC_0035050,nv,0,98a8c3219dd6e3208ccd635771616425,IL_7809328,male,65.0,Trunk,MILK study team
+ISIC_0035051,nv,0,9c63dd0e1fd7e47ec8228f3dbb4f6fee,IL_9851831,female,35.0,Trunk,MILK study team
+ISIC_0035052,nv,0,66c1ba9abcd68367402d8e3d280af068,IL_1632485,male,55.0,Upper extremity,MILK study team
+ISIC_0035053,nv,0,a2a7ce590e5766e6825190a63d6c15a1,IL_2649211,female,55.0,Trunk,MILK study team
+ISIC_0035054,df,6,d95b1e446702f122f39a99b9778e435a,IL_4334477,,,,MILK study team
+ISIC_0035055,nv,0,a58ea14a2311a6deb05b2eb6c8872132,IL_1230461,,,,MILK study team
+ISIC_0035056,nv,0,24e7e2cead36177d1f3975f139446213,IL_3065284,female,45.0,Trunk,MILK study team
+ISIC_0035057,bkl,2,775844d3d88d335c2e3cb12c8862910e,IL_8233809,female,80.0,Head and neck,MILK study team
+ISIC_0035058,nv,0,4feb6f720d1062365b5211c65e5d599b,IL_1861045,,,,MILK study team
+ISIC_0035059,nv,0,4a6d836676a721dd33f54180b9fd5b04,IL_5898084,male,35.0,Trunk,MILK study team
+ISIC_0035060,nv,0,756709ed922e74b483ff18dcd1d18901,IL_5353321,female,65.0,Trunk,MILK study team
+ISIC_0035061,nv,0,9a1e7254b3c6a070fa01830521022848,IL_7121500,male,80.0,Trunk,MILK study team
+ISIC_0035062,nv,0,0be377a8446285489d4456aa292db15c,IL_5316296,female,45.0,Trunk,MILK study team
+ISIC_0035063,nv,0,399f1a42389b52819a917121fb2b2438,IL_9109267,female,45.0,Lower extremity,MILK study team
+ISIC_0035064,df,6,1762c9e12565d7a10065302eacee8fce,IL_1247992,female,35.0,Lower extremity,MILK study team
+ISIC_0035065,nv,0,d4989c447b753e4f1fbaf448526419b2,IL_7266249,female,45.0,Trunk,MILK study team
+ISIC_0035066,nv,0,ee88cbcd7d2a38503b69c1d3b9386ccd,IL_6001565,male,45.0,Lower extremity,MILK study team
+ISIC_0035067,nv,0,4a4be2bd4c884d5d1d74ea6b1ae9dd79,IL_6524019,,,,MILK study team
+ISIC_0035068,nv,0,35dbaffe4c509abab69905b65d5575ec,IL_4972243,,,,MILK study team
+ISIC_0035070,mel,1,0f371e581f54c5dfd2b9a5ae82481aac,IL_3338490,female,35.0,Upper extremity,MILK study team
+ISIC_0035071,nv,0,4dca9402d1a70682bd223482f9b6bf25,IL_9255188,male,50.0,Trunk,MILK study team
+ISIC_0035072,bcc,3,62284c6c6086c12faf74fc341f7a165a,IL_2131051,male,75.0,Head and neck,MILK study team
+ISIC_0035073,nv,0,200e268850b4384c712bac7d866d36f5,IL_2475934,,,,MILK study team
+ISIC_0035074,nv,0,07d519ef135a873cf5e0114d6054a2bc,IL_9414608,female,40.0,Lower extremity,MILK study team
+ISIC_0035075,bkl,2,98d4cca6af0129671a23e53a0fc6f5b7,IL_7234712,male,5.0,Lower extremity,MILK study team
+ISIC_0035076,bkl,2,888ae9ea62538a0db47a5095173a8442,IL_0433785,male,45.0,Upper extremity,MILK study team
+ISIC_0035077,nv,0,616ec56c4d60d9ec6794d00397d7325d,IL_7555144,male,45.0,Lower extremity,MILK study team
+ISIC_0035078,akiec,4,785d8d7457fa040eff872dfd9e05ccb9,IL_2530651,male,50.0,Upper extremity,MILK study team
+ISIC_0035079,nv,0,8540d49a2c9119e76fa50eb835b6814b,IL_5226953,male,5.0,Head and neck,MILK study team
+ISIC_0035080,nv,0,4d3c455c23492a0b87345e7a60b7c41a,IL_2294933,male,70.0,Lower extremity,MILK study team
+ISIC_0035081,mel,1,15f8cbae656907c75210fe9973708da9,IL_9898337,female,60.0,Head and neck,MILK study team
+ISIC_0035082,nv,0,3d7e3ab568ceadddaf416c2bb1fddea9,IL_5170764,male,55.0,Trunk,MILK study team
+ISIC_0035083,nv,0,c39bd204b58cd658dbcd52e339e37554,IL_2010789,male,55.0,Trunk,MILK study team
+ISIC_0035084,nv,0,d8896befb7be41a25039302a10564b28,IL_0035306,male,60.0,Trunk,MILK study team
+ISIC_0035085,nv,0,572254f24c111ac3a16c2210c3b596bf,IL_4855453,,,,MILK study team
+ISIC_0035086,nv,0,0d97721cf545ccc14050598f79301812,IL_6079340,male,70.0,Lower extremity,MILK study team
+ISIC_0035087,nv,0,59977b64c6c495fa83e4a4e6a75ee429,IL_5873963,female,40.0,Lower extremity,MILK study team
+ISIC_0035088,nv,0,1ab92269bad732f7a7cc04f61496d4c2,IL_7822397,male,45.0,Trunk,MILK study team
+ISIC_0035089,mel,1,b44d02a1bf868f32fd858332de3f0bdb,IL_0568529,male,60.0,Trunk,MILK study team
+ISIC_0035090,mel,1,5b91c34d82e4bb28ee92043e1218e2fc,IL_0568529,male,60.0,Trunk,MILK study team
+ISIC_0035091,nv,0,f34dfdbffb91b2b9dc7f238ade9acc64,IL_8040347,male,45.0,Trunk,MILK study team
+ISIC_0035092,nv,0,01c353f5c03a1c1c350dc9e3cc152609,IL_4159524,male,65.0,Lower extremity,MILK study team
+ISIC_0035093,nv,0,097719a20ea946b184d9e367dd3841a4,IL_2475463,male,35.0,Trunk,MILK study team
+ISIC_0035094,nv,0,dd11c9b6971f501b7f092919d8ab656a,IL_2139791,female,35.0,Lower extremity,MILK study team
+ISIC_0035095,bkl,2,f03c4991bc1ca89e4c1eac244ddf6c73,IL_3537050,,,,MILK study team
+ISIC_0035096,nv,0,303691d6629b9c55a3366b05b938c9b2,IL_1927967,female,45.0,Trunk,MILK study team
+ISIC_0035097,nv,0,a8cba712480a5c85030d401bb92248d1,IL_4807547,female,40.0,Upper extremity,MILK study team
+ISIC_0035098,nv,0,d631a3b4000e196273403a73e7ea2cbd,IL_1607295,male,55.0,Lower extremity,MILK study team
+ISIC_0035099,mel,1,1cea8c1b93b91dedbd68e5d2389fa09b,IL_3934442,male,75.0,Trunk,MILK study team
+ISIC_0035100,nv,0,91dffbaee9b18df03263530997e2cfe5,IL_0637266,female,45.0,Lower extremity,MILK study team
+ISIC_0035101,nv,0,e855885fd670b8294101f6fc2a45e54e,IL_5493940,male,50.0,Head and neck,MILK study team
+ISIC_0035102,nv,0,e48084d62dbc3ee32c04b3d5a926215f,IL_9731144,female,55.0,Lower extremity,MILK study team
+ISIC_0035103,nv,0,113e8e7a0e19832c018a5d1f27577888,IL_5774808,male,70.0,Lower extremity,MILK study team
+ISIC_0035104,bkl,2,2cdec1d0ebf470126274bc53a13847c3,IL_0505895,male,75.0,Trunk,MILK study team
+ISIC_0035105,nv,0,cad7a0c61b35524c911fd9761205d2f4,IL_6528772,female,50.0,Lower extremity,MILK study team
+ISIC_0035106,bcc,3,7f678027bf4a36951b309b618492065a,IL_7005858,male,70.0,Trunk,MILK study team
+ISIC_0035107,nv,0,58db5fe6506cb4e103b5d202ac8b5db2,IL_3173468,female,55.0,Lower extremity,MILK study team
+ISIC_0035108,nv,0,47afef246893a2284669bbb49e5c9427,IL_3463691,male,55.0,Trunk,MILK study team
+ISIC_0035109,bkl,2,388dd2756ef6d54cdfe524ae8803a69e,IL_2039866,female,60.0,Trunk,MILK study team
+ISIC_0035110,bkl,2,cc08b5455635da99e4d0905fd5d78cc2,IL_7268945,female,50.0,Upper extremity,MILK study team
+ISIC_0035111,nv,0,16d95052f5f397b5cd308bb5aec7f928,IL_7885902,female,40.0,Lower extremity,MILK study team
+ISIC_0035112,bcc,3,e7b37f91665fc3c4f9288c9e51e3b26c,IL_0840862,male,65.0,Trunk,MILK study team
+ISIC_0035113,nv,0,bf9eeaecf2bd01d04ec73ba66f279892,IL_5584422,male,40.0,Upper extremity,MILK study team
+ISIC_0035114,nv,0,49dd0889f9945f74037b1c4f3040d311,IL_3903005,female,45.0,Trunk,MILK study team
+ISIC_0035115,bkl,2,a73fdca8bbe7e114feb300f7c9917d9e,IL_1728779,female,60.0,Lower extremity,MILK study team
+ISIC_0035116,nv,0,b78c99388dcb2f410c894153b2591b85,IL_2110108,female,35.0,Trunk,MILK study team
+ISIC_0035117,akiec,4,286da0a7dc9c16619e547f12e46861fb,IL_3933094,female,85.0,Head and neck,MILK study team
+ISIC_0035118,nv,0,4caf5c92e3862769d7ace67651b12055,IL_9176325,,,,MILK study team
+ISIC_0035119,akiec,4,ebb5b38927eac6c9514ffaa3eb20693d,IL_4896087,male,50.0,Head and neck,MILK study team
+ISIC_0035120,bcc,3,3944c3a2c96f0b66ef40ce064606bcd2,IL_2660318,male,50.0,Head and neck,MILK study team
+ISIC_0035121,nv,0,6d56ae98257236334cd530a7a588603a,IL_8659425,male,45.0,Trunk,MILK study team
+ISIC_0035122,nv,0,1382949b344ccac615f73454a154553d,IL_6449589,female,45.0,Upper extremity,MILK study team
+ISIC_0035123,nv,0,c7f5ed589575d418d30050149b5d1d8d,IL_5613576,male,55.0,Trunk,MILK study team
+ISIC_0035124,mel,1,dad1c1400cbff28b10b61568b591f400,IL_1005678,female,60.0,Lower extremity,MILK study team
+ISIC_0035125,bkl,2,bd445377fefdde083bee5b13b794fa96,IL_2096631,,,,MILK study team
+ISIC_0035126,nv,0,57f84055dc89ac450004eea4a34d327b,IL_5242459,male,60.0,Trunk,MILK study team
+ISIC_0035127,bkl,2,0ccf859afcacc4f83314e9e855f7a499,IL_9388309,male,70.0,Trunk,MILK study team
+ISIC_0035128,akiec,4,6c7fbe36cab31d8f2cd18d722cb47866,IL_5855051,male,80.0,Lower extremity,MILK study team
+ISIC_0035129,nv,0,755beb86e193b0769ab71762ae16fe40,IL_2591929,female,20.0,Upper extremity,MILK study team
+ISIC_0035130,mel,1,9315a7277c2c15bd99290e76f4ead147,IL_5251059,female,65.0,Lower extremity,MILK study team
+ISIC_0035131,bkl,2,afc76a1cd66a4a197e5398a7212bdef8,IL_9088205,female,80.0,Head and neck,MILK study team
+ISIC_0035132,nv,0,ab323a2c108b161d792f5db0bf8f26ee,IL_5290673,male,10.0,Trunk,MILK study team
+ISIC_0035133,nv,0,84a2b61273f3dca4f2e487b65b972649,IL_1181770,female,20.0,Trunk,MILK study team
+ISIC_0035134,nv,0,07731718100638a760df0b502011b21f,IL_3802540,female,50.0,Trunk,MILK study team
+ISIC_0035135,nv,0,4e708fcb85d91bd768addd0d1c3f2c92,IL_1648672,female,45.0,Upper extremity,MILK study team
+ISIC_0035136,bkl,2,2b7e49115dee963a761e11036a3ac056,IL_6514289,female,30.0,Trunk,MILK study team
+ISIC_0035137,nv,0,97346f5ab16003dd95d8716106a857c5,IL_4771826,female,35.0,Upper extremity,MILK study team
+ISIC_0035138,nv,0,4df89f052b99994c8c315adc13060fd3,IL_5486458,,,,MILK study team
+ISIC_0035139,mel,1,7b91e9afe250d098b8148aa44e4f44f8,IL_4516882,male,60.0,Trunk,MILK study team
+ISIC_0035140,nv,0,1a084e0337ef4c7ef9d854f6c72d2f1c,IL_5617204,female,45.0,Trunk,MILK study team
+ISIC_0035142,bkl,2,9d23e5c731560ecd3683c6a028fa2f2b,IL_5600403,male,55.0,Head and neck,MILK study team
+ISIC_0035143,nv,0,04368e6e15b6cfaf03f955eeb1b91f7f,IL_1270942,male,60.0,Trunk,MILK study team
+ISIC_0035144,nv,0,36dbe44169728c8643e3e22bf11433a1,IL_2811860,female,45.0,Lower extremity,MILK study team
+ISIC_0035145,nv,0,9b8e4dc60615f1887060b8156e54d520,IL_3169895,female,50.0,Trunk,MILK study team
+ISIC_0035146,nv,0,6090fc7433ce97328d9b0b639de063ed,IL_6117526,male,50.0,Trunk,MILK study team
+ISIC_0035147,df,6,bb7eaa2a7464005f6898e9f6f34ed6ce,IL_1941782,,,,MILK study team
+ISIC_0035148,nv,0,b1747f37fafe3c1f70b1728a3c2ced72,IL_9357311,,,,MILK study team
+ISIC_0035149,akiec,4,4667c7cad054a2d97e8522ae25ba351f,IL_9707992,female,85.0,Head and neck,MILK study team
+ISIC_0035150,nv,0,9aea67ad1df19e647e26c7b5c885fd7c,IL_7270207,male,25.0,Head and neck,MILK study team
+ISIC_0035151,bkl,2,307e878de9abb2121040d9d94bcb5b48,IL_5512390,,,,MILK study team
+ISIC_0035152,nv,0,feed0af4dd77f638b7f3535d251265da,IL_2399775,male,60.0,Trunk,MILK study team
+ISIC_0035153,nv,0,209c6a96faaa2614cdb86af6f519f7e3,IL_8550405,female,40.0,Trunk,MILK study team
+ISIC_0035154,bkl,2,9e0aafa8ff37662c4b808036fa973c26,IL_8741304,,,,MILK study team
+ISIC_0035155,bkl,2,b74b41256fe23b4cc3edb46f9650bc39,IL_5715719,,,,MILK study team
+ISIC_0035156,nv,0,516d80e9cc3e0307eb354e0c8da8c789,IL_1463984,female,55.0,Trunk,MILK study team
+ISIC_0035157,nv,0,3783aba2c59768b9918be2cee27f6ff1,IL_4472365,female,35.0,Lower extremity,MILK study team
+ISIC_0035158,nv,0,84239dd3015a30c2767513ceae2b98a5,IL_7699511,male,55.0,Anogenital region,MILK study team
+ISIC_0035160,nv,0,c0594ec25b50cd3afa2ad2f5045e07fc,IL_0334966,female,35.0,Trunk,MILK study team
+ISIC_0035161,nv,0,0667ee45bb8ce6d54e163f716444a648,IL_0878776,female,30.0,Upper extremity,MILK study team
+ISIC_0035162,nv,0,97f733c09b069e1e4ef3d2332897b123,IL_2198978,female,45.0,Trunk,MILK study team
+ISIC_0035163,bkl,2,c4490cdbebe0feb2c1b647c7d2d0f35e,IL_0285198,,,,MILK study team
+ISIC_0035164,nv,0,a8da0c14c374f50feaed6a77f9a6cc89,IL_4464091,male,55.0,Head and neck,MILK study team
+ISIC_0035165,nv,0,aa9aaced709506f54567f854d9e9743a,IL_4478736,female,35.0,Trunk,MILK study team
+ISIC_0035166,nv,0,b44ed7fb630ce1d2f25be80e9860917a,IL_1181770,female,20.0,Trunk,MILK study team
+ISIC_0035167,nv,0,05c87a1c569839019cc1b089aa30dbd5,IL_8597349,male,60.0,Trunk,MILK study team
+ISIC_0035168,bkl,2,75b905e3e0ddb555fa1f212af2953ee0,IL_7555243,male,75.0,Trunk,MILK study team
+ISIC_0035169,nv,0,efd95ce9b5837c5b87be376c713bedd3,IL_6416459,female,65.0,Trunk,MILK study team
+ISIC_0035170,nv,0,83ab753b6e0b902d59bc81f1398a1e54,IL_4157278,male,50.0,Lower extremity,MILK study team
+ISIC_0035171,bcc,3,fe79684fa24e561d27e8059f96054f2a,IL_0669624,,,,MILK study team
+ISIC_0035172,nv,0,324d93a96abaa5039c198a449865a279,IL_4782111,male,55.0,Lower extremity,MILK study team
+ISIC_0035173,nv,0,7583363becd86f337d961b08b6cb4372,IL_1071796,female,55.0,Trunk,MILK study team
+ISIC_0035175,nv,0,673bc06cf5527fee522fb09f28da5dbf,IL_3527871,female,55.0,Trunk,MILK study team
+ISIC_0035176,nv,0,21a08df02086ae6897a861302cacd912,IL_8665640,female,55.0,Trunk,MILK study team
+ISIC_0035177,mel,1,e71b96ecaa334ae916473d4984b9c302,IL_8580912,,,,MILK study team
+ISIC_0035178,nv,0,e94054b219196d12eac77318a581bf06,IL_2227407,male,35.0,Trunk,MILK study team
+ISIC_0035179,bkl,2,97b54727c0d05b6d1ac686e9e8a41d96,IL_7877670,female,80.0,Lower extremity,MILK study team
+ISIC_0035180,bkl,2,1d7e33329693b7f85bc527570e84d7bd,IL_0235070,,,,MILK study team
+ISIC_0035181,nv,0,5b52eae32edb7e3596efee388111ad2e,IL_0441945,female,50.0,Trunk,MILK study team
+ISIC_0035182,nv,0,f891a08d8285c1eb58c0c0b476b2dabf,IL_9953663,female,45.0,Lower extremity,MILK study team
+ISIC_0035184,nv,0,07b3a293309f5821734569a1ba137677,IL_7736132,male,35.0,Trunk,MILK study team
+ISIC_0035185,bkl,2,d5e967b24f9b8895235b56a788e5a544,IL_8024909,,,,MILK study team
+ISIC_0035186,nv,0,99652e17b2644eabf31f6a6d5690b5cb,IL_5908988,male,30.0,Trunk,MILK study team
+ISIC_0035187,nv,0,6758b8d2c95fddb80adbc4600fd839d8,IL_5857516,male,60.0,Lower extremity,MILK study team
+ISIC_0035188,nv,0,5d6e5ce836a1e4c28c0d2008c52d01e5,IL_8171383,female,55.0,Trunk,MILK study team
+ISIC_0035189,nv,0,91325129df3b1921dd556489c447cf7b,IL_8009436,female,50.0,Lower extremity,MILK study team
+ISIC_0035190,bkl,2,d94d9a61f029ed33c79e1869dc5a8b0f,IL_9094161,male,75.0,Trunk,MILK study team
+ISIC_0035191,nv,0,6cee82b0c9c5292b4def1364ccdf5f5d,IL_6473937,female,60.0,Upper extremity,MILK study team
+ISIC_0035192,nv,0,cd36b40a6e99e6411cacf145fe8a889b,IL_9408034,male,35.0,Upper extremity,MILK study team
+ISIC_0035193,nv,0,194268dd9f6e894cc4af857b7b3da839,IL_1742067,male,35.0,Trunk,MILK study team
+ISIC_0035194,vasc,5,e0b0cc32b0ca55b3f1fe962720f938e6,IL_7019190,,,,MILK study team
+ISIC_0035195,nv,0,a802cf52083e22e03f4f6c3b0d08bb2d,IL_1555951,female,40.0,Trunk,MILK study team
+ISIC_0035196,mel,1,5ad367c98c93a6c10f49204d11f00196,IL_7908446,,,,MILK study team
+ISIC_0035197,nv,0,5a3fd0fbc5316791253bbf3509b7ae2f,IL_3663671,male,25.0,Trunk,MILK study team
+ISIC_0035198,nv,0,66237ca580cad325a04c33bcf9f93806,IL_4315522,male,45.0,Trunk,MILK study team
+ISIC_0035199,nv,0,6d3b20087c91a022f0b608c15236a22e,IL_1135134,male,65.0,Head and neck,MILK study team
+ISIC_0035200,nv,0,e107203071d8693d5cbc4a0963323e41,IL_3440375,male,75.0,Trunk,MILK study team
+ISIC_0035201,nv,0,ef5ef457dae07eaff70737073a71dc86,IL_4365300,female,55.0,Lower extremity,MILK study team
+ISIC_0035202,bcc,3,86b03a8c288d38582d9a59750b3a728a,IL_9826667,male,45.0,Head and neck,MILK study team
+ISIC_0035204,nv,0,77cd92b6e7bcdf7d52dd1620527ff952,IL_3470303,female,65.0,Head and neck,MILK study team
+ISIC_0035205,nv,0,f76fee31e46dca2fcfc11b0bdbf55259,IL_8424607,male,40.0,Trunk,MILK study team
+ISIC_0035206,vasc,5,f0c4fa97ff73f63d9ffc495956fe5efe,IL_0088760,,,,MILK study team
+ISIC_0035207,mel,1,cf96688603557796d09698505c66be78,IL_0549668,female,60.0,Head and neck,MILK study team
+ISIC_0035208,nv,0,807958a54d97fb860569558f7a79a731,IL_5083758,female,50.0,Trunk,MILK study team
+ISIC_0035209,nv,0,d579eccb93823bfcec8199f905814fe9,IL_5774211,male,50.0,Trunk,MILK study team
+ISIC_0035210,akiec,4,ce624b07cad3263882d2af125d83a7e5,IL_7280767,female,70.0,Lower extremity,MILK study team
+ISIC_0035211,nv,0,ad92c0fcd3659a559c73e69e5d4e9b03,IL_2572812,male,35.0,Trunk,MILK study team
+ISIC_0035212,bkl,2,c205fd2ad656d465acedf1a4ce982d32,IL_3986012,male,50.0,Head and neck,MILK study team
+ISIC_0035213,nv,0,b61efeb8d5e8d8f42f21d310cd93e80e,IL_1655466,female,35.0,Lower extremity,MILK study team
+ISIC_0035214,nv,0,94d3b97fa5bda2977ff69d54291ed11b,IL_7826193,male,45.0,Lower extremity,MILK study team
+ISIC_0035215,nv,0,af9669d701eb3ac2ca7dd8aa9806058c,IL_9733095,female,50.0,Lower extremity,MILK study team
+ISIC_0035216,mel,1,c9d2e22142e828bdc5bd4e34028fc9ef,IL_6988615,male,70.0,Head and neck,MILK study team
+ISIC_0035217,nv,0,f798f1132655611a07c3201e9e149e1d,IL_6162547,female,65.0,Upper extremity,MILK study team
+ISIC_0035218,bkl,2,d3fcca3c84a968e4b43c98dd689bdd85,IL_1376823,male,45.0,Trunk,MILK study team
+ISIC_0035219,nv,0,6e405cbb883474c922ca8ed8ce47b509,IL_4976522,female,45.0,Upper extremity,MILK study team
+ISIC_0035220,nv,0,ff4156c76f909e0e18726c485149d9aa,IL_2110108,female,35.0,Trunk,MILK study team
+ISIC_0035221,nv,0,a078c417eeea5a44c28e34d9e16f45de,IL_2818883,female,50.0,Trunk,MILK study team
+ISIC_0035222,nv,0,bad7575dbc43a5ad79d3f3cdbe9d201c,IL_0242416,male,70.0,Trunk,MILK study team
+ISIC_0035223,nv,0,af8ae13c33ecc811cc838b6f2acf0abf,IL_2624289,female,60.0,Lower extremity,MILK study team
+ISIC_0035224,mel,1,24b50dbde175413051577e0de25a376c,IL_4121264,male,65.0,Trunk,MILK study team
+ISIC_0035225,nv,0,bf8b3e02631069957c2d69c6d5ebb9ce,IL_9087370,female,50.0,Lower extremity,MILK study team
+ISIC_0035226,vasc,5,7722e0c46d287cd0c7905a6eb63d9991,IL_6198193,,,,MILK study team
+ISIC_0035227,nv,0,b295bb5bbfd34b7476928e614086422e,IL_2349732,female,55.0,Lower extremity,MILK study team
+ISIC_0035228,nv,0,7f129f589086c4cde0d3a5006fbe3274,IL_8590521,male,40.0,Lower extremity,MILK study team
+ISIC_0035229,mel,1,46ae8c28f3394aa779125dcc906d8e38,IL_9337983,female,55.0,Trunk,MILK study team
+ISIC_0035230,nv,0,41e2fb7da495125cbe8fdad781b050ef,IL_6743982,male,50.0,Trunk,MILK study team
+ISIC_0035231,nv,0,b5c035a1f97db7367030a8bdbd76e3f9,IL_0197383,male,65.0,Trunk,MILK study team
+ISIC_0035232,mel,1,4e396d39dbf89b8a87d8a2671b9b3551,IL_7188676,female,80.0,Trunk,MILK study team
+ISIC_0035233,nv,0,2dc1d1f626877137375ccf04023378f4,IL_8026901,male,65.0,Lower extremity,MILK study team
+ISIC_0035234,nv,0,eb3f07f989fded11c2d7f1ec53149ff7,IL_9903778,female,40.0,Trunk,MILK study team
+ISIC_0035235,nv,0,e758abe38aa7da8017ead99878104ec6,IL_3708042,male,15.0,Trunk,MILK study team
+ISIC_0035236,nv,0,274aa39b5492725760934112e0d6ef2f,IL_5310552,male,55.0,Upper extremity,MILK study team
+ISIC_0035237,nv,0,204e0cd122cd78c9f036365016192d80,IL_9102665,female,50.0,Lower extremity,MILK study team
+ISIC_0035238,nv,0,5e901d5389b55c1690158a7c7738548d,IL_3854949,female,45.0,Lower extremity,MILK study team
+ISIC_0035239,df,6,59ffeb6edd5227b31f32107afdebe470,IL_9017608,,,,MILK study team
+ISIC_0035240,mel,1,9c296326f03eec591ba3ea5c69c283c3,IL_3233038,male,75.0,Head and neck,MILK study team
+ISIC_0035241,nv,0,869b8a1edf1d585560e91009ae13f759,IL_4572790,female,45.0,Trunk,MILK study team
+ISIC_0035242,nv,0,1599d8ae08ab7a58882440a3962ba568,IL_1691117,male,50.0,Trunk,MILK study team
+ISIC_0035243,bkl,2,60d9d3427c8e29ab07188fe3e2514552,IL_0121184,male,80.0,Trunk,MILK study team
+ISIC_0035244,nv,0,768e6bb5cb826eded17af804955bb5ec,IL_5557936,male,60.0,Trunk,MILK study team
+ISIC_0035245,nv,0,7fd02726424fadcdd4acf12199fccc7e,IL_1919921,female,75.0,Head and neck,MILK study team
+ISIC_0035246,nv,0,11c47a9db13da0e705288b932b4b4d88,IL_7270207,male,25.0,Head and neck,MILK study team
+ISIC_0035247,vasc,5,87e56029628e4966c81e347830e6bfb2,IL_5437959,female,40.0,Lower extremity,MILK study team
+ISIC_0035248,mel,1,973bfc28f3d54589cbbaa8d416d49304,IL_2212308,female,65.0,Head and neck,MILK study team
+ISIC_0035250,nv,0,9bd243e7adb4bd226953223bd5932c92,IL_9851831,female,35.0,Trunk,MILK study team
+ISIC_0035253,nv,0,6757489f51ade7de969835379a7ece9f,IL_8176694,male,50.0,Trunk,MILK study team
+ISIC_0035254,bcc,3,9be8b50f90fcda451f607f3e5e0c64ef,IL_4484576,male,65.0,Head and neck,MILK study team
+ISIC_0035255,nv,0,cc06096466c71230433ff53aea38b3b9,IL_7824812,female,45.0,Lower extremity,MILK study team
+ISIC_0035256,nv,0,889a0dba75e1519e6dafea5567f17303,IL_0094651,female,45.0,Trunk,MILK study team
+ISIC_0035257,nv,0,0fa28f32db534943047999ee76038bd9,IL_5139720,female,70.0,Trunk,MILK study team
+ISIC_0035258,bkl,2,ef9d36940d77f6548164b809b980a5ca,IL_6138452,male,85.0,Head and neck,MILK study team
+ISIC_0035259,df,6,7a8ff4965586e3ec3541b2c8d610ef15,IL_3993102,,,,MILK study team
+ISIC_0035260,nv,0,832d20e6a8b16b15b9efee17e77b9fa4,IL_1805508,female,50.0,Head and neck,MILK study team
+ISIC_0035261,bkl,2,3cd2c2d1cb0617803c724a3028a57f1d,IL_9447528,female,70.0,Upper extremity,MILK study team
+ISIC_0035262,bcc,3,17ca3e9b918e473cbc787688bc12affa,IL_4674217,female,55.0,Head and neck,MILK study team
+ISIC_0035263,mel,1,fc27b9302ecf3c2577115c5033108e6c,IL_8912821,,,,MILK study team
+ISIC_0035264,bkl,2,123f9eaf0a340d856543e4fd5b2de2e8,IL_9631358,male,80.0,Head and neck,MILK study team
+ISIC_0035265,nv,0,1df0640c93ae973a19da5cd64c4a72c5,IL_2591929,female,20.0,Upper extremity,MILK study team
+ISIC_0035266,nv,0,00de3d138f6958a8a66e4ca6e8ab6719,IL_8106367,female,35.0,Trunk,MILK study team
+ISIC_0035267,nv,0,7830640004d933166c0b276e4f54bf65,IL_2245616,male,70.0,Trunk,MILK study team
+ISIC_0035268,nv,0,2ac1c2fc7c109ae265cbc3cea6fb7ee9,IL_3993883,female,50.0,Trunk,MILK study team
+ISIC_0035270,bkl,2,687ff203837724928fffe00a196cd021,IL_6163081,male,70.0,Head and neck,MILK study team
+ISIC_0035271,mel,1,31e0eadf20c438b2ed8a7da59b56eaec,IL_2448655,male,40.0,Upper extremity,MILK study team
+ISIC_0035272,nv,0,bec710140a9ed035584169dd043d4459,IL_2522638,male,40.0,Lower extremity,MILK study team
+ISIC_0035273,nv,0,d69256e323716c7592845f5e57735176,IL_2257945,,,,MILK study team
+ISIC_0035274,nv,0,dbda80482edaa0ef9ba01162eb172b98,IL_6713843,male,60.0,Trunk,MILK study team
+ISIC_0035275,nv,0,c1361a8bbc04e40a03045a5336506fc6,IL_9193210,female,30.0,Trunk,MILK study team
+ISIC_0035276,df,6,906af9d3352364df60beecef82e50d28,IL_7048697,male,40.0,Upper extremity,MILK study team
+ISIC_0035277,bkl,2,d88bd70414f69714b72c9f04e8919c47,IL_2903914,male,65.0,Trunk,MILK study team
+ISIC_0035278,nv,0,07d2208017aa822c9b30f668bf35e6fd,IL_9006933,male,65.0,Trunk,MILK study team
+ISIC_0035280,mel,1,123963f5c94bb520a14ead8260bbbcf6,IL_4194109,male,70.0,Lower extremity,MILK study team
+ISIC_0035281,nv,0,6aca0c9fc5b41ee1c439a6395b261d03,IL_6018131,male,35.0,Lower extremity,MILK study team
+ISIC_0035282,nv,0,c461b2c6c86e9a319197f2b92172e61e,IL_1376445,female,30.0,Trunk,MILK study team
+ISIC_0035283,nv,0,0002919c10fca7013ed978db6c726817,IL_8388683,female,50.0,Trunk,MILK study team
+ISIC_0035284,bkl,2,33d2303e6ea8f44e7454b7fd8ff4ec13,IL_7268945,female,50.0,Upper extremity,MILK study team
+ISIC_0035285,nv,0,50beb56901a8ac834f51b6ce9c143982,IL_3090159,female,65.0,Trunk,MILK study team
+ISIC_0035286,nv,0,1c7b1d5a94c682a9703c25cce9ce13cd,IL_6841466,male,45.0,Trunk,MILK study team
+ISIC_0035287,akiec,4,730cbeaa70009cd434ea34d2d9bd020a,IL_2576568,female,70.0,Head and neck,MILK study team
+ISIC_0035288,nv,0,d4c75feab51fd5a1e522a9a95c328423,IL_6715203,male,40.0,Trunk,MILK study team
+ISIC_0035289,nv,0,bd9589b8afa80d44ffa3794c04c93872,IL_7055003,female,45.0,Upper extremity,MILK study team
+ISIC_0035290,nv,0,bf9e959bcba67feb8586d7375b32d6f2,IL_4012143,female,75.0,Lower extremity,MILK study team
+ISIC_0035291,bcc,3,0430fa9b1624cbd723df2f2190d90f6d,IL_8822797,male,45.0,Lower extremity,MILK study team
+ISIC_0035292,nv,0,7053b8fea251286c785a502625ca2cd8,IL_2687415,female,40.0,Trunk,MILK study team
+ISIC_0035293,bkl,2,da1d804c535cfd86bc0fb228786de334,IL_1211339,male,60.0,Trunk,MILK study team
+ISIC_0035294,nv,0,4d205e98e8124165e6af054855923665,IL_4802377,male,40.0,Upper extremity,MILK study team
+ISIC_0035295,nv,0,7dded27790dd9670d4c8f4d756f3424a,IL_5767185,female,10.0,Trunk,MILK study team
+ISIC_0035296,nv,0,d5e6c70ab2d4a98df12d17e7ba108998,IL_8009436,female,50.0,Lower extremity,MILK study team
+ISIC_0035297,nv,0,823581fa3cb27238b996dbdccd3eac62,IL_9154927,male,45.0,Upper extremity,MILK study team
+ISIC_0035298,nv,0,6da902bff324d3d7a20079da257b428c,IL_4369303,female,35.0,Trunk,MILK study team
+ISIC_0035299,nv,0,0b59952a052ce49481426f065a5c52fc,IL_3166860,male,55.0,Trunk,MILK study team
+ISIC_0035300,nv,0,0eef40de9e13e8faf99dd881a5a64472,IL_0666848,male,40.0,Trunk,MILK study team
+ISIC_0035301,nv,0,93a1610dbf94fbc90b2e0857ac71d516,IL_9095493,male,50.0,Trunk,MILK study team
+ISIC_0035302,nv,0,be6a27d01c93283caacf30c8ee2175aa,IL_2522638,male,40.0,Lower extremity,MILK study team
+ISIC_0035303,nv,0,c9e665da2a9b3ce7ec0208e10eed6e7c,IL_5263507,male,40.0,Upper extremity,MILK study team
+ISIC_0035304,nv,0,6829ba4cec80bf7216ade58ca665e31c,IL_8053563,male,70.0,Trunk,MILK study team
+ISIC_0035305,bcc,3,c33a642a47f88c5cbfaab9ff66359049,IL_2564973,female,55.0,Head and neck,MILK study team
+ISIC_0035306,mel,1,0b3e58869df3861026670a7c9f6a1c95,IL_9956584,male,85.0,Trunk,MILK study team
+ISIC_0035307,nv,0,faa4b5756eb9ae2da218d29c5fe61a75,IL_6128576,female,45.0,Lower extremity,MILK study team
+ISIC_0035308,bcc,3,073cec7d8dc62a418b46c44c41f1eeaa,IL_4484576,male,65.0,Head and neck,MILK study team
+ISIC_0035309,nv,0,7d2c7b2651328ef8c2ad2af34381b4dc,IL_5436716,female,40.0,Lower extremity,MILK study team
+ISIC_0035310,bcc,3,b89c4aba2ec77920beb75c72daa4d87e,IL_3881916,male,75.0,Head and neck,MILK study team
+ISIC_0035311,nv,0,564f0445516569a7353b27d96b4620a3,IL_6951793,male,45.0,Trunk,MILK study team
+ISIC_0035312,nv,0,88a588464530e021be6edc36479495fd,IL_9699544,male,45.0,Upper extremity,MILK study team
+ISIC_0035313,mel,1,820ddc90c5768d5c2838bad6a4a4dcd2,IL_6133543,male,65.0,Trunk,MILK study team
+ISIC_0035314,nv,0,020518d1b669cd5ffe819cd1640f63c0,IL_7257697,female,55.0,Trunk,MILK study team
+ISIC_0035315,nv,0,03ea9bda1285a4adaca6a33dee3be40f,IL_8645219,female,45.0,Trunk,MILK study team
+ISIC_0035316,bkl,2,bd4b261e084b705c08f20773ef04d8a8,IL_3360076,male,75.0,Trunk,MILK study team
+ISIC_0035317,akiec,4,76f8b4ecd5cec9a2169bff48a1b130ee,IL_5344912,male,75.0,Trunk,MILK study team
+ISIC_0035318,bkl,2,bc2d3d1f7bc114a92b2b5de99d91fc62,IL_5077877,female,65.0,Lower extremity,MILK study team
+ISIC_0035319,nv,0,38c33fe357a0b33ec4a65abb96be1ee7,IL_2723916,female,50.0,Lower extremity,MILK study team
+ISIC_0035320,nv,0,247cf696820bef691624284fa33eca8c,IL_1242229,female,5.0,Head and neck,MILK study team
+ISIC_0035321,bkl,2,e4c27d6ea614f46c669c3aee193850bc,IL_2903914,male,65.0,Trunk,MILK study team
+ISIC_0035322,bcc,3,fc8beaf6c3b2b32efa2078c504180e92,IL_2131051,male,75.0,Head and neck,MILK study team
+ISIC_0035323,nv,0,46baa404ab0c6be4453c539612aa33d5,IL_0109713,female,75.0,Lower extremity,MILK study team
+ISIC_0035324,nv,0,10fec15a41c3e9932c1b18692ca85fad,IL_2287318,male,35.0,Trunk,MILK study team
+ISIC_0035325,nv,0,b2ae7751d7205afccb9219a3c1c97c38,IL_3831132,female,50.0,Lower extremity,MILK study team
+ISIC_0035326,mel,1,51993a0ee65617139dfccc09093a0806,IL_2212308,female,65.0,Head and neck,MILK study team
+ISIC_0035327,nv,0,d293a6ab1d7e0e67cf0b6460e48d3beb,IL_7139634,female,20.0,,MILK study team
+ISIC_0035328,nv,0,065a6afab4a2964a2d0feaa9c9e5e164,IL_5835173,female,40.0,Upper extremity,MILK study team
+ISIC_0035329,nv,0,efdb84426ebbb1692d231239f6c4b365,IL_8027384,female,50.0,Trunk,MILK study team
+ISIC_0035330,akiec,4,d3ce87f24520ae6db80ab84474c061f1,IL_4241485,,,,MILK study team
+ISIC_0035331,bkl,2,38d317fefd1fb8b7a5db7e7a1e6c95d4,IL_7877670,female,80.0,Lower extremity,MILK study team
+ISIC_0035332,bcc,3,27849d21c3a92cd06d15933f448227f9,IL_3377512,male,60.0,Trunk,MILK study team
+ISIC_0035333,nv,0,cdb98207b7ab7ddb5ab335fbc2f55a27,IL_3061134,male,50.0,Lower extremity,MILK study team
+ISIC_0035334,bcc,3,e9592527226d741150c3b58439c8c0b1,IL_4216882,,,,MILK study team
+ISIC_0035335,nv,0,83e2f038a9827436e46abf1b0f8dae9b,IL_5790110,male,50.0,Trunk,MILK study team
+ISIC_0035336,nv,0,ef4d3fbe5c210b19c0447ae5f563a720,IL_4316743,female,45.0,Trunk,MILK study team
+ISIC_0035337,nv,0,8b13731bf873fcd703d2cf39d9fb85af,IL_4549025,male,45.0,Trunk,MILK study team
+ISIC_0035338,df,6,11d86caf60765c2d5baf4acb94561365,IL_0036540,female,60.0,Lower extremity,MILK study team
+ISIC_0035339,nv,0,c1bdd40dd7314ed3e6515212c82fbd87,IL_6854913,male,50.0,Lower extremity,MILK study team
+ISIC_0035340,bkl,2,b49dd78da5885587bf65405383f2f384,IL_9267063,male,65.0,Upper extremity,MILK study team
+ISIC_0035341,nv,0,70f159a7beb5356dfeced91a58cf6858,IL_1073583,female,50.0,Upper extremity,MILK study team
+ISIC_0035342,nv,0,692e718a2457d0515322ea36623f753f,IL_6137729,female,50.0,Trunk,MILK study team
+ISIC_0035343,nv,0,0e350dd76757dbcdb5da781cfd6bf69d,IL_6246474,male,30.0,Trunk,MILK study team
+ISIC_0035344,nv,0,1245a0ac7bb1f5494605db2c42c64def,IL_5318262,female,35.0,Anogenital region,MILK study team
+ISIC_0035345,mel,1,a2a471fb2f84503e335a2cd795ffb455,IL_3992242,male,50.0,Upper extremity,MILK study team
+ISIC_0035346,nv,0,bf13f75ef54a335d69878f5405da49b3,IL_6321476,,,,MILK study team
+ISIC_0035347,nv,0,58d5ce6f09d5695b373317784e8a3f3d,IL_8930987,female,40.0,Trunk,MILK study team
+ISIC_0035348,akiec,4,4d5fbacfbf48da624e91e2fcdb2b8a47,IL_7442149,male,50.0,Head and neck,MILK study team
+ISIC_0035349,nv,0,6cf9889fce07fc520e6f7b880d327a56,IL_7424752,,,,MILK study team
+ISIC_0035350,nv,0,def68a9b8810b319818781f10a7a6c97,IL_9786063,female,40.0,Trunk,MILK study team
+ISIC_0035351,mel,1,dd49b8e79ac0a33493b08966738cd170,IL_0064712,male,60.0,Head and neck,MILK study team
+ISIC_0035352,nv,0,5416bf0ae69fc4e0f8b6f1089d226f6b,IL_0170905,male,45.0,Lower extremity,MILK study team
+ISIC_0035353,nv,0,1cb76a0048890b7ea7ed6cd66a822a1f,IL_0381315,male,35.0,Trunk,MILK study team
+ISIC_0035354,nv,0,3b0061870aa99c2e10cddb7122fc9822,IL_9490612,female,50.0,Trunk,MILK study team
+ISIC_0035355,bcc,3,7e0b64f2bed7e69e758dceb955a91f57,IL_9120764,female,80.0,Head and neck,MILK study team
+ISIC_0035356,nv,0,c182b3b8faa294e413ea1b438f8cb0d4,IL_4157278,male,50.0,Lower extremity,MILK study team
+ISIC_0035357,bcc,3,e1d5178eeba72aa9c7b49139bd8a29ac,IL_6747334,male,65.0,Trunk,MILK study team
+ISIC_0035358,nv,0,6def7fce2a60309951758034592d5e5b,IL_8153086,male,35.0,Lower extremity,MILK study team
+ISIC_0035359,nv,0,8f74d59a09630aa40234ddffc1e385bc,IL_1495884,female,50.0,Trunk,MILK study team
+ISIC_0035360,df,6,96d34e0cfff4602e81f264fea84990e7,IL_4580754,female,45.0,Lower extremity,MILK study team
+ISIC_0035361,nv,0,b3ea84c3f9999750a09ef6408d00526d,IL_9854819,male,50.0,Lower extremity,MILK study team
+ISIC_0035362,mel,1,5d6aec18e01fffcd712209d86556af35,IL_6988615,male,70.0,Head and neck,MILK study team
+ISIC_0035363,nv,0,514e4d875a5da1831392a759c69ae95d,IL_6786505,female,35.0,Trunk,MILK study team
+ISIC_0035364,bkl,2,a20c67f39dcb21720c355454ec4337b3,IL_9767506,female,60.0,Head and neck,MILK study team
+ISIC_0035365,nv,0,c6a230b3feae45851dc9e7a5e675e1c3,IL_3722284,female,40.0,Trunk,MILK study team
+ISIC_0035366,mel,1,3c0c6f6569c8e5d829cd271af856e1f0,IL_4194109,male,70.0,Lower extremity,MILK study team
+ISIC_0035367,nv,0,a13001cd3ed617f48d87aca1a10f897e,IL_4577714,male,50.0,Trunk,MILK study team
+ISIC_0035368,akiec,4,21532f7a85228b2167bf7a974fb77634,IL_8983165,male,65.0,Trunk,MILK study team
+ISIC_0035369,nv,0,98dc84fdc70608e1b4d42fe5bbf164bb,IL_9956062,female,50.0,Trunk,MILK study team
+ISIC_0035370,nv,0,03a320ee626afc7460c1f847cbc91dc8,IL_9199063,female,70.0,Trunk,MILK study team
+ISIC_0035372,akiec,4,8652a66aba2b62499d332e46f1ac8e2a,IL_2576568,female,70.0,Head and neck,MILK study team
+ISIC_0035373,nv,0,08cbe8f4081a7652d0bfe5350c43cf30,IL_0397855,male,15.0,Trunk,MILK study team
+ISIC_0035374,bcc,3,353e41e9d9ab44d605b385a1a3fdbadb,IL_5336755,,,,MILK study team
+ISIC_0035375,nv,0,af0b048d263e12f8ec3d00221dd6fecc,IL_0646957,male,5.0,Upper extremity,MILK study team
+ISIC_0035376,akiec,4,b2ac01b7512fa26a42188913597997e9,IL_3226901,male,60.0,Head and neck,MILK study team
+ISIC_0035377,nv,0,7723f433679895543c3510ae064ea338,IL_6583606,female,65.0,Trunk,MILK study team
+ISIC_0035378,nv,0,e35aa0aebd72fe2c97cb9ecb2caf3a3d,IL_8493009,,,,MILK study team
+ISIC_0035379,nv,0,7602ca9ab0beae991195e3672b19dcc0,IL_3737882,female,75.0,Trunk,MILK study team
+ISIC_0035380,nv,0,24d5a703ff54daa0ee7ccc93e1e6d10b,IL_3367961,male,50.0,Anogenital region,MILK study team
+ISIC_0035381,nv,0,1bd5ec4c57b4f6227f79ba5bab430e0e,IL_5299695,male,60.0,Trunk,MILK study team
+ISIC_0035382,nv,0,a2964919f0b2627752e8d7e48bb4e1b0,IL_1724521,female,35.0,Upper extremity,MILK study team
+ISIC_0035383,nv,0,42ef695f81ac462ce67cf371420806fa,IL_7158041,female,40.0,Trunk,MILK study team
+ISIC_0035384,nv,0,c2c96a4fd6119b485afcf1607078a713,IL_0304166,female,45.0,Trunk,MILK study team
+ISIC_0035385,nv,0,a58f469487a96d924b9294e96629c152,IL_8113008,male,35.0,Upper extremity,MILK study team
+ISIC_0035386,nv,0,da528d72fb8b2a64576568ad7c95f214,IL_3181997,male,60.0,Trunk,MILK study team
+ISIC_0035387,nv,0,65d2655f0d332adf62ad80033fa94392,IL_0396226,,,,MILK study team
+ISIC_0035388,bkl,2,cc1ed86b0ff10127c266710e2a8a4204,IL_9288475,,,,MILK study team
+ISIC_0035389,bcc,3,3b8671b9109efea868d68d793c1168fb,IL_5374162,male,70.0,Lower extremity,MILK study team
+ISIC_0035390,nv,0,cd0f23ef7e234d9cb31776e377353da8,IL_6762109,,,,MILK study team
+ISIC_0035391,bkl,2,e26a22ace5344a267c6086896f1a090d,IL_6383420,female,55.0,Trunk,MILK study team
+ISIC_0035392,nv,0,ac4b572b3cc78b704fbe412a5f1dbcff,IL_0464382,male,35.0,Trunk,MILK study team
+ISIC_0035393,mel,1,ca61df699e8ab697b1f147aa256e3a38,IL_1738129,male,80.0,Trunk,MILK study team
+ISIC_0035394,nv,0,b6499a67cfdc962985f3bad17adde83f,IL_7739703,,,,MILK study team
+ISIC_0035395,nv,0,94b50b833da7514434d593b41d908799,IL_7242275,,,,MILK study team
+ISIC_0035396,nv,0,e4bb4bf81174e3ecbdc591a11276f722,IL_0493384,male,70.0,Lower extremity,MILK study team
+ISIC_0035397,mel,1,aea4bc6ac0939f34bf9829f3f9defa0c,IL_7776023,male,80.0,Head and neck,MILK study team
+ISIC_0035398,nv,0,47a6e2ef5e71772831d82962772b0c12,IL_5493940,male,50.0,Head and neck,MILK study team
+ISIC_0035399,nv,0,d4944d7d4a1e22635dfc537ca8ebc1be,IL_6312876,male,30.0,Trunk,MILK study team
+ISIC_0035400,nv,0,9a02760c6d8e6b9e6eb8287417627b78,IL_9372204,female,50.0,Lower extremity,MILK study team
+ISIC_0035401,nv,0,630b2d758e71105292adb7d4e5bc84ca,IL_7754944,,,,MILK study team
+ISIC_0035402,nv,0,5fbfef1bcbaa4cda7b2cd790b5cb5735,IL_0595891,female,55.0,Upper extremity,MILK study team
+ISIC_0035403,bkl,2,0b4d48990188ef471983a7f8c78bb2c4,IL_9330629,female,70.0,Trunk,MILK study team
+ISIC_0035404,nv,0,2685525e179bc3396479012ddb7c6369,IL_3836172,male,80.0,Lower extremity,MILK study team
+ISIC_0035405,nv,0,c9cbe0b4f9505b02801b75c508cb8d8c,IL_4593478,,,,MILK study team
+ISIC_0035406,mel,1,192bc4df7f33fdc0237b3b33cf4b1976,IL_1546321,female,50.0,Lower extremity,MILK study team
+ISIC_0035407,nv,0,fbe19a0d90a2a90ede0f1b8dc6e32bae,IL_3804003,male,45.0,Upper extremity,MILK study team
+ISIC_0035408,nv,0,770ff439d08c92ad70257e0b545f5ca9,IL_2282358,male,60.0,Upper extremity,MILK study team
+ISIC_0035409,nv,0,93d4e24c262f34e5d91dd4d778b9343a,IL_7432247,male,65.0,Lower extremity,MILK study team
+ISIC_0035410,nv,0,05030cc8634627f1ec835e9040dbabfe,IL_5767185,female,10.0,Trunk,MILK study team
+ISIC_0035411,nv,0,ae60596615b16fce6be24729b603c80b,IL_2067504,male,5.0,Trunk,MILK study team
+ISIC_0035412,nv,0,df122b2e8d3b3608caa8e475b836d3fc,IL_1655107,male,50.0,Lower extremity,MILK study team
+ISIC_0035413,nv,0,82caf64f54f796a739d9534d076080ce,IL_6194097,female,30.0,Trunk,MILK study team
+ISIC_0035414,mel,1,f9ea47a7c7cd285e826607c58a5bfad5,IL_3475827,male,45.0,Trunk,MILK study team
+ISIC_0035415,bcc,3,dfe8dfc5048211f1216231690de89cee,IL_9120764,female,80.0,Head and neck,MILK study team
+ISIC_0035416,bkl,2,575c198ddfe6923ec9de80e9b6db4246,IL_2538694,female,50.0,Trunk,MILK study team
+ISIC_0035417,nv,0,b25286f558b326e50ef10c909cd6b6e0,IL_6776312,female,35.0,Lower extremity,MILK study team
+ISIC_0035418,nv,0,4086c6b1e23e75fefd571aad850c9459,IL_2252839,male,35.0,Lower extremity,MILK study team
+ISIC_0035419,nv,0,0241f1e50a5da77222c3508a001a217a,IL_0397855,male,15.0,Trunk,MILK study team
+ISIC_0035420,mel,1,c0f4a33cb002fbb227e22499bb16ecb3,IL_4522594,male,55.0,Trunk,MILK study team
+ISIC_0035421,akiec,4,4523c4769324b663f440a1d973db5a63,IL_8287142,male,80.0,Trunk,MILK study team
+ISIC_0035422,nv,0,f28327f09ee852c9531559def1d50320,IL_9405706,male,50.0,Trunk,MILK study team
+ISIC_0035423,nv,0,965b3ea41262058be83dd5d49cd09ba2,IL_9938586,male,75.0,Head and neck,MILK study team
+ISIC_0035425,nv,0,f9e4639fca3bc9de3fa40005deddd4e6,IL_1463984,female,55.0,Trunk,MILK study team
+ISIC_0035427,nv,0,424317be81b2724f1a1f7968b0bf09a2,IL_6883051,male,40.0,Upper extremity,MILK study team
+ISIC_0035428,nv,0,6e723d136d8b6dd32be27f404ed38506,IL_4630632,female,40.0,Trunk,MILK study team
+ISIC_0035429,nv,0,cc2eae17f0b20f9bbdaa82dc9eb61dbc,IL_2401106,male,55.0,Trunk,MILK study team
+ISIC_0035430,mel,1,190cc54012b636b3f1337759382f51b4,IL_9216950,male,60.0,Trunk,MILK study team
+ISIC_0035431,nv,0,3f62a4e9ec190aca72453733df97355c,IL_6376630,female,45.0,Trunk,MILK study team
+ISIC_0035432,bcc,3,7a54a938b5753754532293b94b8fd390,IL_2660318,male,50.0,Head and neck,MILK study team
+ISIC_0035433,nv,0,0ad68b1873588ca7bc97b5fc82cdab6b,IL_2325518,male,25.0,Trunk,MILK study team
+ISIC_0035434,mel,1,42986e8286cc0efb5b24db7e969f507b,IL_6226263,,,,MILK study team
+ISIC_0035435,nv,0,4ed29a4aa15d1072a8acdc0556900213,IL_2810437,female,65.0,Lower extremity,MILK study team
+ISIC_0035436,bkl,2,61494072b530f30aaf6926bc04aa0d53,IL_3360076,male,75.0,Trunk,MILK study team
+ISIC_0035437,nv,0,c6a7475a19cd3526af61b53de17b9e6f,IL_4715393,female,55.0,Trunk,MILK study team
+ISIC_0035438,nv,0,4643f9ca655f58c8b37b1566f54dcb60,IL_3421303,female,55.0,Lower extremity,MILK study team
+ISIC_0035439,df,6,fcdee3a4f06944237492cbad1d7ae0db,IL_8246782,,,,MILK study team
+ISIC_0035440,df,6,4d2a667beb326b690be7b702980fa9fd,IL_3750153,,,,MILK study team
+ISIC_0035441,nv,0,34065545afd21e305d60b3bfc51d0aa5,IL_1391241,male,35.0,Trunk,MILK study team
+ISIC_0035442,nv,0,0aa4e37b57f60a67089df60b219f2e2f,IL_1625757,,,,MILK study team
+ISIC_0035443,akiec,4,d801c70f036eda08436d8168e00dd4a0,IL_7067098,female,60.0,Lower extremity,MILK study team
+ISIC_0035444,nv,0,dce5ee03739aca1a415f23f9bf0ebda7,IL_9907419,male,20.0,Lower extremity,MILK study team
+ISIC_0035445,nv,0,387a60a9c9331e4d2c40857a4bf716ca,IL_1661712,male,65.0,Trunk,MILK study team
+ISIC_0035446,bcc,3,0d740987ef4c0abd71e7d9e90665ddd1,IL_6305058,male,40.0,Upper extremity,MILK study team
+ISIC_0035447,nv,0,f7a6b9c014ae172b3b696d13fdd106c0,IL_4420927,female,5.0,Head and neck,MILK study team
+ISIC_0035448,nv,0,c5cd7fd695956af1d3251c820560f9a7,IL_7696472,female,55.0,Upper extremity,MILK study team
+ISIC_0035449,nv,0,7603c20c41bd009f1d04d6c96d5c39cb,IL_4433485,,,,MILK study team
+ISIC_0035450,bcc,3,475f0515f715fc8c83f05fd692d0e207,IL_5124282,male,70.0,Lower extremity,MILK study team
+ISIC_0035451,bkl,2,6b756df68f7813fd1f4b0c5d2909982c,IL_9747320,female,75.0,Trunk,MILK study team
+ISIC_0035452,nv,0,a6490e9771c5270b47cc0a6766fb240c,IL_3921829,female,35.0,Upper extremity,MILK study team
+ISIC_0035453,nv,0,277733c8387b7ed3c3f6ac3b97c0ecbd,IL_6754476,male,80.0,Trunk,MILK study team
+ISIC_0035454,df,6,f2e6d937803baeb2d360496cb71ab8e1,IL_0369726,,,,MILK study team
+ISIC_0035455,nv,0,7648aa4ab414002030a9ad12e23760eb,IL_1418511,male,,Head and neck,MILK study team
+ISIC_0035456,nv,0,1b903436ce4455c62d9669a530c847b2,IL_6776312,female,35.0,Lower extremity,MILK study team
+ISIC_0035457,nv,0,937ea3a8dfb61a31fbebcac8ea2829a6,IL_5493940,male,50.0,Head and neck,MILK study team
+ISIC_0035458,nv,0,21ea691202f5f6abaa9bbcd63f01af12,IL_1919921,female,75.0,Head and neck,MILK study team
+ISIC_0035459,mel,1,655397856966e912e5e280aa9abf338c,IL_1313133,male,75.0,Trunk,MILK study team
+ISIC_0035460,mel,1,d5a27da40ad33851bdcd1e1a9bd75b06,IL_3475827,male,45.0,Trunk,MILK study team
+ISIC_0035461,nv,0,c2a77e7564b51f97b0492293b05dfcfc,IL_8312035,female,35.0,Trunk,MILK study team
+ISIC_0035462,mel,1,91f89fbd10c78c75ce28208a67e65af9,IL_0940177,female,75.0,Trunk,MILK study team
+ISIC_0035463,bkl,2,f93f279541e55f07efd188d595bbd771,IL_3329995,male,65.0,Trunk,MILK study team
+ISIC_0035464,bkl,2,7935b88af4cdcd3e4f14b4d562b3dcb1,IL_5017319,,,,MILK study team
+ISIC_0035465,nv,0,f2ed8ee6566b8add2f07dc7f48d54754,IL_2325518,male,25.0,Trunk,MILK study team
+ISIC_0035466,bkl,2,fc3ce928297347f83b739c112e9fa4ed,IL_9227097,female,80.0,Lower extremity,MILK study team
+ISIC_0035467,nv,0,8c6d33555c2a6190e5a45c29795adec3,IL_0601932,female,50.0,Lower extremity,MILK study team
+ISIC_0035468,bcc,3,7ffc489cdc39a64325ef2adeee1785dc,IL_6305058,male,40.0,Upper extremity,MILK study team
+ISIC_0035469,nv,0,e996ed7acfd11d4b730c4b309e9c0fe9,IL_9231982,female,40.0,Trunk,MILK study team
+ISIC_0035470,nv,0,67e98c1b454509f1d410213c2b4c9111,IL_9892879,female,50.0,Trunk,MILK study team
+ISIC_0035471,bkl,2,1dc59c3774a988ade2851228af3f7d30,IL_3784017,,,,MILK study team
+ISIC_0035472,bkl,2,ed7b7213518ce1f142a31f14baa7fe40,IL_5275666,male,60.0,Trunk,MILK study team
+ISIC_0035473,nv,0,b7d70bbed65d62b9a73d497cf6272505,IL_0978043,male,65.0,Trunk,MILK study team
+ISIC_0035474,nv,0,5fe60c157e7e68608588c64dc3f42e6b,IL_7302969,,,,MILK study team
+ISIC_0035475,vasc,5,bd8e7be08918add7ad95e667497ebf8f,IL_8549112,male,55.0,Trunk,MILK study team
+ISIC_0035476,nv,0,db96cce973121895d933449c5b8dde90,IL_0243251,female,45.0,Trunk,MILK study team
+ISIC_0035477,nv,0,662ddd25539133f38f6e48cc7cc02a32,IL_7033171,male,55.0,Trunk,MILK study team
+ISIC_0035478,mel,1,92a3dc116010877fd91ab6f306cb77e9,IL_9956584,male,85.0,Trunk,MILK study team
+ISIC_0035479,nv,0,0c606e3cdda29b8e342a7fb65a68d26f,IL_2601919,male,45.0,Lower extremity,MILK study team
+ISIC_0035480,nv,0,90fb34f496528d7a4ab5fa0a8c15214e,IL_5021845,female,50.0,Trunk,MILK study team
+ISIC_0035481,nv,0,3ec7f507bafe260d9ebd0b630992f725,IL_6877500,male,65.0,Lower extremity,MILK study team
+ISIC_0035482,nv,0,a2df30df6d09ea8f58179c78542efcdb,IL_9280351,male,55.0,Lower extremity,MILK study team
+ISIC_0035483,nv,0,b9a1f19d48cffd7bc452f5050fba16c5,IL_2825477,female,60.0,Lower extremity,MILK study team
+ISIC_0035484,nv,0,2d91cb9482002ed08c6fc48ff72f0611,IL_3035506,female,10.0,Head and neck,MILK study team
+ISIC_0035485,nv,0,0d5b11b710db17c4d3ef15f54bdf9dde,IL_6588650,male,25.0,Trunk,MILK study team
+ISIC_0035486,mel,1,391cb61075aac6578232a992f5826f5d,IL_7728515,male,55.0,Trunk,MILK study team
+ISIC_0035487,bkl,2,0d048d34e64a3788ec03db39aaacec85,IL_5653913,male,65.0,Trunk,MILK study team
+ISIC_0035488,nv,0,743ffbc55f1bcb73fafafea10fc5cef3,IL_4007335,male,45.0,Lower extremity,MILK study team
+ISIC_0035489,nv,0,48cf1a1bdf9209044033c01178f20b8d,IL_2248137,male,25.0,Upper extremity,MILK study team
+ISIC_0035490,bcc,3,0a131eef02a571dfce64d050d1a1355d,IL_5117907,male,65.0,Trunk,MILK study team
+ISIC_0035491,nv,0,ced5fd5291ba480d302958edde1ba59a,IL_5591308,male,50.0,Upper extremity,MILK study team
+ISIC_0035492,nv,0,0d4f7189e8c1bcd0a3e1e3917d1a721c,IL_1460279,male,70.0,Trunk,MILK study team
+ISIC_0035493,nv,0,4c1531020285e9d6d7de5a25c0e5fa8f,IL_2139791,female,35.0,Lower extremity,MILK study team
+ISIC_0035494,nv,0,3d49cc03fca5456da8b28761fe360fa8,IL_5409067,female,50.0,Upper extremity,MILK study team
+ISIC_0035495,nv,0,f1ff4960c434b704b12a6dc1f2959044,IL_7270374,female,55.0,Trunk,MILK study team
+ISIC_0035496,nv,0,406dda3f0288e7eefb96820ea58e0ce5,IL_2888417,male,55.0,Trunk,MILK study team
+ISIC_0035497,nv,0,e68cdf17aff95236658640e179f59d66,IL_7193759,male,55.0,Lower extremity,MILK study team
+ISIC_0035498,nv,0,343b29b25c16a8eba309434fb4b34aa7,IL_8037948,female,60.0,Trunk,MILK study team
+ISIC_0035499,nv,0,01e67c1fa430063a6f733f51b9a221b2,IL_4473889,male,40.0,Trunk,MILK study team
+ISIC_0035500,nv,0,ae6dc5d8f86ab9b540db2b20a50b0813,IL_5500752,female,35.0,Trunk,MILK study team
+ISIC_0035501,nv,0,83de7deccfc631b016d49070538d87c6,IL_3772436,female,75.0,Lower extremity,MILK study team
+ISIC_0035503,nv,0,e5af44bbdedd9366f5b9a4c7448aecd7,IL_7464335,male,75.0,Trunk,MILK study team
+ISIC_0035504,bkl,2,981d8faa041c85f867a002f46604f1d8,IL_7048355,female,55.0,Lower extremity,MILK study team
+ISIC_0035505,mel,1,a9c0729da2040e2810594ff7ff9bb872,IL_9231229,female,85.0,Lower extremity,MILK study team
+ISIC_0035506,nv,0,e8ff25f6ff537da357c632a4aff101c2,IL_5278428,male,35.0,Trunk,MILK study team
+ISIC_0035507,nv,0,647b2610d129774eccb2c83dd5df9b06,IL_8879869,female,45.0,Lower extremity,MILK study team
+ISIC_0035508,nv,0,8d726ed5c2744ffe36c3103a96eebfe4,IL_4930930,female,40.0,Anogenital region,MILK study team
+ISIC_0035509,nv,0,31a32004231ff082d1b885e83f84d47c,IL_5977431,,,,MILK study team
+ISIC_0035510,mel,1,5516da14c12079213439d6fd39d7dbe9,IL_6742761,,,,MILK study team
+ISIC_0035511,bkl,2,b8b33fd4a1395a34f4d9198afaaab053,IL_1859047,male,55.0,Upper extremity,MILK study team
+ISIC_0035512,nv,0,73796a62623c99415be2fa561a9baa78,IL_5483635,male,35.0,Trunk,MILK study team
+ISIC_0035513,nv,0,7072a13838aabba9ef01585b9288cb18,IL_0740795,male,35.0,Lower extremity,MILK study team
+ISIC_0035515,nv,0,350e41d970852a25ff2dfc9b9aa2963a,IL_0786469,female,20.0,Trunk,MILK study team
+ISIC_0035516,nv,0,ec7bc5eb0e350afbbdad07a8005c4b7b,IL_8110398,female,25.0,Lower extremity,MILK study team
+ISIC_0035517,bkl,2,7f578c6d0e20c4c90ff1dd94675d0b68,IL_9631358,male,80.0,Head and neck,MILK study team
+ISIC_0035518,nv,0,a0a0d706c946e62aab1b0a9480f71bef,IL_8376422,female,30.0,Upper extremity,MILK study team
+ISIC_0035519,nv,0,360f10976bed02c71941130163aceaca,IL_9918345,male,55.0,Trunk,MILK study team
+ISIC_0035520,nv,0,c8b37ac87cc149af01bd545ae755f52f,IL_1242229,female,5.0,Head and neck,MILK study team
+ISIC_0035521,nv,0,cc8b06ffb17d347d1c5cd19f915c4316,IL_1181770,female,20.0,Trunk,MILK study team
+ISIC_0035522,mel,1,68baeac78492997be3c285ac497f99fa,IL_3992242,male,50.0,Upper extremity,MILK study team
+ISIC_0035523,nv,0,f86b387fffc30f939d7dc19b9032c3bf,IL_2947183,male,50.0,Lower extremity,MILK study team
+ISIC_0035524,nv,0,7d25e41daceeae8ceb3ad53e2c48f945,IL_4624990,female,45.0,Trunk,MILK study team
+ISIC_0035525,mel,1,334fb02880d55cf63f9506ead2d5edf6,IL_1633213,male,55.0,Trunk,MILK study team
+ISIC_0035526,nv,0,869289c861e2a75d85804ca6bc34c09d,IL_5220101,female,45.0,Lower extremity,MILK study team
+ISIC_0035527,nv,0,6ad8092245e924adc6132568f8d8fcc3,IL_8299961,female,30.0,Upper extremity,MILK study team
+ISIC_0035528,nv,0,21d78af2e2368ca257ef9932a71503cf,IL_2088373,female,,Lower extremity,MILK study team
+ISIC_0035529,nv,0,83e80d9cc3e2639f8897513570e1108c,IL_6626589,male,50.0,Trunk,MILK study team
+ISIC_0035530,nv,0,df77445494926f6347f845a71559a96a,IL_2027438,female,40.0,Trunk,MILK study team
+ISIC_0035531,nv,0,a1dd4aa48868948ff1849ce6c02f2c96,IL_6502140,male,60.0,Trunk,MILK study team
+ISIC_0035532,nv,0,147e7b60f33df0efb5e1c46f94dc205c,IL_7512991,male,55.0,Lower extremity,MILK study team
+ISIC_0035533,bkl,2,98949fcaf8a35637ce5e8f0e548919e0,IL_8479881,,,,MILK study team
+ISIC_0035534,nv,0,93c68a44a707394bd0a9b31ef6597fe3,IL_6945909,female,45.0,Trunk,MILK study team
+ISIC_0035535,nv,0,176235976e90190fb61b938c6fb5554b,IL_2898942,,,,MILK study team
+ISIC_0035536,nv,0,15c8c4c2499a16f6c448f1cce6490b37,IL_2579957,male,50.0,Upper extremity,MILK study team
+ISIC_0035537,nv,0,6ebc14aae001e01813126d0eac3303cd,IL_2891792,female,45.0,Trunk,MILK study team
+ISIC_0035538,bkl,2,104e6944b532373bb07abc93c1817644,IL_3870911,female,85.0,,MILK study team
+ISIC_0035539,nv,0,4f4493f1ea65925d06b74eb9e6897508,IL_9265841,male,50.0,Trunk,MILK study team
+ISIC_0035540,nv,0,58cb374f241172e31c35d503efc82958,IL_4225561,female,75.0,Trunk,MILK study team
+ISIC_0035541,nv,0,d6e995f35641e4e9bad30b5b0fd812ab,IL_6093014,female,60.0,Trunk,MILK study team
+ISIC_0035542,nv,0,b662ff28dd4932fe09c8403de1353974,IL_4185795,female,50.0,Lower extremity,MILK study team
+ISIC_0035543,nv,0,893330ce3dcd9dd39e7bcc5be8f336bb,IL_4734157,female,40.0,Trunk,MILK study team
+ISIC_0035544,nv,0,1216ffb58d2e449701c41624da982634,IL_5192643,male,45.0,Lower extremity,MILK study team
+ISIC_0035545,nv,0,3d409cbb52e3663fa774c4a397d3141d,IL_2771643,male,35.0,Upper extremity,MILK study team
+ISIC_0035546,nv,0,cbea6c7fde10bb6f1f6a884ffc5961ca,IL_1639271,male,50.0,Trunk,MILK study team
+ISIC_0035547,bcc,3,0c57dd253557a0d268535233d6eb354a,IL_9364403,male,70.0,Trunk,MILK study team
+ISIC_0035548,nv,0,3d3b62692a37aa3547b9d9390de8ff06,IL_4249059,female,30.0,Trunk,MILK study team
+ISIC_0035550,mel,1,2fdb317f021946dc48cd1085e3970d27,IL_7776023,male,80.0,Head and neck,MILK study team
+ISIC_0035551,nv,0,0e30ebc07c3372cd833988d091a4f6e0,IL_5775068,male,25.0,Trunk,MILK study team
+ISIC_0035552,df,6,399731bf738c6235966566ebf867ea39,IL_7623024,male,5.0,Lower extremity,MILK study team
+ISIC_0035553,akiec,4,e7d74abb70d61cccae7a46a220c2a2a1,IL_1486629,,,,MILK study team
+ISIC_0035554,nv,0,a5d410713f50ff50b7649481424acddd,IL_4807547,female,40.0,Upper extremity,MILK study team
+ISIC_0035555,nv,0,f4fe3fdad4eb56d351787d065a9316bc,IL_3155774,male,35.0,Trunk,MILK study team
+ISIC_0035556,bkl,2,2047a8e4346798e2219ac66b027c5484,IL_2639993,,,,MILK study team
+ISIC_0035557,nv,0,58aa9e8b75cbbebdefe056217596b297,IL_7903331,,,,MILK study team
+ISIC_0035558,mel,1,5db1a8f7c2e669027d94d52606ce64f3,IL_6245749,,,,MILK study team
+ISIC_0035559,nv,0,5b18eafa2514e17cdf9454a3dca81fb2,IL_1323362,female,45.0,Lower extremity,MILK study team
+ISIC_0035560,nv,0,d5f2d2a727968d8f74e593d72ddf43cd,IL_9598736,female,45.0,Lower extremity,MILK study team
+ISIC_0035561,mel,1,01d52966c80c5f6e27d45c495546d897,IL_8984570,male,60.0,Head and neck,MILK study team
+ISIC_0035562,mel,1,775c872162c2c19a5c5f728e135a43ca,IL_5040950,male,60.0,Trunk,MILK study team
+ISIC_0035563,nv,0,7a72f08b67b92dc8a14a76ba483c8d5b,IL_9661751,female,50.0,Upper extremity,MILK study team
+ISIC_0035564,bkl,2,61940ee52291f316f8622a29ae1568f5,IL_5760652,,,,MILK study team
+ISIC_0035565,nv,0,a5e113c4dac3fd67c09cd69223f3209f,IL_7417164,male,40.0,Trunk,MILK study team
+ISIC_0035566,nv,0,1f336c2fee990ac9514384b4ce3c5b33,IL_6359102,female,55.0,Lower extremity,MILK study team
+ISIC_0035567,nv,0,930c03e47cc655e2ac7b052e233ba88f,IL_0911932,male,45.0,Trunk,MILK study team
+ISIC_0035568,nv,0,950a7df65ae2763656e29768b4500388,IL_9665068,male,40.0,Upper extremity,MILK study team
+ISIC_0035569,nv,0,717eef6a85daf3b4ed78d13867364bf4,IL_0390899,female,40.0,Trunk,MILK study team
+ISIC_0035570,bkl,2,4fa0b93f95809f7e4b090c185ea07e16,IL_4495226,male,65.0,Head and neck,MILK study team
+ISIC_0035571,nv,0,5b2eb8767eb18f570d892cedea29ff0c,IL_0887241,female,65.0,Lower extremity,MILK study team
+ISIC_0035572,nv,0,69e9d5f88886dd0845dee6e6c357b532,IL_8585408,female,55.0,Lower extremity,MILK study team
+ISIC_0035573,nv,0,a1587d84e139524193abb060651de42f,IL_3093523,female,50.0,Upper extremity,MILK study team
+ISIC_0035574,nv,0,53c51d911338ee4b4f05ffa6b6929773,IL_5367327,,,,MILK study team
+ISIC_0035575,nv,0,8c563bfe73d44c7984d6fe304b994d4a,IL_2686007,female,20.0,Lower extremity,MILK study team
+ISIC_0035576,nv,0,e674aa6ac52e639d5368c21a06dbf35e,IL_5063029,female,25.0,Lower extremity,MILK study team
+ISIC_0035577,nv,0,bec6b3040d0c77041042baabc6b4885c,IL_0963458,male,50.0,Trunk,MILK study team
+ISIC_0035578,nv,0,7278ccf15ba4ffde5a56d80d82836aae,IL_9738717,male,65.0,Trunk,MILK study team
+ISIC_0035579,nv,0,636e5cabc0b4bfda81a87aa468dfd759,IL_9272968,male,75.0,Trunk,MILK study team
+ISIC_0035580,nv,0,2f18c5a66d1b02fcff51a51f53072e7a,IL_4152616,male,35.0,Trunk,MILK study team
+ISIC_0035581,nv,0,9a5006b69145ca24464a376cc5ef74db,IL_6312876,male,30.0,Trunk,MILK study team
+ISIC_0035582,nv,0,d1b205e60feb9a364c0c29cdcc8172d3,IL_4593895,female,55.0,Trunk,MILK study team
+ISIC_0035583,nv,0,424ddccb1b673807fc60d04609fecd12,IL_7748792,male,25.0,Trunk,MILK study team
+ISIC_0035584,bkl,2,be6ca6fb452e126ff188322e5087afdd,IL_5606696,male,65.0,Upper extremity,MILK study team
+ISIC_0035585,bcc,3,17e855f7cc9663d434133e965d1726b6,IL_5335546,male,70.0,Head and neck,MILK study team
+ISIC_0035586,bcc,3,abc2bf35b5e4f00d170e1367e704b0fa,IL_4703956,,,,MILK study team
+ISIC_0035587,nv,0,2fa5796240b4b39bf1b96aafaf311f36,IL_7266929,female,60.0,Upper extremity,MILK study team
+ISIC_0035588,df,6,4d2b9300cdbc1870e996cfe8cc343fa0,IL_7879392,,,,MILK study team
+ISIC_0035589,bkl,2,fbb571848dde5b7995dd05dd7acbd91a,IL_1633411,male,45.0,Upper extremity,MILK study team
+ISIC_0035590,bkl,2,9517cf50783caa85f7af0339ab5fd81a,IL_6383420,female,55.0,Trunk,MILK study team
+ISIC_0035591,nv,0,566e668a60fc6fe3fe295b011509f2ed,IL_8714846,female,55.0,Lower extremity,MILK study team
+ISIC_0035592,nv,0,11dca98bbe5d495dc2709e0ad8a4078a,IL_2771643,male,35.0,Upper extremity,MILK study team
+ISIC_0035593,bkl,2,c4e4f9ebd280e8bbbf50a7eb793338de,IL_2745037,,,,MILK study team
+ISIC_0035594,bcc,3,2969967e35082579a4bb9ed642ab0cda,IL_7044275,,,,MILK study team
+ISIC_0035596,nv,0,0a156121928034cd37d138a2fa3f86b7,IL_1763841,female,40.0,Lower extremity,MILK study team
+ISIC_0035597,nv,0,d3bc9e139e13c9c116a019cd5c0e25c8,IL_6260127,female,60.0,Lower extremity,MILK study team
+ISIC_0035598,nv,0,8186f6a6f14c2606f45e0d6a08b3f930,IL_3037111,female,60.0,Trunk,MILK study team
+ISIC_0035599,vasc,5,7839184b2d7c6079477421cd020b3d0f,IL_1235085,male,20.0,Upper extremity,MILK study team
+ISIC_0035600,nv,0,eed4dbb51557cf188ca2539e788a0863,IL_7057601,female,30.0,Trunk,MILK study team
+ISIC_0035601,nv,0,e96bae93c424d0ba4fb94fdc29d223e4,IL_4061949,male,5.0,Trunk,MILK study team
+ISIC_0035602,mel,1,82351c1a51f958f553e6e8e4b150177a,IL_1333556,male,45.0,Head and neck,MILK study team
+ISIC_0035603,vasc,5,dd37f64dd4ad0266add57fdf8f494418,IL_8184568,male,50.0,Trunk,MILK study team
+ISIC_0035604,nv,0,f9abd50092f883f9f3c1a16a24c52a52,IL_2326567,male,50.0,Trunk,MILK study team
+ISIC_0035605,mel,1,7d835d9847c7c7fccc6084ed9bfa42b0,IL_0628820,female,75.0,Lower extremity,MILK study team
+ISIC_0035606,mel,1,524b92aec6ca8b9a685b47b1a367efa9,IL_1591129,male,55.0,Head and neck,MILK study team
+ISIC_0035607,bkl,2,669a3f01a757c34ff96c01d5ee76b1d4,IL_6514289,female,30.0,Trunk,MILK study team
+ISIC_0035608,akiec,4,e72e651f9a0c84f5ba3d69f390fd50dd,IL_4574519,male,50.0,Head and neck,MILK study team
+ISIC_0035609,nv,0,bc659c9a356351c757221b28250fc334,IL_3042699,female,70.0,Trunk,MILK study team
+ISIC_0035610,mel,1,c7657bf6d0e28b94ed7ad6bc003e5d2c,IL_3858555,,,,MILK study team
+ISIC_0035611,nv,0,e97ca55911040e0f0ed125797cafbb33,IL_0589713,male,30.0,Trunk,MILK study team
+ISIC_0035612,bkl,2,5cc5ef922effebd44012827a8fb45aee,IL_6163081,male,70.0,Head and neck,MILK study team
+ISIC_0035613,bkl,2,a1143441891afde8325c447998a68c89,IL_8425669,male,50.0,Head and neck,MILK study team
+ISIC_0035614,nv,0,8fa078eb7f5c0552a34fbe4ad21fdcd0,IL_6062828,female,45.0,Lower extremity,MILK study team
+ISIC_0035615,nv,0,4d81761182588ebefd0ebdc3cf72b2d7,IL_9272968,male,75.0,Trunk,MILK study team
+ISIC_0035616,nv,0,d006c07ca1c38a89f38d328aac001309,IL_2211406,male,30.0,Trunk,MILK study team
+ISIC_0035617,nv,0,207aa2d9eb9737931ce08d47f415d463,IL_2503927,female,35.0,Lower extremity,MILK study team
+ISIC_0035618,nv,0,1572d2cebdf20eb1ac972e083708e001,IL_2273585,female,65.0,Trunk,MILK study team
+ISIC_0035619,bkl,2,17ccfa63cd7ad132a798d8d55263164e,IL_5782150,male,45.0,Trunk,MILK study team
+ISIC_0035621,nv,0,e007cf0195fabf8e0a679f51faf5464a,IL_0423872,female,50.0,Upper extremity,MILK study team
+ISIC_0035622,df,6,5720c43892566413f400beb87ed39348,IL_0168363,,,,MILK study team
+ISIC_0035623,nv,0,7d524b43212d3ed328eaa9ce0b4ec8f8,IL_5938131,female,5.0,Trunk,MILK study team
+ISIC_0035624,bkl,2,ca5a704f8c60fd390e83afa5b0c1aa63,IL_2101229,,,,MILK study team
+ISIC_0035625,bcc,3,736d8b02b1f229ccdd598e573833cf57,IL_4484576,male,65.0,Head and neck,MILK study team
+ISIC_0035626,akiec,4,609d79bca4d6e7727fd4d97a127ff1f8,IL_3537942,male,55.0,Trunk,MILK study team
+ISIC_0035627,bkl,2,84d9c9cc2c7e2f1f3636891371d15525,IL_5399390,male,60.0,Head and neck,MILK study team
+ISIC_0035628,nv,0,de0429462b15dc3bf47460a0549c579e,IL_6228956,male,35.0,Lower extremity,MILK study team
+ISIC_0035629,mel,1,ef8788b5eb41500a0b3cf5dcf9aac002,IL_0628820,female,75.0,Lower extremity,MILK study team
+ISIC_0035630,akiec,4,d1e80d76cf319f075b33a8bfd7fc5f5b,IL_2083161,male,55.0,Head and neck,MILK study team
+ISIC_0035631,bkl,2,bcbe8ae5ec3151b7d495560ec73b724e,IL_4644970,male,45.0,Upper extremity,MILK study team
+ISIC_0035632,nv,0,8ef67dcf55d3a5c4c59098c2ed9ef628,IL_2290592,male,75.0,Trunk,MILK study team
+ISIC_0035633,vasc,5,451593bd17d76bd64ffc9ef04b546061,IL_8237629,male,55.0,Trunk,MILK study team
+ISIC_0035634,bkl,2,151ac53b301390d020eeb95ae753e636,IL_9485859,male,50.0,Trunk,MILK study team
+ISIC_0035635,bkl,2,1a77e6a7aa9348c52e524672f1f879db,IL_7736879,male,80.0,Trunk,MILK study team
+ISIC_0035636,mel,1,1b0c90efbd297f3cc5b43f29cb8fb8b4,IL_3338490,female,35.0,Upper extremity,MILK study team
+ISIC_0035637,mel,1,da0ed9ba98dc4bbd8318f1ddf4d912d5,IL_3147182,male,55.0,Upper extremity,MILK study team
+ISIC_0035638,nv,0,237ee49eafbf33b4c3c5a6869d4eb394,IL_0613749,male,55.0,Trunk,MILK study team
+ISIC_0035639,nv,0,7f53e875324a1c5e19ec44e48b6fe981,IL_2428707,,,,MILK study team
+ISIC_0035640,mel,1,8a1a1a279338c8a83b39a94b97be9725,IL_0940177,female,75.0,Trunk,MILK study team
+ISIC_0035641,nv,0,042fe8950e505745ec8ef7f334012e31,IL_8912554,male,70.0,Trunk,MILK study team
+ISIC_0035642,akiec,4,fd98451271c4aa8bf961045e2329f332,IL_5344912,male,75.0,Trunk,MILK study team
+ISIC_0035643,akiec,4,99b8b6750fdad3146d7415fd5a5fb88e,IL_3293425,,,,MILK study team
+ISIC_0035644,nv,0,37e1e3082e7a3e43cf6c4cdb3ae4b6e9,IL_7952815,female,40.0,Trunk,MILK study team
+ISIC_0035645,bkl,2,cd8dec4cc458748111306b68b5e300f5,IL_2229636,female,65.0,Trunk,MILK study team
+ISIC_0035646,nv,0,fa988b4a93b0859a97917568b283fae9,IL_2719327,male,70.0,Lower extremity,MILK study team
+ISIC_0035647,nv,0,85fbe4ac82e9cfb659d375a7b66fa3ba,IL_4202248,male,45.0,Trunk,MILK study team
+ISIC_0035648,nv,0,043d028a024809bc3a7d3e5228370e24,IL_9436775,female,65.0,Lower extremity,MILK study team
+ISIC_0035649,nv,0,bb4aedba01a6ef7236298c54429bd343,IL_4312378,male,65.0,Upper extremity,MILK study team
+ISIC_0035650,df,6,9b4e4d52085c29cac8d76e71a29f98f9,IL_0848979,,,,MILK study team
+ISIC_0035651,mel,1,a9e4c89ad453d8e0f46dafc540b8a65f,IL_6367899,female,65.0,Lower extremity,MILK study team
+ISIC_0035652,nv,0,e45e1a4a39a34473bb2f326ce40a2660,IL_4783389,female,25.0,Trunk,MILK study team
+ISIC_0035653,mel,1,9b1dbfa7a623d4344edc739adab03eda,IL_9686687,male,75.0,,MILK study team
+ISIC_0035654,nv,0,17f14cc88ecbd3624861c20be77bd5f1,IL_2319141,male,30.0,,MILK study team
+ISIC_0035655,bkl,2,3256431a4cbacbe7cf17c67a47b22c4a,IL_4036611,,,,MILK study team
+ISIC_0035656,nv,0,613f014d5622122f5060f41e3063202f,IL_4042922,male,35.0,Trunk,MILK study team
+ISIC_0035657,nv,0,845874256bfb3a243edf0dea1ce0d6ec,IL_2526379,female,30.0,Lower extremity,MILK study team
+ISIC_0035658,bcc,3,6a61fe23470f502e1fe16ae5439ec030,IL_8461423,,,,MILK study team
+ISIC_0035659,nv,0,ef10c7db9680133c6a11dad9c5656cae,IL_3673768,male,30.0,Upper extremity,MILK study team
+ISIC_0035660,bcc,3,4deab8707ec800f111f816b6816b7345,IL_6157287,female,80.0,,MILK study team
+ISIC_0035661,bkl,2,5f1f015eb15b221a348335c7e913fe72,IL_9453130,female,25.0,Head and neck,MILK study team
+ISIC_0035662,nv,0,b664563937787e2ddf0c45b812831e47,IL_5469878,,,,MILK study team
+ISIC_0035663,mel,1,fb3905c1520d26fd1df381a1129332ae,IL_4610618,male,65.0,Trunk,MILK study team
+ISIC_0035664,bkl,2,863f89a06a40646cd8c63a8202eb76c6,IL_1507946,male,50.0,,MILK study team
+ISIC_0035665,nv,0,a3b0323f2122caec556819e041e2e74e,IL_4779113,female,30.0,Trunk,MILK study team
+ISIC_0035666,nv,0,e2fa851022e68fcec6833e0791e8adff,IL_7619230,female,35.0,Lower extremity,MILK study team
+ISIC_0035667,bcc,3,a407a52ef8f2f29cd4a57aa81e881a6d,IL_8046230,,,,MILK study team
+ISIC_0035668,nv,0,e07910b0e006ea9abc31ac91dd77f528,IL_3852140,male,30.0,Head and neck,MILK study team
+ISIC_0035669,bkl,2,3757f2342a3f5a76fc185e690ba00baa,IL_5665806,female,15.0,Trunk,MILK study team
+ISIC_0035670,mel,1,5ae1f191d1c1ad581115c45722ae5d57,IL_3078210,,,,MILK study team
+ISIC_0035671,nv,0,9544ed8eab40be18267641b6c9676d3a,IL_9338834,female,40.0,Lower extremity,MILK study team
+ISIC_0035672,nv,0,c02f76632f10870bf84db01dfe527b22,IL_1426647,male,20.0,Trunk,MILK study team
+ISIC_0035673,nv,0,e7918016a3fa71b940a219957e98ba3d,IL_3588176,female,55.0,Lower extremity,MILK study team
+ISIC_0035674,nv,0,81935d0697508eef9654e28241e92ac0,IL_7336420,male,50.0,Trunk,MILK study team
+ISIC_0035675,df,6,01ab5305abd2021c8e89a8fad2662b2e,IL_9342864,,,,MILK study team
+ISIC_0035676,bkl,2,aab8d44d87eabcdd54a18388d2a75912,IL_3192318,,,,MILK study team
+ISIC_0035677,df,6,0964468e6a637dc55863c072b87bafdc,IL_1961004,male,35.0,,MILK study team
+ISIC_0035678,nv,0,593826cb66786ee2a34890e2784d8b2a,IL_4061949,male,5.0,Trunk,MILK study team
+ISIC_0035679,bkl,2,ed30e0f282975f6ca44cbf45066d4472,IL_1207361,,,,MILK study team
+ISIC_0035680,mel,1,226ce16958aa83aa05509624366871b6,IL_5251059,female,65.0,Lower extremity,MILK study team
+ISIC_0035681,nv,0,c61fce106fc4bd69eac259ed2c52a07b,IL_4779113,female,30.0,Trunk,MILK study team
+ISIC_0035682,mel,1,3674550fb8c1ef5ba49dac9d139f4f72,IL_0382638,female,45.0,Trunk,MILK study team
+ISIC_0035683,bcc,3,a23bae626dddf82bd66df23c9b5d3f81,IL_4204160,,,,MILK study team
+ISIC_0035684,nv,0,cd1d39e38d00c6c422f1ba797ad0c3e8,IL_1068301,male,55.0,Trunk,MILK study team
+ISIC_0035685,df,6,ca28fafcc88b934ddc2a5367d1a8a250,IL_5405916,female,50.0,,MILK study team
+ISIC_0035686,nv,0,30a0f7e80fbd29aa87b55ef33571c92a,IL_3383346,,,,MILK study team
+ISIC_0035687,nv,0,fabdd6e973165f66b486e66aaaad2355,IL_3423821,female,45.0,Trunk,MILK study team
+ISIC_0035688,nv,0,348bc3c6b4a004572d0f82d79360b74e,IL_9945716,,,,MILK study team
+ISIC_0035689,nv,0,533da993aa78a73ae1ca1ed94f136614,IL_8287984,male,20.0,Head and neck,MILK study team
+ISIC_0035690,mel,1,87e1a2eee12986f3d8874e474b7d5ce7,IL_3858719,male,60.0,Lower extremity,MILK study team
+ISIC_0035691,akiec,4,de3a6b92b86ce7781da2aa05f19e0c09,IL_1858276,male,50.0,Upper extremity,MILK study team
+ISIC_0035692,bcc,3,044bdd4609192bb60a8796841e468f71,IL_5509155,male,50.0,,MILK study team
+ISIC_0035693,nv,0,d7596d1c8f364a1a7b54d33fe2026ce1,IL_1077349,male,10.0,Lower extremity,MILK study team
+ISIC_0035694,bkl,2,e7d7d962579a0a1ecaa4b313010f635c,IL_4180169,,,,MILK study team
+ISIC_0035695,df,6,045fd38f90e0ea92fd2f0c0139be36fe,IL_1235197,,,,MILK study team
+ISIC_0035696,mel,1,b65980e49286784bfea99ce07ed816c2,IL_2885420,male,70.0,Head and neck,MILK study team
+ISIC_0035697,nv,0,4f992fa474d10fc70f1c372c099ab236,IL_3991500,male,40.0,Trunk,MILK study team
+ISIC_0035698,mel,1,8a4f208af38d87b1338cd494ac5028e8,IL_3858719,male,60.0,Lower extremity,MILK study team
+ISIC_0035699,nv,0,1c8de80c8b12df0b6ed1d6c599ff657d,IL_8965894,,,,MILK study team
+ISIC_0035700,mel,1,2148941eebfbbb3c7af8638306124163,IL_6321565,,,,MILK study team
+ISIC_0035701,bkl,2,81813dc03734b71a9f4acb3594d9a1d7,IL_6781250,,,,MILK study team
+ISIC_0035702,nv,0,78ff57d6a2d88349a2fc23ef9bee5d79,IL_2502151,female,80.0,Trunk,MILK study team
+ISIC_0035703,nv,0,8ebc3b054769c0098ce93514e6ecdd7f,IL_9801096,,,,MILK study team
+ISIC_0035704,nv,0,8a36448561b8cd918096a395f29e48a6,IL_2012452,female,15.0,Upper extremity,MILK study team
+ISIC_0035705,mel,1,48c6da900ed6c2815f0c6b9f40fa732c,IL_7711926,female,45.0,Lower extremity,MILK study team
+ISIC_0035706,nv,0,c6bd47c3d114f34480e66ab32a85c8ed,IL_6560687,,,,MILK study team
+ISIC_0035707,nv,0,30576bffdff8ccdd9988a45dd9902cf3,IL_9975770,male,30.0,,MILK study team
+ISIC_0035708,mel,1,3d4dc8c991a34d068e98a631e7da7742,IL_6190273,male,70.0,Upper extremity,MILK study team
+ISIC_0035709,nv,0,c3dcebcc1fb1f23d712e83746b22be5c,IL_9307059,,,,MILK study team
+ISIC_0035710,nv,0,db6ccad3c6408e85159350ff860c968c,IL_4320336,male,50.0,Trunk,MILK study team
+ISIC_0035711,mel,1,e6bd2c765da6054e4df2053cf3c45b4d,IL_9689352,female,55.0,Upper extremity,MILK study team
+ISIC_0035712,nv,0,84ecede7152ff88ccf61ec842e650a2e,IL_0131162,,,,MILK study team
+ISIC_0035713,nv,0,ca489d62677c28d25d18af235ab0456b,IL_2768767,,,,MILK study team
+ISIC_0035714,mel,1,e9549a35bdfb267863f99f8d937b101e,IL_5251059,female,65.0,Lower extremity,MILK study team
+ISIC_0035715,bkl,2,76f73a62120133554f41cfa99110abc0,IL_8258563,,,,MILK study team
+ISIC_0035716,nv,0,72f4cc97332e4f9a95452fb59344e803,IL_5798814,male,45.0,Trunk,MILK study team
+ISIC_0035717,nv,0,b9d8f7502262d4f5278752d571d536ba,IL_2195488,,,,MILK study team
+ISIC_0035718,bcc,3,f3a480715f06cfbf2f8ca5cc676b3956,IL_5134012,,,,MILK study team
+ISIC_0035719,mel,1,2bdfe1134bd09df0275b743e1f79bb42,IL_2229268,male,60.0,Lower extremity,MILK study team
+ISIC_0035720,mel,1,13fccd21665f1fec8e3a415148e1356a,IL_1303199,male,75.0,,MILK study team
+ISIC_0035721,mel,1,b92351cad84aee955f601fcec99f9546,IL_1062117,male,80.0,Trunk,MILK study team
+ISIC_0035722,nv,0,533efc098e78957c5c70ee4cd0d17afc,IL_4002380,,,,MILK study team
+ISIC_0035723,df,6,42e6b11b62376273183967c66200623b,IL_0921080,,,,MILK study team
+ISIC_0035724,vasc,5,bde71339a61f892ae345ece30f47e0c9,IL_1235085,male,20.0,Upper extremity,MILK study team
+ISIC_0035725,nv,0,08d859482819fbe960e3ec7bc1f0f979,IL_6986550,male,20.0,Trunk,MILK study team
+ISIC_0035726,nv,0,59ac8e1049c4c5b8ddfa2baff6303d70,IL_3952133,male,65.0,Trunk,MILK study team
+ISIC_0035727,nv,0,8fa834dcec1ae78f3e62ba86af167f27,IL_1558425,female,25.0,Lower extremity,MILK study team
+ISIC_0035728,nv,0,5c9e3983ca5d46c4895809e0500440ac,IL_3470634,,,,MILK study team
+ISIC_0035729,df,6,2ac0835362c66cd37f61e25722a8befc,IL_0868364,female,45.0,Lower extremity,MILK study team
+ISIC_0035730,bkl,2,83106794f4e749e65b2e9f73f63cff45,IL_8891238,male,65.0,Trunk,MILK study team
+ISIC_0035731,nv,0,37cd1d9f455018e4f6aafe0aeccdcec2,IL_7336420,male,50.0,Trunk,MILK study team
+ISIC_0035732,mel,1,daa03fb9082598ec4780631be8184c07,IL_7337548,female,45.0,Trunk,MILK study team
+ISIC_0035733,bcc,3,5bd044cbf58c5da17959bb90c93493ec,IL_7037144,female,65.0,Lower extremity,MILK study team
+ISIC_0035734,nv,0,d5f18ac53a178934214f07006b2fbd72,IL_2253563,,,,MILK study team
+ISIC_0035735,bkl,2,2cab6e4f335f81e7fa54f49c23bf582a,IL_6486292,,,,MILK study team
+ISIC_0035736,mel,1,5b92926df828a4ce461217299e24fb02,IL_8177649,,70.0,,MILK study team
+ISIC_0035737,vasc,5,f307df40ba1d23abbafaf63111b80597,IL_9211610,,45.0,,MILK study team
+ISIC_0035738,nv,0,1f02763009c10f6d7b123d494b395f52,IL_2502151,female,80.0,Trunk,MILK study team
+ISIC_0035739,bkl,2,0fb5615217ad933574b66cceeee8c8dc,IL_0718972,,,,MILK study team
+ISIC_0035740,nv,0,e689c520dd41181ab83f2bbe29ac3b44,IL_9395839,,45.0,Trunk,MILK study team
+ISIC_0035741,bkl,2,78f9a0523cc6f07bcd3098cd948b5934,IL_2090783,,,,MILK study team
+ISIC_0035742,nv,0,04b4a71361f4cbe57e82667560f3d283,IL_5184486,,,,MILK study team
+ISIC_0035743,nv,0,324d9e31df62840adc92696b68050461,IL_2304780,,,,MILK study team
+ISIC_0035744,bcc,3,b2a6265bfba1e02b9f7f7ba5d248d169,IL_4826188,female,70.0,Trunk,MILK study team
+ISIC_0035745,nv,0,4211977265a44cb5619b48db889c2578,IL_2493164,,,,MILK study team
+ISIC_0035746,nv,0,23965a64d23cb71b664540ce0a9d0b01,IL_9961015,female,40.0,Trunk,MILK study team
+ISIC_0035747,mel,1,cfaa97e805b786f6cfefd6b302230fd1,IL_2431420,female,25.0,Upper extremity,MILK study team
+ISIC_0035748,mel,1,4c31194be45e848d4df1795315e6aa75,IL_4545799,male,70.0,Lower extremity,MILK study team
+ISIC_0035749,nv,0,6c7e4a58d79901da7920f496ca9b1132,IL_4217663,female,55.0,Trunk,MILK study team
+ISIC_0035750,bkl,2,bb26a0a7f2f24306a872728ccbb0ab55,IL_1717276,male,50.0,Trunk,MILK study team
+ISIC_0035751,bkl,2,8e2f69044b7888e7aa92bf7b2075c9c6,IL_6923101,male,65.0,Head and neck,MILK study team
+ISIC_0035752,bcc,3,99dbc7f2f10632bd6214af409d5abed9,IL_7037144,female,65.0,Lower extremity,MILK study team
+ISIC_0035753,bkl,2,d8adea07fe6c953e944662d194c75748,IL_9267439,female,80.0,Trunk,MILK study team
+ISIC_0035754,bkl,2,4f7f0b71c5180ef14c1aac2fdcaa11c2,IL_9469410,,,,MILK study team
+ISIC_0035755,bkl,2,65506ae7887c57c5935ce67bd5334f08,IL_9453130,female,25.0,Head and neck,MILK study team
+ISIC_0035756,mel,1,43d15d3f28c9d6707a8de37d0556ebe5,IL_1753916,male,70.0,,MILK study team
+ISIC_0035757,nv,0,fdd72f3667d72710b3fff86cb8f85785,IL_6333407,male,20.0,Head and neck,MILK study team
+ISIC_0035758,nv,0,72b06bdbe03038e6ec470d533e9ec1d0,IL_5798814,male,45.0,Trunk,MILK study team
+ISIC_0035759,df,6,b283adb17f4e97578568c74a1f3315c4,IL_7626931,,,,MILK study team
+ISIC_0035760,nv,0,cdfb2a42b4bfd0a45681c2e9047f6264,IL_8931844,female,45.0,Trunk,MILK study team
+ISIC_0035761,bcc,3,f547204e81e101f552a636bf2214849d,IL_9006337,,,,MILK study team
+ISIC_0035762,nv,0,28ba45faabc975856af5609fc122b389,IL_5416595,female,40.0,Trunk,MILK study team
+ISIC_0035763,bkl,2,61dc302b36490cc055a2b68b6b96ef31,IL_3178997,,,,MILK study team
+ISIC_0035764,mel,1,436304f2162f842035c8e4f7a01b4b7a,IL_8755260,male,75.0,,MILK study team
+ISIC_0035765,bkl,2,70f87f60e24403191cde9630c6e0664f,IL_9440413,female,65.0,Head and neck,MILK study team
+ISIC_0035766,mel,1,51faf3286ad3ac8ea9966768aa3b9f12,IL_0382638,female,45.0,Trunk,MILK study team
+ISIC_0035767,mel,1,604213c618ced5fc1a589d4f2b66bf97,IL_5251059,female,65.0,Lower extremity,MILK study team
+ISIC_0035768,bkl,2,4950235aff68b461c9dcfb4f4401048e,IL_0040850,,50.0,,MILK study team
+ISIC_0035769,nv,0,6471f81ede62cf1ab518ef52dd379bde,IL_7620308,male,40.0,Trunk,MILK study team
+ISIC_0035770,nv,0,67724047f9a538112b8f221375f7d89b,IL_9221631,,,,MILK study team
+ISIC_0035771,nv,0,bd0231f962de7fe40c47e53ddca81fc5,IL_7423232,,,,MILK study team
+ISIC_0035772,bcc,3,e2a20b82cd6aff7b174e1509d860f9aa,IL_4826188,female,70.0,Trunk,MILK study team
+ISIC_0035773,nv,0,f1ca25045d73d4b15a573ee75f443bd2,IL_2526379,female,30.0,Lower extremity,MILK study team
+ISIC_0035774,nv,0,503689dc052e3c1103fdfbdbca84ccbc,IL_7336420,male,50.0,Trunk,MILK study team
+ISIC_0035775,nv,0,f9e175319354132de4c8cda0102713ac,IL_9242659,female,45.0,Lower extremity,MILK study team
+ISIC_0035776,bkl,2,c1de22b06f6a8446de67eadcdf1ed685,IL_8891238,male,65.0,Trunk,MILK study team
+ISIC_0035777,nv,0,3d0902e2e6e1c316283df01cb86a2052,IL_8950109,,,,MILK study team
+ISIC_0035778,df,6,b97f1bc6f911725b2b5dc88f22c411cc,IL_9413629,female,50.0,Lower extremity,MILK study team
+ISIC_0035779,nv,0,ccf2e5a5eac1869ce4c870bac4cb23dd,IL_4806661,,,,MILK study team
+ISIC_0035780,nv,0,3f1eb7cbf232c8c34c41375e97e7b5ae,IL_7455147,,,,MILK study team
+ISIC_0035781,nv,0,c64ce2f518bc62f83b8d0ea45da24d7e,IL_1538944,male,40.0,Trunk,MILK study team
+ISIC_0035782,nv,0,048123b6eaf6968331344cd82bf3aa8f,IL_7776389,female,25.0,,MILK study team
+ISIC_0035783,nv,0,bc4385b338c655071a4cfba9f531359b,IL_7119358,male,65.0,Trunk,MILK study team
+ISIC_0035784,nv,0,1578acd7ea9b2e44d4d0f6bea05e8db7,IL_4217663,female,55.0,Trunk,MILK study team
+ISIC_0035785,nv,0,20b2fcc25d7f49b82c7b316241f14ca9,IL_3991500,male,40.0,Trunk,MILK study team
+ISIC_0035786,nv,0,522df1fd15f47cb68422f8cd89755813,IL_1472347,female,60.0,Lower extremity,MILK study team
+ISIC_0035787,bkl,2,61ae35041f8c8a2d39be8bf0f2974f48,IL_1782650,,,,MILK study team
+ISIC_0035788,nv,0,8c4778fe18541668caf9b64d3b523a81,IL_8404216,,,,MILK study team
+ISIC_0035789,mel,1,66496540dc7e37ee467e9521fc44661e,IL_5685326,male,80.0,Upper extremity,MILK study team
+ISIC_0035790,bcc,3,4fe4e3a165abacbf685747878a854d2e,IL_9173239,,,,MILK study team
+ISIC_0035791,nv,0,c4fbf2c7f2e3bd964e3bf3678d001c72,IL_5416595,female,40.0,Trunk,MILK study team
+ISIC_0035792,nv,0,54990cd785ea44df9d472e0fa3cabe52,IL_9880889,male,10.0,Lower extremity,MILK study team
+ISIC_0035793,nv,0,e58b61f8c54a30c875884baf103eb838,IL_9981811,,,,MILK study team
+ISIC_0035794,mel,1,dd691d6e93939ad1e421738ef6bf4dbb,IL_5470919,male,70.0,Trunk,MILK study team
+ISIC_0035795,nv,0,a34fc05ed82933e586b4cc61964cd159,IL_6333407,male,20.0,Head and neck,MILK study team
+ISIC_0035796,nv,0,a683920ae7b2b2c7f75dd4c708f12d6e,IL_2345376,male,50.0,,MILK study team
+ISIC_0035797,nv,0,e3c37813c91e85c96a18aa75fd020ac2,IL_1087504,female,45.0,Lower extremity,MILK study team
+ISIC_0035798,nv,0,75c518c557433b4d9a07f25a32ec5462,IL_3083114,,,,MILK study team
+ISIC_0035799,bkl,2,bfbb0b39071cf74478681e2ee081992a,IL_1702912,,,,MILK study team
+ISIC_0035800,nv,0,31b0d51a5ab1f1b5c2aed5e5e441271a,IL_1538944,male,40.0,Trunk,MILK study team
+ISIC_0035801,nv,0,23c1b6bc077b19a893849f85f04b0539,IL_3673768,male,30.0,Upper extremity,MILK study team
+ISIC_0035802,bkl,2,f0e3d3e6655931493709a66d2a9e7734,IL_2627375,,,,MILK study team
+ISIC_0035803,nv,0,092e863af3ff75e1e7d51b865336c797,IL_3852140,male,30.0,Head and neck,MILK study team
+ISIC_0035804,nv,0,3c9b8484755bad820598a134d235ac83,IL_0966806,male,65.0,Trunk,MILK study team
+ISIC_0035805,bkl,2,e18687d415554ed6a45d0d0088465c3a,IL_1717276,male,50.0,Trunk,MILK study team
+ISIC_0035806,nv,0,7e46509b430d82091898e6d3b61dc91f,IL_3968220,female,60.0,Head and neck,MILK study team
+ISIC_0035807,bkl,2,85c35463feb93b2c1bed58dabbd51ae6,IL_4129371,,,,MILK study team
+ISIC_0035808,nv,0,d7fa2f9c4c870a3fb13e0e411a7a340c,IL_5603766,,,,MILK study team
+ISIC_0035809,nv,0,a82de35f6fbf77eef383548754d7b649,IL_8514540,male,50.0,,MILK study team
+ISIC_0035810,bkl,2,2bc60953afe7f3c0e8236314a7565f01,IL_0967038,male,85.0,Trunk,MILK study team
+ISIC_0035811,nv,0,cb8c17c3d4daacced05688c75a727891,IL_4514039,male,30.0,Trunk,MILK study team
+ISIC_0035812,nv,0,c58feb0515834cab173176338f98e54e,IL_5416595,female,40.0,Trunk,MILK study team
+ISIC_0035813,nv,0,bcb60a5bd0709cd9aa7ed265e4790b76,IL_5758755,female,25.0,,MILK study team
+ISIC_0035814,vasc,5,171a9485bc7975a057141c34a99e3f99,IL_8619583,female,55.0,,MILK study team
+ISIC_0035815,nv,0,14c89fcb5d6e9e52ec21757f47995078,IL_4954108,male,30.0,Trunk,MILK study team
+ISIC_0035816,mel,1,3aa4790c5edec71fa081aaedaa1266e5,IL_4610618,male,65.0,Trunk,MILK study team
+ISIC_0035817,nv,0,4feb25f6e967fe536452c5faa999e099,IL_6609864,male,70.0,Trunk,MILK study team
+ISIC_0035818,bkl,2,c41b17a9a029ac57cc2a453d04def5fc,IL_2764668,,,,MILK study team
+ISIC_0035819,mel,1,8899084688b8eedb6da09ccdf609ae8c,IL_6719687,female,55.0,,MILK study team
+ISIC_0035820,nv,0,fab1e8ca4fca052659da2a17253c7672,IL_6953300,,,,MILK study team
+ISIC_0035821,df,6,07035a4f6169882c0c61a13eab905e40,IL_4036852,,,,MILK study team
+ISIC_0035822,nv,0,adb59602e7ae0adc0695ccbfb267f5c2,IL_4042922,male,35.0,Trunk,MILK study team
+ISIC_0035823,mel,1,381d4fa6f8fe7725ef34f88d6cf207fc,IL_0382638,female,45.0,Trunk,MILK study team
+ISIC_0035824,bcc,3,f9db7fd0cf6c065c1d8cbba12c5e84d5,IL_7037144,female,65.0,Lower extremity,MILK study team
+ISIC_0035825,mel,1,d08106f1d6fe9803ab048b5f3dd5210c,IL_6367899,female,65.0,Lower extremity,MILK study team
+ISIC_0035826,mel,1,a160d627324a4525ed5b5905c6de87db,IL_2885420,male,70.0,Head and neck,MILK study team
+ISIC_0035827,mel,1,71b24f1c7012a34d26f54e800aaab88d,IL_2587061,male,65.0,,MILK study team
+ISIC_0035828,nv,0,227b5310b5c7810bd33fe5634e603106,IL_8931844,female,45.0,Trunk,MILK study team
+ISIC_0035829,bkl,2,7b17ae7b9b78a343335d1f9ee5146dc1,IL_6445164,,,,MILK study team
+ISIC_0035830,nv,0,99fbbc8a197a0bb311cb10e23c4058e7,IL_6164928,,,,MILK study team
+ISIC_0035831,bkl,2,8c23f1659bcc9b15d18a4bca0541fdb3,IL_2070392,,,,MILK study team
+ISIC_0035832,nv,0,5ee89b5eae3dcc795112f195d8cfc22c,IL_4514039,male,30.0,Trunk,MILK study team
+ISIC_0035833,bkl,2,8362977b3fe7637cff944189f9196127,IL_9453130,female,25.0,Head and neck,MILK study team
+ISIC_0035834,bkl,2,ad77667fe844c8dffa304b2749051027,IL_1158127,,,,MILK study team
+ISIC_0035835,nv,0,cc5c1e7655fb3f61056474cd7f3a7671,IL_1426647,male,20.0,Trunk,MILK study team
+ISIC_0035836,nv,0,e12e6e2e8526eb011361f09d0d7072ec,IL_8171092,female,80.0,Lower extremity,MILK study team
+ISIC_0035837,nv,0,e7819db2c70e9fb6ccb6a59eb455b33f,IL_4810988,,,,MILK study team
+ISIC_0035838,nv,0,23d9192dab039746b0bcdfa246ef5b49,IL_0966806,male,65.0,Trunk,MILK study team
+ISIC_0035839,nv,0,446ef82531a4468b9f4413c491c9487b,IL_8287984,male,20.0,Head and neck,MILK study team
+ISIC_0035840,nv,0,50019c237800d328dd5c73abe5cb0f8a,IL_5798814,male,45.0,Trunk,MILK study team
+ISIC_0035841,nv,0,a9da5305ae6b0fe1c416e1f4df53208d,IL_3423821,female,45.0,Trunk,MILK study team
+ISIC_0035842,akiec,4,99b321f26db88c32b873abca43615e82,IL_1858276,male,50.0,Upper extremity,MILK study team
+ISIC_0035843,nv,0,a9ef44cb899703332186fcda948f0690,IL_4022023,,,,MILK study team
+ISIC_0035844,df,6,1fbb5b3ef8911435e4aa1d6b7bccb154,IL_5970909,,,,MILK study team
+ISIC_0035845,mel,1,c95c6f509063a90d980181ca0beb27fb,IL_8663536,male,50.0,Trunk,MILK study team
+ISIC_0035846,mel,1,bf10d5926d51c89eb1f223d3d7b0e6ea,IL_5720105,female,60.0,Trunk,MILK study team
+ISIC_0035847,bkl,2,315b91fdd9c35d6a9696af7f16e6360c,IL_2684598,,,,MILK study team
+ISIC_0035848,bcc,3,5e9f26c47069adcd42577dd44b00a815,IL_2988138,female,45.0,,MILK study team
+ISIC_0035849,nv,0,7cfe728b5377c70664369bda70751110,IL_3116193,,,,MILK study team
+ISIC_0035850,nv,0,17d8c422e7e2b230f8c36458a9229232,IL_1087504,female,45.0,Lower extremity,MILK study team
+ISIC_0035851,nv,0,7baf6b07aa424c0de297a326e4961002,IL_9338834,female,40.0,Lower extremity,MILK study team
+ISIC_0035852,vasc,5,15f98f6d29f02d990c60a068490bc591,IL_2160413,male,65.0,Trunk,MILK study team
+ISIC_0035853,mel,1,3882f56d143765719ee6a4ca4cdee134,IL_2229268,male,60.0,Lower extremity,MILK study team
+ISIC_0035854,mel,1,92fe9decda41fe7722603e95f70751f9,IL_5470919,male,70.0,Trunk,MILK study team
+ISIC_0035855,bcc,3,177b0f4e7be71d7eb825bc3c107a6247,IL_0865404,,,,MILK study team
+ISIC_0035856,nv,0,7078421a7f36e0b5e4dd8068ed6f24e9,IL_9961015,female,40.0,Trunk,MILK study team
+ISIC_0035857,nv,0,a62012bf48029ef665da2f1bface2ec0,IL_9242659,female,45.0,Lower extremity,MILK study team
+ISIC_0035858,nv,0,d54430bd34eb794685ad0408a5d11688,IL_8171092,female,80.0,Lower extremity,MILK study team
+ISIC_0035859,nv,0,7a48da1d9b411d35972eb9f3f8dc4fd5,IL_1558425,female,25.0,Lower extremity,MILK study team
+ISIC_0035860,nv,0,a07dbacdf4bfcfff6fe7d8a267b17f4e,IL_2016415,,,,MILK study team
+ISIC_0035861,nv,0,c10e6d89660d19b222cf0481574e0cc2,IL_7119358,male,65.0,Trunk,MILK study team
+ISIC_0035862,nv,0,e6120cd27836ef502478fa121d8d99b5,IL_1641012,male,55.0,Trunk,MILK study team
+ISIC_0035863,df,6,6f4360d249e874c81256af30b3034454,IL_8682554,,,,MILK study team
+ISIC_0035864,nv,0,a8eb65fd90aa22d05de96d32e87bd4d3,IL_0722833,female,25.0,Lower extremity,MILK study team
+ISIC_0035865,bkl,2,f55a3f34c94da3fffbb3a2029277d87b,IL_5898372,,,,MILK study team
+ISIC_0035866,bkl,2,08d764a7fab23228e344398b9ef4b7b3,IL_4190450,female,40.0,Head and neck,MILK study team
+ISIC_0035867,nv,0,c164f99ad1baa14ab913f3a1e04fae49,IL_7705450,,,,MILK study team
+ISIC_0035868,mel,1,b9c78f4f6236a86caba0d13ad429b0f9,IL_7711926,female,45.0,Lower extremity,MILK study team
+ISIC_0035869,nv,0,b40f90425e8d7455e3f00089b7b9253d,IL_4783389,female,25.0,Trunk,MILK study team
+ISIC_0035870,nv,0,6f4efc42c48109d3417a5350c3b47d8e,IL_0895417,,,,MILK study team
+ISIC_0035871,bcc,3,d9f43867d2956639ba6d385986b66a3b,IL_8791178,,,,MILK study team
+ISIC_0035872,nv,0,bd04181fa9f65b8cb7c13b2a99017d64,IL_7119358,male,65.0,Trunk,MILK study team
+ISIC_0035873,bkl,2,7b34a1d61022894175e8849bd2797777,IL_8011091,,,,MILK study team
+ISIC_0035874,nv,0,31325364777d595e3ff08b9ac75f5ab1,IL_3968220,female,60.0,Head and neck,MILK study team
+ISIC_0035875,nv,0,b5fe95b1ea0f9358ba031957966acf72,IL_9517845,,,,MILK study team
+ISIC_0035876,bcc,3,10f2f97069d6f72f1e89aa8a9e0d8979,IL_4053428,,,,MILK study team
+ISIC_0035877,mel,1,817bbca76a9672f7f73194643fa55848,IL_7337548,female,45.0,Trunk,MILK study team
+ISIC_0035878,bkl,2,766145c2e268f974063f65fb9c36b32d,IL_5924727,,,,MILK study team
+ISIC_0035879,nv,0,280413d861920dc1b26c65bd1c63beee,IL_3199636,male,50.0,,MILK study team
+ISIC_0035880,nv,0,a3e9abc5e7a7df5baf88da36e45c997b,IL_1472347,female,60.0,Lower extremity,MILK study team
+ISIC_0035881,bkl,2,0953345c2704bbbee2348bb7873f17dd,IL_6467551,,,,MILK study team
+ISIC_0035882,akiec,4,f136640875ea9e53cafbc3b3ecf94939,IL_9294619,female,70.0,Head and neck,MILK study team
+ISIC_0035883,nv,0,dc0e82bac62cda4f0295be9ccb2476b5,IL_0137422,,,,MILK study team
+ISIC_0035884,nv,0,284e518f5228320204f2782d6502b214,IL_7844271,,,,MILK study team
+ISIC_0035885,nv,0,adfad519568f445b6e068e338d8406c6,IL_4701281,male,40.0,Trunk,MILK study team
+ISIC_0035886,nv,0,d6f3832795729d3cc48a7733f5f43a33,IL_4099852,,,,MILK study team
+ISIC_0035887,mel,1,30ece7afb9d42d94e84946403d382aa0,IL_8663536,male,50.0,Trunk,MILK study team
+ISIC_0035888,mel,1,7866513748ccb9d3f48b1ff3b49bbebb,IL_7337548,female,45.0,Trunk,MILK study team
+ISIC_0035889,mel,1,0b90cb25ee621845f31255ad283164c4,IL_9689352,female,55.0,Upper extremity,MILK study team
+ISIC_0035890,df,6,84a76fcba8487d8e3965bab6e0169256,IL_8457664,,,,MILK study team
+ISIC_0035891,nv,0,1ef6854cced005e06a84cadaa7eb4a4e,IL_5533303,,,,MILK study team
+ISIC_0035892,nv,0,e64b583d9c87dad10ed811828f69f29e,IL_4954108,male,30.0,Trunk,MILK study team
+ISIC_0035893,nv,0,3ff319782f97e5ba398243640bd8b747,IL_0490329,,,,MILK study team
+ISIC_0035894,mel,1,9480a901fff7879a6dfd0cb5a81b62de,IL_2885420,male,70.0,Head and neck,MILK study team
+ISIC_0035895,nv,0,a5a177a10349523b41d19b05fa911ad0,IL_0389344,,,,MILK study team
+ISIC_0035896,nv,0,9378b9e4ef5e0b1e8833e06960ea349d,IL_9098137,male,,,MILK study team
+ISIC_0035897,nv,0,aeb035340c7966d4d07fb33642363fd4,IL_7161164,male,80.0,Trunk,MILK study team
+ISIC_0035898,nv,0,828da56c5cf79f221d118d82ec497c3b,IL_8216045,,,,MILK study team
+ISIC_0035899,bkl,2,a2db6cc712f4051e097aa4c3fd2a2f01,IL_7233441,,,,MILK study team
+ISIC_0035900,mel,1,bed613c7bf317860d486f72a60de2479,IL_6190273,male,70.0,Upper extremity,MILK study team
+ISIC_0035901,bcc,3,7b74a1a5a123e1bf6849989499522a8f,IL_1771470,,,,MILK study team
+ISIC_0035902,mel,1,314d17b15a6c7bb3005545ece78f8552,IL_2392385,male,85.0,,MILK study team
+ISIC_0035903,nv,0,86397399107899b17ceb1f57d45afea6,IL_6411750,,,,MILK study team
+ISIC_0035904,df,6,a46638ced391bc3a3673a9ce035afba8,IL_4491919,male,80.0,,MILK study team
+ISIC_0035905,vasc,5,90a83ab27e719b8133d42777498a4b8d,IL_5637252,,,,MILK study team
+ISIC_0035906,nv,0,fc4cab703e9604b9bacc7697d8d0ac71,IL_2314593,,,,MILK study team
+ISIC_0035907,nv,0,3a04823728f833b73bad29aed8ffd5f7,IL_9880889,male,10.0,Lower extremity,MILK study team
+ISIC_0035908,bkl,2,773c666c5cf1255416d356c43a98506b,IL_7401581,,,,MILK study team
+ISIC_0035909,nv,0,d57dbfb6e8fff27aa31cf9248b2b71e9,IL_2610968,,25.0,,MILK study team
+ISIC_0035910,vasc,5,9916054bb58c149414218262f3b14580,IL_2160413,male,65.0,Trunk,MILK study team
+ISIC_0035911,mel,1,f46d1745e02df5a84195ab4da80868af,IL_0134998,male,50.0,Head and neck,MILK study team
+ISIC_0035912,nv,0,2f5f99b7a98e86b8386ce7636be2e982,IL_1472347,female,60.0,Lower extremity,MILK study team
+ISIC_0035913,mel,1,c34aafa939f6869ae8b36dbb29737721,IL_6367899,female,65.0,Lower extremity,MILK study team
+ISIC_0035914,mel,1,2133da226cca56b3f9911796aeed8671,IL_9375634,male,85.0,Head and neck,MILK study team
+ISIC_0035915,akiec,4,1af60a247f41625ecec7ffe08eef8d7a,IL_9294619,female,70.0,Head and neck,MILK study team
+ISIC_0035916,nv,0,3a1e8e37dcd59f4cd1b4aa57cab50ffc,IL_9338834,female,40.0,Lower extremity,MILK study team
+ISIC_0035917,bkl,2,3470ffa5b1d526ddf165599c05df0af9,IL_2405871,,,,MILK study team
+ISIC_0035918,bkl,2,b0025188e0879d3f383def3d2068baed,IL_9440413,female,65.0,Head and neck,MILK study team
+ISIC_0035919,df,6,304ad60a4ee845893f374f1b6587dc98,IL_5893356,female,50.0,,MILK study team
+ISIC_0035920,mel,1,887abe65204a4cf9ba116e402f8568b8,IL_6434909,,50.0,,MILK study team
+ISIC_0035921,nv,0,4fcc5bb2d3cac3c287d49119502da040,IL_8171092,female,80.0,Lower extremity,MILK study team
+ISIC_0035922,mel,1,a344e263dfb6fd034c0b00986f2eccfe,IL_9375634,male,85.0,Head and neck,MILK study team
+ISIC_0035923,mel,1,68c67c04953eb5058bc65cf8705340b9,IL_1062117,male,80.0,Trunk,MILK study team
+ISIC_0035924,nv,0,ad88f49d67e3f8e2b6213ef9dca63518,IL_2091333,male,40.0,,MILK study team
+ISIC_0035925,vasc,5,7d5a185ad77bcb709c69fafd330aa680,IL_3797081,,,,MILK study team
+ISIC_0035926,bkl,2,e32575e832d00d012f104afbe89990cf,IL_1762252,,,,MILK study team
+ISIC_0035927,nv,0,27d646bd040e1174e5b5b3aa5386b976,IL_7270791,,,,MILK study team
+ISIC_0035928,nv,0,846f880d8b0731853998f1366d8940cc,IL_9990846,,,,MILK study team
+ISIC_0035929,mel,1,5205e52881461e602dee50bc6e299616,IL_3853635,male,55.0,Lower extremity,MILK study team
+ISIC_0035930,nv,0,57cad4d41afe647082c90d9cf21032a2,IL_7251846,,,,MILK study team
+ISIC_0035931,vasc,5,1f0997b737028d6a2f46cc13a2d18ed2,IL_2160413,male,65.0,Trunk,MILK study team
+ISIC_0035932,bkl,2,72c8d74da4b52190912330a8a8e2fd13,IL_0693769,,,,MILK study team
+ISIC_0035933,bcc,3,15f20aa304b0ad4069f721c513d8275a,IL_8539509,,,,MILK study team
+ISIC_0035934,mel,1,fb07a31355554cd11ba3979487288048,IL_5267427,male,55.0,,MILK study team
+ISIC_0035935,nv,0,8429aedad5e21891db6e40988d50a3dc,IL_1870777,female,25.0,,MILK study team
+ISIC_0035936,nv,0,58acb6e53bb719335b21739c3fbdf4dd,IL_2012452,female,15.0,Upper extremity,MILK study team
+ISIC_0035937,bkl,2,eb47b3dbaf8895bb3615dc56a69e3b7f,IL_3143772,,,,MILK study team
+ISIC_0035938,mel,1,624e96fad72749f68694daabf4a360d9,IL_8173383,male,50.0,Lower extremity,MILK study team
+ISIC_0035939,nv,0,d8cb75d306a513f2c4fcbeef345f5924,IL_0722833,female,25.0,Lower extremity,MILK study team
+ISIC_0035940,df,6,93d54f09207d581c268e7ce471401310,IL_9413629,female,50.0,Lower extremity,MILK study team
+ISIC_0035941,nv,0,794a06e421e46695d498bdbb6ea33ada,IL_1087504,female,45.0,Lower extremity,MILK study team
+ISIC_0035942,bcc,3,c88594b86e3e85aaf83066e27944d47e,IL_6282448,female,40.0,,MILK study team
+ISIC_0035943,nv,0,d08e282ba7461ad68aa06624cbd1f851,IL_7161164,male,80.0,Trunk,MILK study team
+ISIC_0035944,df,6,e57f3dcd63ee74e2b5f803428ea69d86,IL_8098417,,50.0,,MILK study team
+ISIC_0035945,nv,0,877073f0bfe5d641d5765286195685d6,IL_5318739,,,,MILK study team
+ISIC_0035946,vasc,5,0e32073a1a2c8f193ed0338a9751ca63,IL_0870342,,,,MILK study team
+ISIC_0035947,nv,0,6cecfd2220c7a6790c3c04d8212e91c7,IL_3586427,,,,MILK study team
+ISIC_0035948,nv,0,b69aa64ae400c178c22e51dfc2f236b2,IL_2012452,female,15.0,Upper extremity,MILK study team
+ISIC_0035949,bkl,2,88763740000e9821172bbdf924c10785,IL_0565664,,,,MILK study team
+ISIC_0035950,bkl,2,fd9f5fc7d342cd917dc42a069f5be6aa,IL_4864354,,,,MILK study team
+ISIC_0035951,nv,0,c7f7d73d0e8bdff359f785e10616eb2f,IL_3588176,female,55.0,Lower extremity,MILK study team
+ISIC_0035952,vasc,5,1db2626aa9efee8c4f5ccb0fd10daa04,IL_3723954,,,,MILK study team
+ISIC_0035953,bkl,2,3091e0e50805d0b637dbb184e5729134,IL_5665806,female,15.0,Trunk,MILK study team
+ISIC_0035954,nv,0,34f949f270e1787478a0f30c6309bbd2,IL_0973739,,,,MILK study team
+ISIC_0035955,df,6,1dcb8d67d25624140019f6822357d6b6,IL_9413629,female,50.0,Lower extremity,MILK study team
+ISIC_0035956,mel,1,ab9eb7acaeee43214da0b30f648067df,IL_3376861,male,70.0,Head and neck,MILK study team
+ISIC_0035957,bcc,3,e63d6f64124d4dd84bb7cb8d2064602a,IL_7390451,male,70.0,Trunk,MILK study team
+ISIC_0035958,nv,0,de3411bbb866c0148561d74d903adc70,IL_0625374,female,20.0,Trunk,MILK study team
+ISIC_0035959,bkl,2,cff91d71d1fc11526ab40a1697cc3e85,IL_5153342,female,75.0,,MILK study team
+ISIC_0035960,bcc,3,00d0319aca5cb14008449de7cd9ab9c6,IL_2988138,female,45.0,,MILK study team
+ISIC_0035961,nv,0,dcfd00fb1105793849051214fe9bc36f,IL_9250210,female,20.0,Lower extremity,MILK study team
+ISIC_0035962,nv,0,4082e0565ec1e2739168f6f0505276b9,IL_9395839,,45.0,Trunk,MILK study team
+ISIC_0035963,nv,0,acbd39caf91f6a9d0b4d2f800bfe1b68,IL_4514039,male,30.0,Trunk,MILK study team
+ISIC_0035964,mel,1,aeb9e697a4f7b9a1bd99d40d9f9ee49d,IL_2229268,male,60.0,Lower extremity,MILK study team
+ISIC_0035965,nv,0,5ff577839f8e465f2867a8551a9d3093,IL_3909790,,,,MILK study team
+ISIC_0035966,nv,0,9d3259be626ce42cb923ec70c14562b7,IL_4701281,male,40.0,Trunk,MILK study team
+ISIC_0035967,nv,0,cd3e15fdc45aa241bc65d539a82abcda,IL_9395839,,45.0,Trunk,MILK study team
+ISIC_0035968,mel,1,503d181a2a60a2e3d4b8ea5950bac3ba,IL_5720105,female,60.0,Trunk,MILK study team
+ISIC_0035969,nv,0,fe81f74aecba8f23e528ab11dc7863db,IL_7619230,female,35.0,Lower extremity,MILK study team
+ISIC_0035970,nv,0,429ce55bfa20ad73473c4156a35d8e41,IL_6986550,male,20.0,Trunk,MILK study team
+ISIC_0035971,nv,0,1d8deef63393769af964738145a2f8c0,IL_5534064,male,35.0,Trunk,MILK study team
+ISIC_0035972,nv,0,384ad4c9adc6abc2e671694169f76d25,IL_6645864,,,,MILK study team
+ISIC_0035973,nv,0,d0318c0522b60668c3672f5e3bdff2c2,IL_8201856,,,,MILK study team
+ISIC_0035974,nv,0,52429d98fd6be6ed5ca2980129bca20e,IL_3952133,male,65.0,Trunk,MILK study team
+ISIC_0035975,nv,0,a60747a9913dd1fafed578e894433b1b,IL_5534064,male,35.0,Trunk,MILK study team
+ISIC_0035976,bcc,3,25c4fbd2bc89e2d85bf864e05b69cd35,IL_6449030,,,,MILK study team
+ISIC_0035977,bcc,3,e8cc7cc3e88ae02249cade7ecf9db782,IL_9093335,male,65.0,Upper extremity,MILK study team
+ISIC_0035978,nv,0,68beb78066a5cf902178c422565f29ba,IL_1558425,female,25.0,Lower extremity,MILK study team
+ISIC_0035979,nv,0,4e9b394830163c0815b53f111e2aca8b,IL_9343687,male,30.0,Trunk,MILK study team
+ISIC_0035980,nv,0,1d837915698ba20e398467bd2527baa2,IL_4320336,male,50.0,Trunk,MILK study team
+ISIC_0035981,nv,0,2d3b023a8c0d750811c075c0300940df,IL_4303390,,,,MILK study team
+ISIC_0035982,df,6,39a8f32d4cc51fcd096bb281220abc40,IL_0868364,female,45.0,Lower extremity,MILK study team
+ISIC_0035983,nv,0,7731652aefceebaf1044c54903f11751,IL_8056568,,,,MILK study team
+ISIC_0035984,nv,0,9a840165ac631d4efe949ff72b1709e7,IL_1538944,male,40.0,Trunk,MILK study team
+ISIC_0035985,nv,0,363e2c96ab3cbc624e1bb5a5958a5855,IL_9250210,female,20.0,Lower extremity,MILK study team
+ISIC_0035986,mel,1,b4139661d99f7033f728c495f40b35a0,IL_9689352,female,55.0,Upper extremity,MILK study team
+ISIC_0035987,nv,0,9bf708bd9744f31226ec1005afd6df0e,IL_0333072,,,,MILK study team
+ISIC_0035988,nv,0,a72229d9e6be840703eb42d679c36b22,IL_4214713,,,,MILK study team
+ISIC_0035989,nv,0,a37bae6bb641893ec3bb7084fbe52118,IL_0854419,,,,MILK study team
+ISIC_0035990,nv,0,ed23e87be14164c890b006bbef680a53,IL_1421594,,,,MILK study team
+ISIC_0035991,nv,0,985e60ca491485481c3abc47bfd872e8,IL_3912180,,,,MILK study team
+ISIC_0035992,mel,1,901436a08e38d054362b232c430fe78c,IL_6860187,,,,MILK study team
+ISIC_0035993,bkl,2,9be20f69e78f7e17c5e1a285feb2ad29,IL_4190450,female,40.0,Head and neck,MILK study team
+ISIC_0035994,nv,0,5dc70c9d023a5167b835b3e4c1cec36c,IL_0966806,male,65.0,Trunk,MILK study team
+ISIC_0035995,nv,0,c293f60004d94f46dee91c4a9c91c74f,IL_7161164,male,80.0,Trunk,MILK study team
+ISIC_0035996,bkl,2,2f2c1a64d662449e7a733de26ac1e3fb,IL_3928702,,,,MILK study team
+ISIC_0035997,mel,1,2b95bc29c63cc681c90d78e1300d5e0e,IL_9464138,female,30.0,,MILK study team
+ISIC_0035998,nv,0,bf69e63d9f9aea9e006a806a8669f3bf,IL_6219081,,,,MILK study team
+ISIC_0035999,nv,0,119422141601531bdc931db39ef81634,IL_0822032,,,,MILK study team
+ISIC_0036000,vasc,5,d16177db40cf1b11219f79ffc1c05c51,IL_5957733,,,,MILK study team
+ISIC_0036001,nv,0,debd01226ede2f45db78cc0f813e3b48,IL_7892817,,,,MILK study team
+ISIC_0036002,bcc,3,f412143b36003ea9ece306bad85e50d1,IL_6208681,,,,MILK study team
+ISIC_0036003,bkl,2,663f880dc544a279798452dfa19b04a3,IL_8565147,,,,MILK study team
+ISIC_0036004,bcc,3,740b99690ace5934e3a30960aaedd16e,IL_3818474,,,,MILK study team
+ISIC_0036005,mel,1,f0627b630329d6961137d7a783ab13b8,IL_3853635,male,55.0,Lower extremity,MILK study team
+ISIC_0036006,bcc,3,d040498ceee14094fc8131f3b2e07b5d,IL_7800249,,,,MILK study team
+ISIC_0036007,df,6,70ca1795a8886fd7f6b2eef0fd7d77e6,IL_6044165,,,,MILK study team
+ISIC_0036008,bkl,2,fc3a9edc49a6bc404cc2082b86e2e2c9,IL_0989429,,,,MILK study team
+ISIC_0036009,bcc,3,bb275033acb46fc58841b775ade0a2bc,IL_4682325,,,,MILK study team
+ISIC_0036010,nv,0,40f16c20ba8a6c95f0b1d66350945d06,IL_0722833,female,25.0,Lower extremity,MILK study team
+ISIC_0036011,bcc,3,98527f3cfdb17d989c280009ffe1ccd6,IL_1229051,,,,MILK study team
+ISIC_0036012,mel,1,d90912d7571f8e5e3cefa0fd9d157d46,IL_6190273,male,70.0,Upper extremity,MILK study team
+ISIC_0036013,nv,0,a4ee21d163cae2b141308f85ab5eea13,IL_4783389,female,25.0,Trunk,MILK study team
+ISIC_0036014,nv,0,00f0db30394abad4d79287e54ac65ca5,IL_0064725,,,,MILK study team
+ISIC_0036015,bkl,2,8904e3564e2d559e39774fa377209b34,IL_5248233,,,,MILK study team
+ISIC_0036016,bcc,3,fd87770af24608a1ab5c91464aec3dd8,IL_1752453,male,85.0,Lower extremity,MILK study team
+ISIC_0036017,nv,0,dda7c23dab943d18a0d7c58660a0fada,IL_2685477,female,45.0,,MILK study team
+ISIC_0036018,df,6,1607087fa43072415880080bc552baee,IL_7124843,,,,MILK study team
+ISIC_0036019,bkl,2,4d69bc492206e23d0d852ea258766341,IL_3148585,,,,MILK study team
+ISIC_0036020,nv,0,773ed58f5e7ade146d7440f75ef25082,IL_8931844,female,45.0,Trunk,MILK study team
+ISIC_0036021,bkl,2,8ffed77a3c041c91da0b4cb8b53f8d4b,IL_5090465,,,,MILK study team
+ISIC_0036022,bcc,3,024605c260ea65d324e255c3d7f27b0f,IL_9093335,male,65.0,Upper extremity,MILK study team
+ISIC_0036023,bkl,2,29812f9ec71a2db35c801e5e4367c0a0,IL_2537873,,,,MILK study team
+ISIC_0036024,nv,0,8f0ef88e53c02eef63476cdf82b3ce47,IL_2720895,,,,MILK study team
+ISIC_0036025,bkl,2,1989e34313af1974cbcaa43bb7021750,IL_9473685,male,65.0,Head and neck,MILK study team
+ISIC_0036026,mel,1,7182d159aba3c61d1be227fa95bb48dd,IL_7002441,,,,MILK study team
+ISIC_0036027,nv,0,58c67e27fd9201ef66dcccfc8530ce2f,IL_8662728,,,,MILK study team
+ISIC_0036028,nv,0,fd562d07d5105a0e47a1794273dbaf17,IL_2230039,,,,MILK study team
+ISIC_0036029,mel,1,4be9cf2aab1d982e2ea7831df403fcc7,IL_5084195,,,,MILK study team
+ISIC_0036030,nv,0,e3ff56e5fecd5e1c6c56351d9ccccae4,IL_1077349,male,10.0,Lower extremity,MILK study team
+ISIC_0036031,bcc,3,a7a311bc697f0fb948dc93747724ebaa,IL_9654980,male,65.0,,MILK study team
+ISIC_0036032,bkl,2,844ff467656213284615d8c773e833cc,IL_9440413,female,65.0,Head and neck,MILK study team
+ISIC_0036033,nv,0,a2ef4529bd337bb5807d73a0d8690db2,IL_1641012,male,55.0,Trunk,MILK study team
+ISIC_0036034,mel,1,f69da0c45853c5ff54b09d720542227a,IL_2188977,female,75.0,,MILK study team
+ISIC_0036035,bcc,3,a2ba469b6d33d1a39eee1686de86ee66,IL_1836657,,,,MILK study team
+ISIC_0036036,nv,0,0fce7c7e3e65f335e1c26623afb8859a,IL_8591040,,75.0,,MILK study team
+ISIC_0036037,nv,0,aa002005040076b2dbcff6f3592ba22b,IL_0927272,,,,MILK study team
+ISIC_0036038,nv,0,4f66c6ea2e612ba66e3f660d978ae965,IL_3588176,female,55.0,Lower extremity,MILK study team
+ISIC_0036039,nv,0,34e36bd3f0093172924579a93bc06be0,IL_8287984,male,20.0,Head and neck,MILK study team
+ISIC_0036040,nv,0,05b7f98d6fea979077e651f0e02aad2f,IL_2183285,,,,MILK study team
+ISIC_0036041,nv,0,fd576d324e02e67dbc199a747ef51ff4,IL_9242659,female,45.0,Lower extremity,MILK study team
+ISIC_0036042,nv,0,c88dcaa8541a514c57902cd447e858a7,IL_4405678,,25.0,,MILK study team
+ISIC_0036043,bkl,2,801d11d4961067dae8ade6c7d5b3f82f,IL_9473685,male,65.0,Head and neck,MILK study team
+ISIC_0036044,nv,0,0cc8e16f70f265645bc02d12a9d5a33e,IL_7619230,female,35.0,Lower extremity,MILK study team
+ISIC_0036045,nv,0,102d81e39a2faa0cfd6a598fd1db92b0,IL_1641012,male,55.0,Trunk,MILK study team
+ISIC_0036046,nv,0,53e789a1f2e60de3067fa2b43bf611d6,IL_2969346,male,40.0,,MILK study team
+ISIC_0036047,nv,0,8da662ebc7c2b699bbbf7a97b3f1eec1,IL_4061949,male,5.0,Trunk,MILK study team
+ISIC_0036048,nv,0,eedb949db96b8aefe0964ce2764bb0ac,IL_4618182,,,,MILK study team
+ISIC_0036049,nv,0,281baf61658228119d00ada21d41e9e0,IL_4701281,male,40.0,Trunk,MILK study team
+ISIC_0036050,bkl,2,e7bd9a5d586bc91536db858f9875699f,IL_5920653,,,,MILK study team
+ISIC_0036051,mel,1,ce23ab8eb2c691ddfa8fb4958f5a10d3,IL_5470919,male,70.0,Trunk,MILK study team
+ISIC_0036052,nv,0,4c477800390920815df822790334b9d1,IL_6933526,,,,MILK study team
+ISIC_0036053,bkl,2,23b3a325c8c27d9b1b0d10bdc742465c,IL_1717276,male,50.0,Trunk,MILK study team
+ISIC_0036054,nv,0,777b711701df698d3432db5bb0b63a25,IL_4190944,,,,MILK study team
+ISIC_0036055,nv,0,5652d7a2a4c1efb049166b5516e1ce91,IL_5271222,,40.0,,MILK study team
+ISIC_0036056,mel,1,132ccfa9e0d3eda17d62a643fa80e538,IL_6937580,female,30.0,,MILK study team
+ISIC_0036057,mel,1,da3630339a41a9864cdda5c8c8defd4b,IL_2431420,female,25.0,Upper extremity,MILK study team
+ISIC_0036058,nv,0,724461a65073e6b6df259e4eae28da41,IL_2755520,,,,MILK study team
+ISIC_0036059,nv,0,e195c2f6441929835693c358fe97bb4f,IL_8956744,male,55.0,,MILK study team
+ISIC_0036060,bkl,2,c9e4fdc27d40652089f53e2598403255,IL_5218936,,,,MILK study team
+ISIC_0036061,nv,0,b21147f34a16da2237b1f7fdee0e3874,IL_5893216,,,,MILK study team
+ISIC_0036062,akiec,4,b771135e520069b552350c2e9b0014be,IL_9294619,female,70.0,Head and neck,MILK study team
+ISIC_0036063,bkl,2,57c429b40eddca2902c0b6b58b610220,IL_6088695,,,,MILK study team
+ISIC_0036064,bcc,3,dc62f8c47f592c1a35c2863ba250b9e2,IL_4973744,,,,MILK study team
